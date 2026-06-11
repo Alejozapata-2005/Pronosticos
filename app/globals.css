@@ -1,0 +1,65 @@
+@import "tailwindcss";
+
+:root {
+  --background: #06080b;
+  --foreground: #f1f5f9;
+  
+  --card-bg: #0d1117;
+  --card-border: #1f2937;
+  --accent-green: #00ff66;
+  --accent-yellow: #ffb300;
+  --accent-blue: #2979ff;
+  --accent-red: #ff1744;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card-bg: var(--card-bg);
+  --color-card-border: var(--card-border);
+  --color-accent-green: var(--accent-green);
+  --color-accent-yellow: var(--accent-yellow);
+  --color-accent-blue: var(--accent-blue);
+  --color-accent-red: var(--accent-red);
+  
+  --font-sans: var(--font-sans), system-ui, sans-serif;
+  --font-mono: var(--font-mono), monospace;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans);
+}
+
+/* Custom Sports Terminal Glow and Utilities */
+.terminal-glow {
+  box-shadow: 0 0 15px rgba(0, 255, 102, 0.05);
+}
+
+.terminal-border {
+  border: 1px solid var(--card-border);
+}
+
+.font-terminal {
+  font-family: var(--font-mono);
+}
+
+/* Scrollbar styling */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #06080b;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #1f2937;
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #374151;
+}

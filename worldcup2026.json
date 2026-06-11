@@ -1,0 +1,3280 @@
+{
+  "teams": [
+    {
+      "id": "USA",
+      "name": "Estados Unidos",
+      "code": "USA",
+      "flag": "🇺🇸",
+      "group_letter": "A",
+      "fifa_ranking": 11,
+      "off_strength": 1.6,
+      "def_strength": 0.9
+    },
+    {
+      "id": "COL",
+      "name": "Colombia",
+      "code": "COL",
+      "flag": "🇨🇴",
+      "group_letter": "A",
+      "fifa_ranking": 12,
+      "off_strength": 1.7,
+      "def_strength": 0.8
+    },
+    {
+      "id": "SEN",
+      "name": "Senegal",
+      "code": "SEN",
+      "flag": "🇸🇳",
+      "group_letter": "A",
+      "fifa_ranking": 18,
+      "off_strength": 1.4,
+      "def_strength": 0.9
+    },
+    {
+      "id": "NZL",
+      "name": "Nueva Zelanda",
+      "code": "NZL",
+      "flag": "🇳🇿",
+      "group_letter": "A",
+      "fifa_ranking": 74,
+      "off_strength": 0.9,
+      "def_strength": 1.4
+    },
+    {
+      "id": "MEX",
+      "name": "México",
+      "code": "MEX",
+      "flag": "🇲🇽",
+      "group_letter": "B",
+      "fifa_ranking": 15,
+      "off_strength": 1.4,
+      "def_strength": 1
+    },
+    {
+      "id": "ITA",
+      "name": "Italia",
+      "code": "ITA",
+      "flag": "🇮🇹",
+      "group_letter": "B",
+      "fifa_ranking": 9,
+      "off_strength": 1.8,
+      "def_strength": 0.7
+    },
+    {
+      "id": "MAR",
+      "name": "Marruecos",
+      "code": "MAR",
+      "flag": "🇲🇦",
+      "group_letter": "B",
+      "fifa_ranking": 13,
+      "off_strength": 1.5,
+      "def_strength": 0.8
+    },
+    {
+      "id": "UZB",
+      "name": "Uzbekistán",
+      "code": "UZB",
+      "flag": "🇺🇿",
+      "group_letter": "B",
+      "fifa_ranking": 66,
+      "off_strength": 1,
+      "def_strength": 1.2
+    },
+    {
+      "id": "CAN",
+      "name": "Canadá",
+      "code": "CAN",
+      "flag": "🇨🇦",
+      "group_letter": "C",
+      "fifa_ranking": 40,
+      "off_strength": 1.3,
+      "def_strength": 1.1
+    },
+    {
+      "id": "GER",
+      "name": "Alemania",
+      "code": "GER",
+      "flag": "🇩🇪",
+      "group_letter": "C",
+      "fifa_ranking": 16,
+      "off_strength": 2.1,
+      "def_strength": 0.9
+    },
+    {
+      "id": "EGY",
+      "name": "Egipto",
+      "code": "EGY",
+      "flag": "🇪🇬",
+      "group_letter": "C",
+      "fifa_ranking": 36,
+      "off_strength": 1.2,
+      "def_strength": 1
+    },
+    {
+      "id": "AUS",
+      "name": "Australia",
+      "code": "AUS",
+      "flag": "🇦🇺",
+      "group_letter": "C",
+      "fifa_ranking": 24,
+      "off_strength": 1.2,
+      "def_strength": 1.1
+    },
+    {
+      "id": "ARG",
+      "name": "Argentina",
+      "code": "ARG",
+      "flag": "🇦🇷",
+      "group_letter": "D",
+      "fifa_ranking": 1,
+      "off_strength": 2.4,
+      "def_strength": 0.5
+    },
+    {
+      "id": "DEN",
+      "name": "Dinamarca",
+      "code": "DEN",
+      "flag": "🇩🇰",
+      "group_letter": "D",
+      "fifa_ranking": 21,
+      "off_strength": 1.5,
+      "def_strength": 0.9
+    },
+    {
+      "id": "ALG",
+      "name": "Argelia",
+      "code": "ALG",
+      "flag": "🇩🇿",
+      "group_letter": "D",
+      "fifa_ranking": 43,
+      "off_strength": 1.2,
+      "def_strength": 1.1
+    },
+    {
+      "id": "JAM",
+      "name": "Jamaica",
+      "code": "JAM",
+      "flag": "🇯🇲",
+      "group_letter": "D",
+      "fifa_ranking": 55,
+      "off_strength": 1.1,
+      "def_strength": 1.3
+    },
+    {
+      "id": "BRA",
+      "name": "Brasil",
+      "code": "BRA",
+      "flag": "🇧🇷",
+      "group_letter": "E",
+      "fifa_ranking": 5,
+      "off_strength": 2.3,
+      "def_strength": 0.6
+    },
+    {
+      "id": "POL",
+      "name": "Polonia",
+      "code": "POL",
+      "flag": "🇵🇱",
+      "group_letter": "E",
+      "fifa_ranking": 30,
+      "off_strength": 1.3,
+      "def_strength": 1.1
+    },
+    {
+      "id": "JPN",
+      "name": "Japón",
+      "code": "JPN",
+      "flag": "🇯🇵",
+      "group_letter": "E",
+      "fifa_ranking": 17,
+      "off_strength": 1.7,
+      "def_strength": 0.8
+    },
+    {
+      "id": "HON",
+      "name": "Honduras",
+      "code": "HON",
+      "flag": "🇭🇳",
+      "group_letter": "E",
+      "fifa_ranking": 78,
+      "off_strength": 0.8,
+      "def_strength": 1.4
+    },
+    {
+      "id": "FRA",
+      "name": "Francia",
+      "code": "FRA",
+      "flag": "🇫🇷",
+      "group_letter": "F",
+      "fifa_ranking": 2,
+      "off_strength": 2.5,
+      "def_strength": 0.6
+    },
+    {
+      "id": "ECU",
+      "name": "Ecuador",
+      "code": "ECU",
+      "flag": "🇪🇨",
+      "group_letter": "F",
+      "fifa_ranking": 27,
+      "off_strength": 1.4,
+      "def_strength": 0.8
+    },
+    {
+      "id": "KOR",
+      "name": "Corea del Sur",
+      "code": "KOR",
+      "flag": "🇰🇷",
+      "group_letter": "F",
+      "fifa_ranking": 22,
+      "off_strength": 1.4,
+      "def_strength": 1
+    },
+    {
+      "id": "PAN",
+      "name": "Panamá",
+      "code": "PAN",
+      "flag": "🇵🇦",
+      "group_letter": "F",
+      "fifa_ranking": 41,
+      "off_strength": 1.1,
+      "def_strength": 1.2
+    },
+    {
+      "id": "ENG",
+      "name": "Inglaterra",
+      "code": "ENG",
+      "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "group_letter": "G",
+      "fifa_ranking": 4,
+      "off_strength": 2.3,
+      "def_strength": 0.7
+    },
+    {
+      "id": "URU",
+      "name": "Uruguay",
+      "code": "URU",
+      "flag": "🇺🇾",
+      "group_letter": "G",
+      "fifa_ranking": 14,
+      "off_strength": 1.8,
+      "def_strength": 0.8
+    },
+    {
+      "id": "TUN",
+      "name": "Túnez",
+      "code": "TUN",
+      "flag": "🇹🇳",
+      "group_letter": "G",
+      "fifa_ranking": 47,
+      "off_strength": 1,
+      "def_strength": 1.1
+    },
+    {
+      "id": "IRQ",
+      "name": "Irak",
+      "code": "IRQ",
+      "flag": "🇮🇶",
+      "group_letter": "G",
+      "fifa_ranking": 58,
+      "off_strength": 1,
+      "def_strength": 1.3
+    },
+    {
+      "id": "ESP",
+      "name": "España",
+      "code": "ESP",
+      "flag": "🇪🇸",
+      "group_letter": "H",
+      "fifa_ranking": 3,
+      "off_strength": 2.4,
+      "def_strength": 0.6
+    },
+    {
+      "id": "CHI",
+      "name": "Chile",
+      "code": "CHI",
+      "flag": "🇨🇱",
+      "group_letter": "H",
+      "fifa_ranking": 42,
+      "off_strength": 1.2,
+      "def_strength": 1
+    },
+    {
+      "id": "NGA",
+      "name": "Nigeria",
+      "code": "NGA",
+      "flag": "🇳🇬",
+      "group_letter": "H",
+      "fifa_ranking": 28,
+      "off_strength": 1.4,
+      "def_strength": 1
+    },
+    {
+      "id": "KSA",
+      "name": "Arabia Saudita",
+      "code": "KSA",
+      "flag": "🇸🇦",
+      "group_letter": "H",
+      "fifa_ranking": 56,
+      "off_strength": 1,
+      "def_strength": 1.3
+    },
+    {
+      "id": "POR",
+      "name": "Portugal",
+      "code": "POR",
+      "flag": "🇵🇹",
+      "group_letter": "I",
+      "fifa_ranking": 8,
+      "off_strength": 2.2,
+      "def_strength": 0.7
+    },
+    {
+      "id": "SUI",
+      "name": "Suiza",
+      "code": "SUI",
+      "flag": "🇨🇭",
+      "group_letter": "I",
+      "fifa_ranking": 19,
+      "off_strength": 1.4,
+      "def_strength": 0.8
+    },
+    {
+      "id": "CIV",
+      "name": "Costa de Marfil",
+      "code": "CIV",
+      "flag": "🇨🇮",
+      "group_letter": "I",
+      "fifa_ranking": 35,
+      "off_strength": 1.3,
+      "def_strength": 1
+    },
+    {
+      "id": "CHN",
+      "name": "China",
+      "code": "CHN",
+      "flag": "🇨🇳",
+      "group_letter": "I",
+      "fifa_ranking": 80,
+      "off_strength": 0.8,
+      "def_strength": 1.5
+    },
+    {
+      "id": "NED",
+      "name": "Países Bajos",
+      "code": "NED",
+      "flag": "🇳🇱",
+      "group_letter": "J",
+      "fifa_ranking": 7,
+      "off_strength": 2,
+      "def_strength": 0.7
+    },
+    {
+      "id": "PER",
+      "name": "Perú",
+      "code": "PER",
+      "flag": "🇵🇪",
+      "group_letter": "J",
+      "fifa_ranking": 38,
+      "off_strength": 1.1,
+      "def_strength": 0.9
+    },
+    {
+      "id": "GHA",
+      "name": "Ghana",
+      "code": "GHA",
+      "flag": "🇬🇭",
+      "group_letter": "J",
+      "fifa_ranking": 50,
+      "off_strength": 1.2,
+      "def_strength": 1.1
+    },
+    {
+      "id": "IRN",
+      "name": "Irán",
+      "code": "IRN",
+      "flag": "🇮🇷",
+      "group_letter": "J",
+      "fifa_ranking": 20,
+      "off_strength": 1.3,
+      "def_strength": 1
+    },
+    {
+      "id": "BEL",
+      "name": "Bélgica",
+      "code": "BEL",
+      "flag": "🇧🇪",
+      "group_letter": "K",
+      "fifa_ranking": 6,
+      "off_strength": 1.9,
+      "def_strength": 0.8
+    },
+    {
+      "id": "CRO",
+      "name": "Croacia",
+      "code": "CRO",
+      "flag": "🇭🇷",
+      "group_letter": "K",
+      "fifa_ranking": 10,
+      "off_strength": 1.7,
+      "def_strength": 0.8
+    },
+    {
+      "id": "CMR",
+      "name": "Camerún",
+      "code": "CMR",
+      "flag": "🇨🇲",
+      "group_letter": "K",
+      "fifa_ranking": 49,
+      "off_strength": 1.2,
+      "def_strength": 1.1
+    },
+    {
+      "id": "CRC",
+      "name": "Costa Rica",
+      "code": "CRC",
+      "flag": "🇨🇷",
+      "group_letter": "K",
+      "fifa_ranking": 52,
+      "off_strength": 1,
+      "def_strength": 1.2
+    },
+    {
+      "id": "AUT",
+      "name": "Austria",
+      "code": "AUT",
+      "flag": "🇦🇹",
+      "group_letter": "L",
+      "fifa_ranking": 23,
+      "off_strength": 1.5,
+      "def_strength": 0.9
+    },
+    {
+      "id": "TUR",
+      "name": "Turquía",
+      "code": "TUR",
+      "flag": "🇹🇷",
+      "group_letter": "L",
+      "fifa_ranking": 26,
+      "off_strength": 1.5,
+      "def_strength": 1
+    },
+    {
+      "id": "SRB",
+      "name": "Serbia",
+      "code": "SRB",
+      "flag": "🇷🇸",
+      "group_letter": "L",
+      "fifa_ranking": 32,
+      "off_strength": 1.4,
+      "def_strength": 1.1
+    },
+    {
+      "id": "UKR",
+      "name": "Ucrania",
+      "code": "UKR",
+      "flag": "🇺🇦",
+      "group_letter": "L",
+      "fifa_ranking": 25,
+      "off_strength": 1.4,
+      "def_strength": 1
+    }
+  ],
+  "players": [
+    {
+      "id": 1,
+      "team_id": "ARG",
+      "name": "Lionel Messi",
+      "position": "FW",
+      "goal_ratio": 0.012
+    },
+    {
+      "id": 2,
+      "team_id": "ARG",
+      "name": "Lautaro Martínez",
+      "position": "FW",
+      "goal_ratio": 0.009
+    },
+    {
+      "id": 3,
+      "team_id": "ARG",
+      "name": "Julián Álvarez",
+      "position": "FW",
+      "goal_ratio": 0.008
+    },
+    {
+      "id": 4,
+      "team_id": "FRA",
+      "name": "Kylian Mbappé",
+      "position": "FW",
+      "goal_ratio": 0.013
+    },
+    {
+      "id": 5,
+      "team_id": "FRA",
+      "name": "Antoine Griezmann",
+      "position": "MF",
+      "goal_ratio": 0.006
+    },
+    {
+      "id": 6,
+      "team_id": "FRA",
+      "name": "Olivier Giroud",
+      "position": "FW",
+      "goal_ratio": 0.008
+    },
+    {
+      "id": 7,
+      "team_id": "BRA",
+      "name": "Vinícius Júnior",
+      "position": "FW",
+      "goal_ratio": 0.009
+    },
+    {
+      "id": 8,
+      "team_id": "BRA",
+      "name": "Rodrygo",
+      "position": "FW",
+      "goal_ratio": 0.007
+    },
+    {
+      "id": 9,
+      "team_id": "BRA",
+      "name": "Raphinha",
+      "position": "FW",
+      "goal_ratio": 0.006
+    },
+    {
+      "id": 10,
+      "team_id": "ENG",
+      "name": "Harry Kane",
+      "position": "FW",
+      "goal_ratio": 0.012
+    },
+    {
+      "id": 11,
+      "team_id": "ENG",
+      "name": "Bukayo Saka",
+      "position": "FW",
+      "goal_ratio": 0.008
+    },
+    {
+      "id": 12,
+      "team_id": "ENG",
+      "name": "Jude Bellingham",
+      "position": "MF",
+      "goal_ratio": 0.007
+    },
+    {
+      "id": 13,
+      "team_id": "POR",
+      "name": "Cristiano Ronaldo",
+      "position": "FW",
+      "goal_ratio": 0.011
+    },
+    {
+      "id": 14,
+      "team_id": "POR",
+      "name": "Bruno Fernandes",
+      "position": "MF",
+      "goal_ratio": 0.007
+    },
+    {
+      "id": 15,
+      "team_id": "ESP",
+      "name": "Lamine Yamal",
+      "position": "FW",
+      "goal_ratio": 0.006
+    },
+    {
+      "id": 16,
+      "team_id": "ESP",
+      "name": "Álvaro Morata",
+      "position": "FW",
+      "goal_ratio": 0.008
+    },
+    {
+      "id": 17,
+      "team_id": "ESP",
+      "name": "Nico Williams",
+      "position": "FW",
+      "goal_ratio": 0.007
+    },
+    {
+      "id": 18,
+      "team_id": "COL",
+      "name": "Luis Díaz",
+      "position": "FW",
+      "goal_ratio": 0.007
+    },
+    {
+      "id": 19,
+      "team_id": "COL",
+      "name": "James Rodríguez",
+      "position": "MF",
+      "goal_ratio": 0.005
+    },
+    {
+      "id": 20,
+      "team_id": "USA",
+      "name": "Christian Pulisic",
+      "position": "FW",
+      "goal_ratio": 0.007
+    },
+    {
+      "id": 21,
+      "team_id": "URU",
+      "name": "Darwin Núñez",
+      "position": "FW",
+      "goal_ratio": 0.009
+    },
+    {
+      "id": 22,
+      "team_id": "GER",
+      "name": "Jamal Musiala",
+      "position": "MF",
+      "goal_ratio": 0.007
+    },
+    {
+      "id": 23,
+      "team_id": "GER",
+      "name": "Kai Havertz",
+      "position": "FW",
+      "goal_ratio": 0.008
+    },
+    {
+      "id": 24,
+      "team_id": "NOR",
+      "name": "Erling Haaland",
+      "position": "FW",
+      "goal_ratio": 0.014
+    },
+    {
+      "id": 25,
+      "team_id": "SEN",
+      "name": "Goleador SEN 1",
+      "position": "FW",
+      "goal_ratio": 0.006
+    },
+    {
+      "id": 26,
+      "team_id": "SEN",
+      "name": "Goleador SEN 2",
+      "position": "FW",
+      "goal_ratio": 0.004
+    },
+    {
+      "id": 27,
+      "team_id": "NZL",
+      "name": "Goleador NZL 1",
+      "position": "FW",
+      "goal_ratio": 0.006
+    },
+    {
+      "id": 28,
+      "team_id": "NZL",
+      "name": "Goleador NZL 2",
+      "position": "FW",
+      "goal_ratio": 0.004
+    },
+    {
+      "id": 29,
+      "team_id": "MEX",
+      "name": "Goleador MEX 1",
+      "position": "FW",
+      "goal_ratio": 0.006
+    },
+    {
+      "id": 30,
+      "team_id": "MEX",
+      "name": "Goleador MEX 2",
+      "position": "FW",
+      "goal_ratio": 0.004
+    },
+    {
+      "id": 31,
+      "team_id": "ITA",
+      "name": "Goleador ITA 1",
+      "position": "FW",
+      "goal_ratio": 0.006
+    },
+    {
+      "id": 32,
+      "team_id": "ITA",
+      "name": "Goleador ITA 2",
+      "position": "FW",
+      "goal_ratio": 0.004
+    },
+    {
+      "id": 33,
+      "team_id": "MAR",
+      "name": "Goleador MAR 1",
+      "position": "FW",
+      "goal_ratio": 0.006
+    },
+    {
+      "id": 34,
+      "team_id": "MAR",
+      "name": "Goleador MAR 2",
+      "position": "FW",
+      "goal_ratio": 0.004
+    },
+    {
+      "id": 35,
+      "team_id": "UZB",
+      "name": "Goleador UZB 1",
+      "position": "FW",
+      "goal_ratio": 0.006
+    },
+    {
+      "id": 36,
+      "team_id": "UZB",
+      "name": "Goleador UZB 2",
+      "position": "FW",
+      "goal_ratio": 0.004
+    },
+    {
+      "id": 37,
+      "team_id": "CAN",
+      "name": "Goleador CAN 1",
+      "position": "FW",
+      "goal_ratio": 0.006
+    },
+    {
+      "id": 38,
+      "team_id": "CAN",
+      "name": "Goleador CAN 2",
+      "position": "FW",
+      "goal_ratio": 0.004
+    },
+    {
+      "id": 39,
+      "team_id": "EGY",
+      "name": "Goleador EGY 1",
+      "position": "FW",
+      "goal_ratio": 0.006
+    },
+    {
+      "id": 40,
+      "team_id": "EGY",
+      "name": "Goleador EGY 2",
+      "position": "FW",
+      "goal_ratio": 0.004
+    },
+    {
+      "id": 41,
+      "team_id": "AUS",
+      "name": "Goleador AUS 1",
+      "position": "FW",
+      "goal_ratio": 0.006
+    },
+    {
+      "id": 42,
+      "team_id": "AUS",
+      "name": "Goleador AUS 2",
+      "position": "FW",
+      "goal_ratio": 0.004
+    },
+    {
+      "id": 43,
+      "team_id": "DEN",
+      "name": "Goleador DEN 1",
+      "position": "FW",
+      "goal_ratio": 0.006
+    },
+    {
+      "id": 44,
+      "team_id": "DEN",
+      "name": "Goleador DEN 2",
+      "position": "FW",
+      "goal_ratio": 0.004
+    },
+    {
+      "id": 45,
+      "team_id": "ALG",
+      "name": "Goleador ALG 1",
+      "position": "FW",
+      "goal_ratio": 0.006
+    },
+    {
+      "id": 46,
+      "team_id": "ALG",
+      "name": "Goleador ALG 2",
+      "position": "FW",
+      "goal_ratio": 0.004
+    },
+    {
+      "id": 47,
+      "team_id": "JAM",
+      "name": "Goleador JAM 1",
+      "position": "FW",
+      "goal_ratio": 0.006
+    },
+    {
+      "id": 48,
+      "team_id": "JAM",
+      "name": "Goleador JAM 2",
+      "position": "FW",
+      "goal_ratio": 0.004
+    },
+    {
+      "id": 49,
+      "team_id": "POL",
+      "name": "Goleador POL 1",
+      "position": "FW",
+      "goal_ratio": 0.006
+    },
+    {
+      "id": 50,
+      "team_id": "POL",
+      "name": "Goleador POL 2",
+      "position": "FW",
+      "goal_ratio": 0.004
+    },
+    {
+      "id": 51,
+      "team_id": "JPN",
+      "name": "Goleador JPN 1",
+      "position": "FW",
+      "goal_ratio": 0.006
+    },
+    {
+      "id": 52,
+      "team_id": "JPN",
+      "name": "Goleador JPN 2",
+      "position": "FW",
+      "goal_ratio": 0.004
+    },
+    {
+      "id": 53,
+      "team_id": "HON",
+      "name": "Goleador HON 1",
+      "position": "FW",
+      "goal_ratio": 0.006
+    },
+    {
+      "id": 54,
+      "team_id": "HON",
+      "name": "Goleador HON 2",
+      "position": "FW",
+      "goal_ratio": 0.004
+    },
+    {
+      "id": 55,
+      "team_id": "ECU",
+      "name": "Goleador ECU 1",
+      "position": "FW",
+      "goal_ratio": 0.006
+    },
+    {
+      "id": 56,
+      "team_id": "ECU",
+      "name": "Goleador ECU 2",
+      "position": "FW",
+      "goal_ratio": 0.004
+    },
+    {
+      "id": 57,
+      "team_id": "KOR",
+      "name": "Goleador KOR 1",
+      "position": "FW",
+      "goal_ratio": 0.006
+    },
+    {
+      "id": 58,
+      "team_id": "KOR",
+      "name": "Goleador KOR 2",
+      "position": "FW",
+      "goal_ratio": 0.004
+    },
+    {
+      "id": 59,
+      "team_id": "PAN",
+      "name": "Goleador PAN 1",
+      "position": "FW",
+      "goal_ratio": 0.006
+    },
+    {
+      "id": 60,
+      "team_id": "PAN",
+      "name": "Goleador PAN 2",
+      "position": "FW",
+      "goal_ratio": 0.004
+    },
+    {
+      "id": 61,
+      "team_id": "TUN",
+      "name": "Goleador TUN 1",
+      "position": "FW",
+      "goal_ratio": 0.006
+    },
+    {
+      "id": 62,
+      "team_id": "TUN",
+      "name": "Goleador TUN 2",
+      "position": "FW",
+      "goal_ratio": 0.004
+    },
+    {
+      "id": 63,
+      "team_id": "IRQ",
+      "name": "Goleador IRQ 1",
+      "position": "FW",
+      "goal_ratio": 0.006
+    },
+    {
+      "id": 64,
+      "team_id": "IRQ",
+      "name": "Goleador IRQ 2",
+      "position": "FW",
+      "goal_ratio": 0.004
+    },
+    {
+      "id": 65,
+      "team_id": "CHI",
+      "name": "Goleador CHI 1",
+      "position": "FW",
+      "goal_ratio": 0.006
+    },
+    {
+      "id": 66,
+      "team_id": "CHI",
+      "name": "Goleador CHI 2",
+      "position": "FW",
+      "goal_ratio": 0.004
+    },
+    {
+      "id": 67,
+      "team_id": "NGA",
+      "name": "Goleador NGA 1",
+      "position": "FW",
+      "goal_ratio": 0.006
+    },
+    {
+      "id": 68,
+      "team_id": "NGA",
+      "name": "Goleador NGA 2",
+      "position": "FW",
+      "goal_ratio": 0.004
+    },
+    {
+      "id": 69,
+      "team_id": "KSA",
+      "name": "Goleador KSA 1",
+      "position": "FW",
+      "goal_ratio": 0.006
+    },
+    {
+      "id": 70,
+      "team_id": "KSA",
+      "name": "Goleador KSA 2",
+      "position": "FW",
+      "goal_ratio": 0.004
+    },
+    {
+      "id": 71,
+      "team_id": "SUI",
+      "name": "Goleador SUI 1",
+      "position": "FW",
+      "goal_ratio": 0.006
+    },
+    {
+      "id": 72,
+      "team_id": "SUI",
+      "name": "Goleador SUI 2",
+      "position": "FW",
+      "goal_ratio": 0.004
+    },
+    {
+      "id": 73,
+      "team_id": "CIV",
+      "name": "Goleador CIV 1",
+      "position": "FW",
+      "goal_ratio": 0.006
+    },
+    {
+      "id": 74,
+      "team_id": "CIV",
+      "name": "Goleador CIV 2",
+      "position": "FW",
+      "goal_ratio": 0.004
+    },
+    {
+      "id": 75,
+      "team_id": "CHN",
+      "name": "Goleador CHN 1",
+      "position": "FW",
+      "goal_ratio": 0.006
+    },
+    {
+      "id": 76,
+      "team_id": "CHN",
+      "name": "Goleador CHN 2",
+      "position": "FW",
+      "goal_ratio": 0.004
+    },
+    {
+      "id": 77,
+      "team_id": "NED",
+      "name": "Goleador NED 1",
+      "position": "FW",
+      "goal_ratio": 0.006
+    },
+    {
+      "id": 78,
+      "team_id": "NED",
+      "name": "Goleador NED 2",
+      "position": "FW",
+      "goal_ratio": 0.004
+    },
+    {
+      "id": 79,
+      "team_id": "PER",
+      "name": "Goleador PER 1",
+      "position": "FW",
+      "goal_ratio": 0.006
+    },
+    {
+      "id": 80,
+      "team_id": "PER",
+      "name": "Goleador PER 2",
+      "position": "FW",
+      "goal_ratio": 0.004
+    },
+    {
+      "id": 81,
+      "team_id": "GHA",
+      "name": "Goleador GHA 1",
+      "position": "FW",
+      "goal_ratio": 0.006
+    },
+    {
+      "id": 82,
+      "team_id": "GHA",
+      "name": "Goleador GHA 2",
+      "position": "FW",
+      "goal_ratio": 0.004
+    },
+    {
+      "id": 83,
+      "team_id": "IRN",
+      "name": "Goleador IRN 1",
+      "position": "FW",
+      "goal_ratio": 0.006
+    },
+    {
+      "id": 84,
+      "team_id": "IRN",
+      "name": "Goleador IRN 2",
+      "position": "FW",
+      "goal_ratio": 0.004
+    },
+    {
+      "id": 85,
+      "team_id": "BEL",
+      "name": "Goleador BEL 1",
+      "position": "FW",
+      "goal_ratio": 0.006
+    },
+    {
+      "id": 86,
+      "team_id": "BEL",
+      "name": "Goleador BEL 2",
+      "position": "FW",
+      "goal_ratio": 0.004
+    },
+    {
+      "id": 87,
+      "team_id": "CRO",
+      "name": "Goleador CRO 1",
+      "position": "FW",
+      "goal_ratio": 0.006
+    },
+    {
+      "id": 88,
+      "team_id": "CRO",
+      "name": "Goleador CRO 2",
+      "position": "FW",
+      "goal_ratio": 0.004
+    },
+    {
+      "id": 89,
+      "team_id": "CMR",
+      "name": "Goleador CMR 1",
+      "position": "FW",
+      "goal_ratio": 0.006
+    },
+    {
+      "id": 90,
+      "team_id": "CMR",
+      "name": "Goleador CMR 2",
+      "position": "FW",
+      "goal_ratio": 0.004
+    },
+    {
+      "id": 91,
+      "team_id": "CRC",
+      "name": "Goleador CRC 1",
+      "position": "FW",
+      "goal_ratio": 0.006
+    },
+    {
+      "id": 92,
+      "team_id": "CRC",
+      "name": "Goleador CRC 2",
+      "position": "FW",
+      "goal_ratio": 0.004
+    },
+    {
+      "id": 93,
+      "team_id": "AUT",
+      "name": "Goleador AUT 1",
+      "position": "FW",
+      "goal_ratio": 0.006
+    },
+    {
+      "id": 94,
+      "team_id": "AUT",
+      "name": "Goleador AUT 2",
+      "position": "FW",
+      "goal_ratio": 0.004
+    },
+    {
+      "id": 95,
+      "team_id": "TUR",
+      "name": "Goleador TUR 1",
+      "position": "FW",
+      "goal_ratio": 0.006
+    },
+    {
+      "id": 96,
+      "team_id": "TUR",
+      "name": "Goleador TUR 2",
+      "position": "FW",
+      "goal_ratio": 0.004
+    },
+    {
+      "id": 97,
+      "team_id": "SRB",
+      "name": "Goleador SRB 1",
+      "position": "FW",
+      "goal_ratio": 0.006
+    },
+    {
+      "id": 98,
+      "team_id": "SRB",
+      "name": "Goleador SRB 2",
+      "position": "FW",
+      "goal_ratio": 0.004
+    },
+    {
+      "id": 99,
+      "team_id": "UKR",
+      "name": "Goleador UKR 1",
+      "position": "FW",
+      "goal_ratio": 0.006
+    },
+    {
+      "id": 100,
+      "team_id": "UKR",
+      "name": "Goleador UKR 2",
+      "position": "FW",
+      "goal_ratio": 0.004
+    }
+  ],
+  "fixtures": [
+    {
+      "id": 1,
+      "home_team_id": "USA",
+      "away_team_id": "COL",
+      "date": "2026-06-11 12:00",
+      "status": "NS",
+      "home_score": null,
+      "away_score": null,
+      "group_letter": "A",
+      "round": "Group"
+    },
+    {
+      "id": 2,
+      "home_team_id": "SEN",
+      "away_team_id": "NZL",
+      "date": "2026-06-11 16:48",
+      "status": "NS",
+      "home_score": null,
+      "away_score": null,
+      "group_letter": "A",
+      "round": "Group"
+    },
+    {
+      "id": 3,
+      "home_team_id": "USA",
+      "away_team_id": "SEN",
+      "date": "2026-06-15 12:00",
+      "status": "NS",
+      "home_score": null,
+      "away_score": null,
+      "group_letter": "A",
+      "round": "Group"
+    },
+    {
+      "id": 4,
+      "home_team_id": "COL",
+      "away_team_id": "NZL",
+      "date": "2026-06-15 16:48",
+      "status": "NS",
+      "home_score": null,
+      "away_score": null,
+      "group_letter": "A",
+      "round": "Group"
+    },
+    {
+      "id": 5,
+      "home_team_id": "NZL",
+      "away_team_id": "USA",
+      "date": "2026-06-19 12:00",
+      "status": "NS",
+      "home_score": null,
+      "away_score": null,
+      "group_letter": "A",
+      "round": "Group"
+    },
+    {
+      "id": 6,
+      "home_team_id": "COL",
+      "away_team_id": "SEN",
+      "date": "2026-06-19 16:48",
+      "status": "NS",
+      "home_score": null,
+      "away_score": null,
+      "group_letter": "A",
+      "round": "Group"
+    },
+    {
+      "id": 7,
+      "home_team_id": "MEX",
+      "away_team_id": "ITA",
+      "date": "2026-06-11 16:00",
+      "status": "NS",
+      "home_score": null,
+      "away_score": null,
+      "group_letter": "B",
+      "round": "Group"
+    },
+    {
+      "id": 8,
+      "home_team_id": "MAR",
+      "away_team_id": "UZB",
+      "date": "2026-06-11 20:48",
+      "status": "NS",
+      "home_score": null,
+      "away_score": null,
+      "group_letter": "B",
+      "round": "Group"
+    },
+    {
+      "id": 9,
+      "home_team_id": "MEX",
+      "away_team_id": "MAR",
+      "date": "2026-06-15 16:00",
+      "status": "NS",
+      "home_score": null,
+      "away_score": null,
+      "group_letter": "B",
+      "round": "Group"
+    },
+    {
+      "id": 10,
+      "home_team_id": "ITA",
+      "away_team_id": "UZB",
+      "date": "2026-06-15 20:48",
+      "status": "NS",
+      "home_score": null,
+      "away_score": null,
+      "group_letter": "B",
+      "round": "Group"
+    },
+    {
+      "id": 11,
+      "home_team_id": "UZB",
+      "away_team_id": "MEX",
+      "date": "2026-06-19 16:00",
+      "status": "NS",
+      "home_score": null,
+      "away_score": null,
+      "group_letter": "B",
+      "round": "Group"
+    },
+    {
+      "id": 12,
+      "home_team_id": "ITA",
+      "away_team_id": "MAR",
+      "date": "2026-06-19 20:48",
+      "status": "NS",
+      "home_score": null,
+      "away_score": null,
+      "group_letter": "B",
+      "round": "Group"
+    },
+    {
+      "id": 13,
+      "home_team_id": "CAN",
+      "away_team_id": "GER",
+      "date": "2026-06-11 20:00",
+      "status": "NS",
+      "home_score": null,
+      "away_score": null,
+      "group_letter": "C",
+      "round": "Group"
+    },
+    {
+      "id": 14,
+      "home_team_id": "EGY",
+      "away_team_id": "AUS",
+      "date": "2026-06-12 00:48",
+      "status": "NS",
+      "home_score": null,
+      "away_score": null,
+      "group_letter": "C",
+      "round": "Group"
+    },
+    {
+      "id": 15,
+      "home_team_id": "CAN",
+      "away_team_id": "EGY",
+      "date": "2026-06-15 20:00",
+      "status": "NS",
+      "home_score": null,
+      "away_score": null,
+      "group_letter": "C",
+      "round": "Group"
+    },
+    {
+      "id": 16,
+      "home_team_id": "GER",
+      "away_team_id": "AUS",
+      "date": "2026-06-16 00:48",
+      "status": "NS",
+      "home_score": null,
+      "away_score": null,
+      "group_letter": "C",
+      "round": "Group"
+    },
+    {
+      "id": 17,
+      "home_team_id": "AUS",
+      "away_team_id": "CAN",
+      "date": "2026-06-19 20:00",
+      "status": "NS",
+      "home_score": null,
+      "away_score": null,
+      "group_letter": "C",
+      "round": "Group"
+    },
+    {
+      "id": 18,
+      "home_team_id": "GER",
+      "away_team_id": "EGY",
+      "date": "2026-06-20 00:48",
+      "status": "NS",
+      "home_score": null,
+      "away_score": null,
+      "group_letter": "C",
+      "round": "Group"
+    },
+    {
+      "id": 19,
+      "home_team_id": "ARG",
+      "away_team_id": "DEN",
+      "date": "2026-06-12 00:00",
+      "status": "NS",
+      "home_score": null,
+      "away_score": null,
+      "group_letter": "D",
+      "round": "Group"
+    },
+    {
+      "id": 20,
+      "home_team_id": "ALG",
+      "away_team_id": "JAM",
+      "date": "2026-06-12 04:48",
+      "status": "NS",
+      "home_score": null,
+      "away_score": null,
+      "group_letter": "D",
+      "round": "Group"
+    },
+    {
+      "id": 21,
+      "home_team_id": "ARG",
+      "away_team_id": "ALG",
+      "date": "2026-06-16 00:00",
+      "status": "NS",
+      "home_score": null,
+      "away_score": null,
+      "group_letter": "D",
+      "round": "Group"
+    },
+    {
+      "id": 22,
+      "home_team_id": "DEN",
+      "away_team_id": "JAM",
+      "date": "2026-06-16 04:48",
+      "status": "NS",
+      "home_score": null,
+      "away_score": null,
+      "group_letter": "D",
+      "round": "Group"
+    },
+    {
+      "id": 23,
+      "home_team_id": "JAM",
+      "away_team_id": "ARG",
+      "date": "2026-06-20 00:00",
+      "status": "NS",
+      "home_score": null,
+      "away_score": null,
+      "group_letter": "D",
+      "round": "Group"
+    },
+    {
+      "id": 24,
+      "home_team_id": "DEN",
+      "away_team_id": "ALG",
+      "date": "2026-06-20 04:48",
+      "status": "NS",
+      "home_score": null,
+      "away_score": null,
+      "group_letter": "D",
+      "round": "Group"
+    },
+    {
+      "id": 25,
+      "home_team_id": "BRA",
+      "away_team_id": "POL",
+      "date": "2026-06-12 04:00",
+      "status": "NS",
+      "home_score": null,
+      "away_score": null,
+      "group_letter": "E",
+      "round": "Group"
+    },
+    {
+      "id": 26,
+      "home_team_id": "JPN",
+      "away_team_id": "HON",
+      "date": "2026-06-12 08:48",
+      "status": "NS",
+      "home_score": null,
+      "away_score": null,
+      "group_letter": "E",
+      "round": "Group"
+    },
+    {
+      "id": 27,
+      "home_team_id": "BRA",
+      "away_team_id": "JPN",
+      "date": "2026-06-16 04:00",
+      "status": "NS",
+      "home_score": null,
+      "away_score": null,
+      "group_letter": "E",
+      "round": "Group"
+    },
+    {
+      "id": 28,
+      "home_team_id": "POL",
+      "away_team_id": "HON",
+      "date": "2026-06-16 08:48",
+      "status": "NS",
+      "home_score": null,
+      "away_score": null,
+      "group_letter": "E",
+      "round": "Group"
+    },
+    {
+      "id": 29,
+      "home_team_id": "HON",
+      "away_team_id": "BRA",
+      "date": "2026-06-20 04:00",
+      "status": "NS",
+      "home_score": null,
+      "away_score": null,
+      "group_letter": "E",
+      "round": "Group"
+    },
+    {
+      "id": 30,
+      "home_team_id": "POL",
+      "away_team_id": "JPN",
+      "date": "2026-06-20 08:48",
+      "status": "NS",
+      "home_score": null,
+      "away_score": null,
+      "group_letter": "E",
+      "round": "Group"
+    },
+    {
+      "id": 31,
+      "home_team_id": "FRA",
+      "away_team_id": "ECU",
+      "date": "2026-06-12 08:00",
+      "status": "NS",
+      "home_score": null,
+      "away_score": null,
+      "group_letter": "F",
+      "round": "Group"
+    },
+    {
+      "id": 32,
+      "home_team_id": "KOR",
+      "away_team_id": "PAN",
+      "date": "2026-06-12 12:48",
+      "status": "NS",
+      "home_score": null,
+      "away_score": null,
+      "group_letter": "F",
+      "round": "Group"
+    },
+    {
+      "id": 33,
+      "home_team_id": "FRA",
+      "away_team_id": "KOR",
+      "date": "2026-06-16 08:00",
+      "status": "NS",
+      "home_score": null,
+      "away_score": null,
+      "group_letter": "F",
+      "round": "Group"
+    },
+    {
+      "id": 34,
+      "home_team_id": "ECU",
+      "away_team_id": "PAN",
+      "date": "2026-06-16 12:48",
+      "status": "NS",
+      "home_score": null,
+      "away_score": null,
+      "group_letter": "F",
+      "round": "Group"
+    },
+    {
+      "id": 35,
+      "home_team_id": "PAN",
+      "away_team_id": "FRA",
+      "date": "2026-06-20 08:00",
+      "status": "NS",
+      "home_score": null,
+      "away_score": null,
+      "group_letter": "F",
+      "round": "Group"
+    },
+    {
+      "id": 36,
+      "home_team_id": "ECU",
+      "away_team_id": "KOR",
+      "date": "2026-06-20 12:48",
+      "status": "NS",
+      "home_score": null,
+      "away_score": null,
+      "group_letter": "F",
+      "round": "Group"
+    },
+    {
+      "id": 37,
+      "home_team_id": "ENG",
+      "away_team_id": "URU",
+      "date": "2026-06-12 12:00",
+      "status": "NS",
+      "home_score": null,
+      "away_score": null,
+      "group_letter": "G",
+      "round": "Group"
+    },
+    {
+      "id": 38,
+      "home_team_id": "TUN",
+      "away_team_id": "IRQ",
+      "date": "2026-06-12 16:48",
+      "status": "NS",
+      "home_score": null,
+      "away_score": null,
+      "group_letter": "G",
+      "round": "Group"
+    },
+    {
+      "id": 39,
+      "home_team_id": "ENG",
+      "away_team_id": "TUN",
+      "date": "2026-06-16 12:00",
+      "status": "NS",
+      "home_score": null,
+      "away_score": null,
+      "group_letter": "G",
+      "round": "Group"
+    },
+    {
+      "id": 40,
+      "home_team_id": "URU",
+      "away_team_id": "IRQ",
+      "date": "2026-06-16 16:48",
+      "status": "NS",
+      "home_score": null,
+      "away_score": null,
+      "group_letter": "G",
+      "round": "Group"
+    },
+    {
+      "id": 41,
+      "home_team_id": "IRQ",
+      "away_team_id": "ENG",
+      "date": "2026-06-20 12:00",
+      "status": "NS",
+      "home_score": null,
+      "away_score": null,
+      "group_letter": "G",
+      "round": "Group"
+    },
+    {
+      "id": 42,
+      "home_team_id": "URU",
+      "away_team_id": "TUN",
+      "date": "2026-06-20 16:48",
+      "status": "NS",
+      "home_score": null,
+      "away_score": null,
+      "group_letter": "G",
+      "round": "Group"
+    },
+    {
+      "id": 43,
+      "home_team_id": "ESP",
+      "away_team_id": "CHI",
+      "date": "2026-06-12 16:00",
+      "status": "NS",
+      "home_score": null,
+      "away_score": null,
+      "group_letter": "H",
+      "round": "Group"
+    },
+    {
+      "id": 44,
+      "home_team_id": "NGA",
+      "away_team_id": "KSA",
+      "date": "2026-06-12 20:48",
+      "status": "NS",
+      "home_score": null,
+      "away_score": null,
+      "group_letter": "H",
+      "round": "Group"
+    },
+    {
+      "id": 45,
+      "home_team_id": "ESP",
+      "away_team_id": "NGA",
+      "date": "2026-06-16 16:00",
+      "status": "NS",
+      "home_score": null,
+      "away_score": null,
+      "group_letter": "H",
+      "round": "Group"
+    },
+    {
+      "id": 46,
+      "home_team_id": "CHI",
+      "away_team_id": "KSA",
+      "date": "2026-06-16 20:48",
+      "status": "NS",
+      "home_score": null,
+      "away_score": null,
+      "group_letter": "H",
+      "round": "Group"
+    },
+    {
+      "id": 47,
+      "home_team_id": "KSA",
+      "away_team_id": "ESP",
+      "date": "2026-06-20 16:00",
+      "status": "NS",
+      "home_score": null,
+      "away_score": null,
+      "group_letter": "H",
+      "round": "Group"
+    },
+    {
+      "id": 48,
+      "home_team_id": "CHI",
+      "away_team_id": "NGA",
+      "date": "2026-06-20 20:48",
+      "status": "NS",
+      "home_score": null,
+      "away_score": null,
+      "group_letter": "H",
+      "round": "Group"
+    },
+    {
+      "id": 49,
+      "home_team_id": "POR",
+      "away_team_id": "SUI",
+      "date": "2026-06-12 20:00",
+      "status": "NS",
+      "home_score": null,
+      "away_score": null,
+      "group_letter": "I",
+      "round": "Group"
+    },
+    {
+      "id": 50,
+      "home_team_id": "CIV",
+      "away_team_id": "CHN",
+      "date": "2026-06-13 00:48",
+      "status": "NS",
+      "home_score": null,
+      "away_score": null,
+      "group_letter": "I",
+      "round": "Group"
+    },
+    {
+      "id": 51,
+      "home_team_id": "POR",
+      "away_team_id": "CIV",
+      "date": "2026-06-16 20:00",
+      "status": "NS",
+      "home_score": null,
+      "away_score": null,
+      "group_letter": "I",
+      "round": "Group"
+    },
+    {
+      "id": 52,
+      "home_team_id": "SUI",
+      "away_team_id": "CHN",
+      "date": "2026-06-17 00:48",
+      "status": "NS",
+      "home_score": null,
+      "away_score": null,
+      "group_letter": "I",
+      "round": "Group"
+    },
+    {
+      "id": 53,
+      "home_team_id": "CHN",
+      "away_team_id": "POR",
+      "date": "2026-06-20 20:00",
+      "status": "NS",
+      "home_score": null,
+      "away_score": null,
+      "group_letter": "I",
+      "round": "Group"
+    },
+    {
+      "id": 54,
+      "home_team_id": "SUI",
+      "away_team_id": "CIV",
+      "date": "2026-06-21 00:48",
+      "status": "NS",
+      "home_score": null,
+      "away_score": null,
+      "group_letter": "I",
+      "round": "Group"
+    },
+    {
+      "id": 55,
+      "home_team_id": "NED",
+      "away_team_id": "PER",
+      "date": "2026-06-13 00:00",
+      "status": "NS",
+      "home_score": null,
+      "away_score": null,
+      "group_letter": "J",
+      "round": "Group"
+    },
+    {
+      "id": 56,
+      "home_team_id": "GHA",
+      "away_team_id": "IRN",
+      "date": "2026-06-13 04:48",
+      "status": "NS",
+      "home_score": null,
+      "away_score": null,
+      "group_letter": "J",
+      "round": "Group"
+    },
+    {
+      "id": 57,
+      "home_team_id": "NED",
+      "away_team_id": "GHA",
+      "date": "2026-06-17 00:00",
+      "status": "NS",
+      "home_score": null,
+      "away_score": null,
+      "group_letter": "J",
+      "round": "Group"
+    },
+    {
+      "id": 58,
+      "home_team_id": "PER",
+      "away_team_id": "IRN",
+      "date": "2026-06-17 04:48",
+      "status": "NS",
+      "home_score": null,
+      "away_score": null,
+      "group_letter": "J",
+      "round": "Group"
+    },
+    {
+      "id": 59,
+      "home_team_id": "IRN",
+      "away_team_id": "NED",
+      "date": "2026-06-21 00:00",
+      "status": "NS",
+      "home_score": null,
+      "away_score": null,
+      "group_letter": "J",
+      "round": "Group"
+    },
+    {
+      "id": 60,
+      "home_team_id": "PER",
+      "away_team_id": "GHA",
+      "date": "2026-06-21 04:48",
+      "status": "NS",
+      "home_score": null,
+      "away_score": null,
+      "group_letter": "J",
+      "round": "Group"
+    },
+    {
+      "id": 61,
+      "home_team_id": "BEL",
+      "away_team_id": "CRO",
+      "date": "2026-06-13 04:00",
+      "status": "NS",
+      "home_score": null,
+      "away_score": null,
+      "group_letter": "K",
+      "round": "Group"
+    },
+    {
+      "id": 62,
+      "home_team_id": "CMR",
+      "away_team_id": "CRC",
+      "date": "2026-06-13 08:48",
+      "status": "NS",
+      "home_score": null,
+      "away_score": null,
+      "group_letter": "K",
+      "round": "Group"
+    },
+    {
+      "id": 63,
+      "home_team_id": "BEL",
+      "away_team_id": "CMR",
+      "date": "2026-06-17 04:00",
+      "status": "NS",
+      "home_score": null,
+      "away_score": null,
+      "group_letter": "K",
+      "round": "Group"
+    },
+    {
+      "id": 64,
+      "home_team_id": "CRO",
+      "away_team_id": "CRC",
+      "date": "2026-06-17 08:48",
+      "status": "NS",
+      "home_score": null,
+      "away_score": null,
+      "group_letter": "K",
+      "round": "Group"
+    },
+    {
+      "id": 65,
+      "home_team_id": "CRC",
+      "away_team_id": "BEL",
+      "date": "2026-06-21 04:00",
+      "status": "NS",
+      "home_score": null,
+      "away_score": null,
+      "group_letter": "K",
+      "round": "Group"
+    },
+    {
+      "id": 66,
+      "home_team_id": "CRO",
+      "away_team_id": "CMR",
+      "date": "2026-06-21 08:48",
+      "status": "NS",
+      "home_score": null,
+      "away_score": null,
+      "group_letter": "K",
+      "round": "Group"
+    },
+    {
+      "id": 67,
+      "home_team_id": "AUT",
+      "away_team_id": "TUR",
+      "date": "2026-06-13 08:00",
+      "status": "NS",
+      "home_score": null,
+      "away_score": null,
+      "group_letter": "L",
+      "round": "Group"
+    },
+    {
+      "id": 68,
+      "home_team_id": "SRB",
+      "away_team_id": "UKR",
+      "date": "2026-06-13 12:48",
+      "status": "NS",
+      "home_score": null,
+      "away_score": null,
+      "group_letter": "L",
+      "round": "Group"
+    },
+    {
+      "id": 69,
+      "home_team_id": "AUT",
+      "away_team_id": "SRB",
+      "date": "2026-06-17 08:00",
+      "status": "NS",
+      "home_score": null,
+      "away_score": null,
+      "group_letter": "L",
+      "round": "Group"
+    },
+    {
+      "id": 70,
+      "home_team_id": "TUR",
+      "away_team_id": "UKR",
+      "date": "2026-06-17 12:48",
+      "status": "NS",
+      "home_score": null,
+      "away_score": null,
+      "group_letter": "L",
+      "round": "Group"
+    },
+    {
+      "id": 71,
+      "home_team_id": "UKR",
+      "away_team_id": "AUT",
+      "date": "2026-06-21 08:00",
+      "status": "NS",
+      "home_score": null,
+      "away_score": null,
+      "group_letter": "L",
+      "round": "Group"
+    },
+    {
+      "id": 72,
+      "home_team_id": "TUR",
+      "away_team_id": "SRB",
+      "date": "2026-06-21 12:48",
+      "status": "NS",
+      "home_score": null,
+      "away_score": null,
+      "group_letter": "L",
+      "round": "Group"
+    }
+  ],
+  "predictions": [
+    {
+      "fixture_id": 1,
+      "home_win_prob": 0.32911319027771224,
+      "draw_prob": 0.21045742154644778,
+      "away_win_prob": 0.46042938817584006,
+      "over_under_probs": "{\"1.5\":{\"under\":0.10794156899162005,\"over\":0.8920584310083799},\"2.5\":{\"under\":0.2699681156967517,\"over\":0.7300318843032483},\"3.5\":{\"under\":0.4748506840053908,\"over\":0.5251493159946092}}",
+      "btts_prob": 0.7182766924276018,
+      "exact_scores": "[{\"home\":1,\"away\":2,\"probability\":0.08293943044286206},{\"home\":1,\"away\":1,\"probability\":0.08038713878639406},{\"home\":2,\"away\":2,\"probability\":0.07174260733307569},{\"home\":2,\"away\":1,\"probability\":0.06953487505023086},{\"home\":1,\"away\":3,\"probability\":0.057048504906281966}]",
+      "corners_line": 10,
+      "yellow_cards_line": 4,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "fixture_id": 2,
+      "home_win_prob": 0.7448776494142747,
+      "draw_prob": 0.14729388344027802,
+      "away_win_prob": 0.10782846714544729,
+      "over_under_probs": "{\"1.5\":{\"under\":0.11270527278900652,\"over\":0.8872947272109935},\"2.5\":{\"under\":0.27897331626612387,\"over\":0.7210266837338761},\"3.5\":{\"under\":0.4862264324603506,\"over\":0.5137735675396494}}",
+      "btts_prob": 0.5859441350569401,
+      "exact_scores": "[{\"home\":2,\"away\":0,\"probability\":0.09044201609948692},{\"home\":2,\"away\":1,\"probability\":0.08876883880164642},{\"home\":3,\"away\":0,\"probability\":0.0831463601341283},{\"home\":3,\"away\":1,\"probability\":0.08160815247164695},{\"home\":1,\"away\":0,\"probability\":0.06558521834625593}]",
+      "corners_line": 9,
+      "yellow_cards_line": 4.5,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "fixture_id": 3,
+      "home_win_prob": 0.44641141753414176,
+      "draw_prob": 0.21599868739264325,
+      "away_win_prob": 0.337589895073215,
+      "over_under_probs": "{\"1.5\":{\"under\":0.12134004758709173,\"over\":0.8786599524129083},\"2.5\":{\"under\":0.29487362194051375,\"over\":0.7051263780594863},\"3.5\":{\"under\":0.5057169147799216,\"over\":0.49428308522007836}}",
+      "btts_prob": 0.6999422570781071,
+      "exact_scores": "[{\"home\":1,\"away\":1,\"probability\":0.08628716745470652},{\"home\":2,\"away\":1,\"probability\":0.0844751369381577},{\"home\":1,\"away\":2,\"probability\":0.07278322574804494},{\"home\":2,\"away\":2,\"probability\":0.07125477800733601},{\"home\":3,\"away\":1,\"probability\":0.055134106041637605}]",
+      "corners_line": 10,
+      "yellow_cards_line": 4,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "fixture_id": 4,
+      "home_win_prob": 0.8407122552663214,
+      "draw_prob": 0.10049358022421984,
+      "away_win_prob": 0.058794164509458804,
+      "over_under_probs": "{\"1.5\":{\"under\":0.07911501781906953,\"over\":0.9208849821809305},\"2.5\":{\"under\":0.2127349043149416,\"over\":0.7872650956850584},\"3.5\":{\"under\":0.39913464597668313,\"over\":0.6008653540233169}}",
+      "btts_prob": 0.5527207454282761,
+      "exact_scores": "[{\"home\":3,\"away\":0,\"probability\":0.09449907100335635},{\"home\":2,\"away\":0,\"probability\":0.08495571261913967},{\"home\":3,\"away\":1,\"probability\":0.08013521221084621},{\"home\":4,\"away\":0,\"probability\":0.07883584998455004},{\"home\":2,\"away\":1,\"probability\":0.07204244430103046}]",
+      "corners_line": 9.5,
+      "yellow_cards_line": 4.5,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "fixture_id": 5,
+      "home_win_prob": 0.0809990113847694,
+      "draw_prob": 0.11948652628066805,
+      "away_win_prob": 0.7995144623345626,
+      "over_under_probs": "{\"1.5\":{\"under\":0.08347069998031051,\"over\":0.9165293000196895},\"2.5\":{\"under\":0.22173607125711198,\"over\":0.7782639287428881},\"3.5\":{\"under\":0.411505293334522,\"over\":0.588494706665478}}",
+      "btts_prob": 0.5943360777359417,
+      "exact_scores": "[{\"home\":0,\"away\":3,\"probability\":0.08496823855225819},{\"home\":1,\"away\":3,\"probability\":0.08220677079930981},{\"home\":0,\"away\":2,\"probability\":0.0809221319545316},{\"home\":1,\"away\":2,\"probability\":0.07829216266600934},{\"home\":0,\"away\":4,\"probability\":0.06691248785990332}]",
+      "corners_line": 9.5,
+      "yellow_cards_line": 4.5,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "fixture_id": 6,
+      "home_win_prob": 0.5101091491041173,
+      "draw_prob": 0.21157907401617587,
+      "away_win_prob": 0.27831177687970676,
+      "over_under_probs": "{\"1.5\":{\"under\":0.1279290526659549,\"over\":0.8720709473340451},\"2.5\":{\"under\":0.3067713006290137,\"over\":0.6932286993709863},\"3.5\":{\"under\":0.5200406813249613,\"over\":0.4799593186750387}}",
+      "btts_prob": 0.6796182979434134,
+      "exact_scores": "[{\"home\":2,\"away\":1,\"probability\":0.09046574399718853},{\"home\":1,\"away\":1,\"probability\":0.08709096895036199},{\"home\":2,\"away\":2,\"probability\":0.06784930799789139},{\"home\":1,\"away\":2,\"probability\":0.06531822671277149},{\"home\":3,\"away\":1,\"probability\":0.06264752771805306}]",
+      "corners_line": 10,
+      "yellow_cards_line": 4,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "fixture_id": 7,
+      "home_win_prob": 0.19231026875219767,
+      "draw_prob": 0.1848832367694393,
+      "away_win_prob": 0.622806494478363,
+      "over_under_probs": "{\"1.5\":{\"under\":0.1114708918818084,\"over\":0.8885291081181916},\"2.5\":{\"under\":0.2766369465202787,\"over\":0.7233630534797213},\"3.5\":{\"under\":0.483259680873005,\"over\":0.516740319126995}}",
+      "btts_prob": 0.6670651116257794,
+      "exact_scores": "[{\"home\":1,\"away\":2,\"probability\":0.09167642660901365},{\"home\":1,\"away\":1,\"probability\":0.07508306847585065},{\"home\":1,\"away\":3,\"probability\":0.07462461125973711},{\"home\":0,\"away\":2,\"probability\":0.06992862441572362},{\"home\":2,\"away\":2,\"probability\":0.060093897642208446}]",
+      "corners_line": 10,
+      "yellow_cards_line": 4,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "fixture_id": 8,
+      "home_win_prob": 0.7120030479520298,
+      "draw_prob": 0.16404926920130916,
+      "away_win_prob": 0.12394768284666102,
+      "over_under_probs": "{\"1.5\":{\"under\":0.13487689515381301,\"over\":0.8651231048461869},\"2.5\":{\"under\":0.3191004911609629,\"over\":0.680899508839037},\"3.5\":{\"under\":0.5346420984893282,\"over\":0.4653579015106718}}",
+      "btts_prob": 0.5733224092688942,
+      "exact_scores": "[{\"home\":2,\"away\":0,\"probability\":0.09616776455600187},{\"home\":2,\"away\":1,\"probability\":0.09366740267754582},{\"home\":3,\"away\":0,\"probability\":0.08129381697134025},{\"home\":3,\"away\":1,\"probability\":0.0791801777300854},{\"home\":1,\"away\":0,\"probability\":0.07584208561198887}]",
+      "corners_line": 9.5,
+      "yellow_cards_line": 4,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "fixture_id": 9,
+      "home_win_prob": 0.28745661172191206,
+      "draw_prob": 0.21443602559383762,
+      "away_win_prob": 0.49810736268425027,
+      "over_under_probs": "{\"1.5\":{\"under\":0.1320364335165252,\"over\":0.8679635664834748},\"2.5\":{\"under\":0.31407572211424367,\"over\":0.6859242778857564},\"3.5\":{\"under\":0.5287000433709539,\"over\":0.4712999566290461}}",
+      "btts_prob": 0.6763196250140042,
+      "exact_scores": "[{\"home\":1,\"away\":2,\"probability\":0.09033591453778539},{\"home\":1,\"away\":1,\"probability\":0.08904476543892101},{\"home\":2,\"away\":2,\"probability\":0.0681132795614902},{\"home\":2,\"away\":1,\"probability\":0.06713975314094645},{\"home\":1,\"away\":3,\"probability\":0.06109719019905553}]",
+      "corners_line": 9.5,
+      "yellow_cards_line": 4,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "fixture_id": 10,
+      "home_win_prob": 0.8103675757055352,
+      "draw_prob": 0.11850193523424608,
+      "away_win_prob": 0.0711304890602187,
+      "over_under_probs": "{\"1.5\":{\"under\":0.10243066714912383,\"over\":0.8975693328508761},\"2.5\":{\"under\":0.2594937030919487,\"over\":0.7405062969080514},\"3.5\":{\"under\":0.4616338303503644,\"over\":0.5383661696496356}}",
+      "btts_prob": 0.5377556221387519,
+      "exact_scores": "[{\"home\":3,\"away\":0,\"probability\":0.09769695218573185},{\"home\":2,\"away\":0,\"probability\":0.09672965562943744},{\"home\":3,\"away\":1,\"probability\":0.08118616726634316},{\"home\":2,\"away\":1,\"probability\":0.08038234382806252},{\"home\":4,\"away\":0,\"probability\":0.07400544128069186}]",
+      "corners_line": 9.5,
+      "yellow_cards_line": 4,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "fixture_id": 11,
+      "home_win_prob": 0.18879122849100596,
+      "draw_prob": 0.18825285798106983,
+      "away_win_prob": 0.6229559135279242,
+      "over_under_probs": "{\"1.5\":{\"under\":0.1239527384222059,\"over\":0.8760472615777941},\"2.5\":{\"under\":0.29962748133456574,\"over\":0.7003725186654343},\"3.5\":{\"under\":0.5114912212868716,\"over\":0.48850877871312837}}",
+      "btts_prob": 0.6463957024014194,
+      "exact_scores": "[{\"home\":1,\"away\":2,\"probability\":0.09407700414483791},{\"home\":1,\"away\":1,\"probability\":0.07938987691547504},{\"home\":0,\"away\":2,\"probability\":0.07538221485964576},{\"home\":1,\"away\":3,\"probability\":0.07432083327442197},{\"home\":0,\"away\":1,\"probability\":0.0636136834258614}]",
+      "corners_line": 9,
+      "yellow_cards_line": 4.5,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "fixture_id": 12,
+      "home_win_prob": 0.5022821947718358,
+      "draw_prob": 0.21968098115280782,
+      "away_win_prob": 0.2780368240753564,
+      "over_under_probs": "{\"1.5\":{\"under\":0.15127687515277524,\"over\":0.8487231248472248},\"2.5\":{\"under\":0.347239344601277,\"over\":0.6527606553987231},\"3.5\":{\"under\":0.5668152916183232,\"over\":0.4331847083816768}}",
+      "btts_prob": 0.6484542341696359,
+      "exact_scores": "[{\"home\":1,\"away\":1,\"probability\":0.0954292612152556},{\"home\":2,\"away\":1,\"probability\":0.09313895894608949},{\"home\":1,\"away\":0,\"probability\":0.0677043357327106},{\"home\":1,\"away\":2,\"probability\":0.06725377184145137},{\"home\":2,\"away\":0,\"probability\":0.06607943167512557}]",
+      "corners_line": 10,
+      "yellow_cards_line": 3.5,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "fixture_id": 13,
+      "home_win_prob": 0.15548028390785879,
+      "draw_prob": 0.14670450767546178,
+      "away_win_prob": 0.6978152084166795,
+      "over_under_probs": "{\"1.5\":{\"under\":0.05201385897648201,\"over\":0.947986141023518},\"2.5\":{\"under\":0.15275170491340426,\"over\":0.8472482950865957},\"3.5\":{\"under\":0.3105071716506245,\"over\":0.6894928283493755}}",
+      "btts_prob": 0.7519835176070147,
+      "exact_scores": "[{\"home\":1,\"away\":3,\"probability\":0.07397770579413325},{\"home\":1,\"away\":2,\"probability\":0.07008783116450329},{\"home\":1,\"away\":4,\"probability\":0.05856260134928075},{\"home\":2,\"away\":3,\"probability\":0.05664842821185753},{\"home\":2,\"away\":2,\"probability\":0.05366975671421839}]",
+      "corners_line": 10,
+      "yellow_cards_line": 4,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "fixture_id": 14,
+      "home_win_prob": 0.41067169942252507,
+      "draw_prob": 0.2260015050794909,
+      "away_win_prob": 0.363326795497984,
+      "over_under_probs": "{\"1.5\":{\"under\":0.14661926100976894,\"over\":0.853380738990231},\"2.5\":{\"under\":0.33936270327461515,\"over\":0.6606372967253848},\"3.5\":{\"under\":0.5579337668029507,\"over\":0.4420662331970493}}",
+      "btts_prob": 0.6677282489361954,
+      "exact_scores": "[{\"home\":1,\"away\":1,\"probability\":0.09626350532619395},{\"home\":2,\"away\":1,\"probability\":0.0846156211817245},{\"home\":1,\"away\":2,\"probability\":0.07912860137813144},{\"home\":2,\"away\":2,\"probability\":0.06955404061137754},{\"home\":1,\"away\":0,\"probability\":0.058554443629071744}]",
+      "corners_line": 9,
+      "yellow_cards_line": 4,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "fixture_id": 15,
+      "home_win_prob": 0.38049348746745787,
+      "draw_prob": 0.22146287833755599,
+      "away_win_prob": 0.3980436341949861,
+      "over_under_probs": "{\"1.5\":{\"under\":0.13203339204022635,\"over\":0.8679666079597737},\"2.5\":{\"under\":0.3140684873394213,\"over\":0.6859315126605787},\"3.5\":{\"under\":0.5286878646971721,\"over\":0.4713121353028279}}",
+      "btts_prob": 0.687867378881171,
+      "exact_scores": "[{\"home\":1,\"away\":1,\"probability\":0.09100409549278225},{\"home\":1,\"away\":2,\"probability\":0.08144866546604013},{\"home\":2,\"away\":1,\"probability\":0.07949207741294531},{\"home\":2,\"away\":2,\"probability\":0.07114540928458604},{\"home\":0,\"away\":1,\"probability\":0.05209164023628062}]",
+      "corners_line": 9.5,
+      "yellow_cards_line": 4,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "fixture_id": 16,
+      "home_win_prob": 0.7098102289710667,
+      "draw_prob": 0.1449737474383344,
+      "away_win_prob": 0.14521602359059887,
+      "over_under_probs": "{\"1.5\":{\"under\":0.05747434207357116,\"over\":0.9425256579264288},\"2.5\":{\"under\":0.16540609727180217,\"over\":0.8345939027281979},\"3.5\":{\"under\":0.3300559898267036,\"over\":0.6699440101732964}}",
+      "btts_prob": 0.7314273547947571,
+      "exact_scores": "[{\"home\":3,\"away\":1,\"probability\":0.07628359196129865},{\"home\":2,\"away\":1,\"probability\":0.07301029698002741},{\"home\":4,\"away\":1,\"probability\":0.05977772975067267},{\"home\":3,\"away\":2,\"probability\":0.05500046980409633},{\"home\":3,\"away\":0,\"probability\":0.05290124269160793}]",
+      "corners_line": 10,
+      "yellow_cards_line": 4,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "fixture_id": 17,
+      "home_win_prob": 0.3753977303195212,
+      "draw_prob": 0.2154823953194537,
+      "away_win_prob": 0.4091198743610251,
+      "over_under_probs": "{\"1.5\":{\"under\":0.11506817349890319,\"over\":0.8849318265010968},\"2.5\":{\"under\":0.2833382085812101,\"over\":0.7166617914187898},\"3.5\":{\"under\":0.49157237699556494,\"over\":0.5084276230044351}}",
+      "btts_prob": 0.7116586843449841,
+      "exact_scores": "[{\"home\":1,\"away\":1,\"probability\":0.08409143051060568},{\"home\":1,\"away\":2,\"probability\":0.07982379041219248},{\"home\":2,\"away\":1,\"probability\":0.07627092747311938},{\"home\":2,\"away\":2,\"probability\":0.07240017790385858},{\"home\":1,\"away\":3,\"probability\":0.050515155365849135}]",
+      "corners_line": 9.5,
+      "yellow_cards_line": 4.5,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "fixture_id": 18,
+      "home_win_prob": 0.6751155703443388,
+      "draw_prob": 0.15973936670167166,
+      "away_win_prob": 0.16514506295398965,
+      "over_under_probs": "{\"1.5\":{\"under\":0.07238129186427564,\"over\":0.9276187081357243},\"2.5\":{\"under\":0.19839454327968548,\"over\":0.8016054567203146},\"3.5\":{\"under\":0.378719506055137,\"over\":0.6212804939448631}}",
+      "btts_prob": 0.7156273643383106,
+      "exact_scores": "[{\"home\":2,\"away\":1,\"probability\":0.08013945218893789},{\"home\":3,\"away\":1,\"probability\":0.07680030834773217},{\"home\":2,\"away\":2,\"probability\":0.05681887160195698},{\"home\":2,\"away\":0,\"probability\":0.05651583370164872},{\"home\":1,\"away\":1,\"probability\":0.05574918413143506}]",
+      "corners_line": 10,
+      "yellow_cards_line": 4,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "fixture_id": 19,
+      "home_win_prob": 0.7742660237926317,
+      "draw_prob": 0.1326093065748529,
+      "away_win_prob": 0.09312466963251548,
+      "over_under_probs": "{\"1.5\":{\"under\":0.09705514449696674,\"over\":0.9029448555030333},\"2.5\":{\"under\":0.24901445660629593,\"over\":0.750985543393704},\"3.5\":{\"under\":0.4480051758134626,\"over\":0.5519948241865373}}",
+      "btts_prob": 0.5900935618727515,
+      "exact_scores": "[{\"home\":2,\"away\":0,\"probability\":0.08603648585626943},{\"home\":3,\"away\":0,\"probability\":0.08477461739704416},{\"home\":2,\"away\":1,\"probability\":0.08367048249522203},{\"home\":3,\"away\":1,\"probability\":0.08244331541862546},{\"home\":4,\"away\":0,\"probability\":0.06264844225641562}]",
+      "corners_line": 11,
+      "yellow_cards_line": 3.5,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "fixture_id": 20,
+      "home_win_prob": 0.4984764977689567,
+      "draw_prob": 0.2082479501338388,
+      "away_win_prob": 0.2932755520972046,
+      "over_under_probs": "{\"1.5\":{\"under\":0.1126484783514861,\"over\":0.8873515216485139},\"2.5\":{\"under\":0.2788327360413619,\"over\":0.7211672639586382},\"3.5\":{\"under\":0.485981413251792,\"over\":0.514018586748208}}",
+      "btts_prob": 0.7050011947423872,
+      "exact_scores": "[{\"home\":2,\"away\":1,\"probability\":0.08677867092163563},{\"home\":1,\"away\":1,\"probability\":0.08148232011421185},{\"home\":2,\"away\":2,\"probability\":0.06983513542418628},{\"home\":1,\"away\":2,\"probability\":0.06557289711191198},{\"home\":3,\"away\":1,\"probability\":0.06161285635436132}]",
+      "corners_line": 9,
+      "yellow_cards_line": 4.5,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "fixture_id": 21,
+      "home_win_prob": 0.8865753980927965,
+      "draw_prob": 0.076106136464514,
+      "away_win_prob": 0.0373184654426895,
+      "over_under_probs": "{\"1.5\":{\"under\":0.06801595357702225,\"over\":0.9319840464229777},\"2.5\":{\"under\":0.18908711005798115,\"over\":0.8109128899420188},\"3.5\":{\"under\":0.3656088562072193,\"over\":0.6343911437927807}}",
+      "btts_prob": 0.5049412373392925,
+      "exact_scores": "[{\"home\":3,\"away\":0,\"probability\":0.10240622751177021},{\"home\":4,\"away\":0,\"probability\":0.09339447949073446},{\"home\":2,\"away\":0,\"probability\":0.08421564762481103},{\"home\":3,\"away\":1,\"probability\":0.07434692117354519},{\"home\":5,\"away\":0,\"probability\":0.06814061223643987}]",
+      "corners_line": 10.5,
+      "yellow_cards_line": 4,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "fixture_id": 22,
+      "home_win_prob": 0.6768982846149855,
+      "draw_prob": 0.16541025136253712,
+      "away_win_prob": 0.15769146402247738,
+      "over_under_probs": "{\"1.5\":{\"under\":0.09392316289163247,\"over\":0.9060768371083675},\"2.5\":{\"under\":0.24280301014747205,\"over\":0.7571969898525279},\"3.5\":{\"under\":0.43977104806694783,\"over\":0.5602289519330521}}",
+      "btts_prob": 0.6708046363104511,
+      "exact_scores": "[{\"home\":2,\"away\":1,\"probability\":0.08742840421971321},{\"home\":3,\"away\":1,\"probability\":0.07870013519844518},{\"home\":2,\"away\":0,\"probability\":0.06892266789098399},{\"home\":1,\"away\":1,\"probability\":0.06474979020160207},{\"home\":3,\"away\":0,\"probability\":0.062041888213200766}]",
+      "corners_line": 9.5,
+      "yellow_cards_line": 4.5,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "fixture_id": 23,
+      "home_win_prob": 0.01830172808696313,
+      "draw_prob": 0.04503072588536224,
+      "away_win_prob": 0.9366675460276747,
+      "over_under_probs": "{\"1.5\":{\"under\":0.04255414671686292,\"over\":0.9574458532831371},\"2.5\":{\"under\":0.13026760955065592,\"over\":0.8697323904493441},\"3.5\":{\"under\":0.27512639342066514,\"over\":0.7248736065793349}}",
+      "btts_prob": 0.46979274603628435,
+      "exact_scores": "[{\"home\":0,\"away\":4,\"probability\":0.10370992795008772},{\"home\":0,\"away\":3,\"probability\":0.09602771106489602},{\"home\":0,\"away\":5,\"probability\":0.0896053777488758},{\"home\":0,\"away\":2,\"probability\":0.06668591046173335},{\"home\":1,\"away\":4,\"probability\":0.06580394928433067}]",
+      "corners_line": 10.5,
+      "yellow_cards_line": 4,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "fixture_id": 24,
+      "home_win_prob": 0.5681305419575142,
+      "draw_prob": 0.19875092640954867,
+      "away_win_prob": 0.23311853163293714,
+      "over_under_probs": "{\"1.5\":{\"under\":0.11754963973101724,\"over\":0.8824503602689827},\"2.5\":{\"under\":0.28793339881609264,\"over\":0.7120666011839074},\"3.5\":{\"under\":0.49724984685210777,\"over\":0.5027501531478922}}",
+      "btts_prob": 0.6788487842316678,
+      "exact_scores": "[{\"home\":2,\"away\":1,\"probability\":0.09151878721267188},{\"home\":1,\"away\":1,\"probability\":0.08058004597197611},{\"home\":3,\"away\":1,\"probability\":0.06929497505119475},{\"home\":2,\"away\":0,\"probability\":0.06472332900471844},{\"home\":2,\"away\":2,\"probability\":0.06470378255935903}]",
+      "corners_line": 9.5,
+      "yellow_cards_line": 4,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "fixture_id": 25,
+      "home_win_prob": 0.8281511178931957,
+      "draw_prob": 0.10298573091142736,
+      "away_win_prob": 0.06886315119537699,
+      "over_under_probs": "{\"1.5\":{\"under\":0.06288824564954448,\"over\":0.9371117543504555},\"2.5\":{\"under\":0.17770223098586851,\"over\":0.8222977690141315},\"3.5\":{\"under\":0.3487176621443231,\"over\":0.6512823378556769}}",
+      "btts_prob": 0.615334029938993,
+      "exact_scores": "[{\"home\":3,\"away\":1,\"probability\":0.08001080785316486},{\"home\":3,\"away\":0,\"probability\":0.07977149337304572},{\"home\":4,\"away\":1,\"probability\":0.06931936365378567},{\"home\":2,\"away\":1,\"probability\":0.06926343198946604},{\"home\":4,\"away\":0,\"probability\":0.06911202757107245}]",
+      "corners_line": 10.5,
+      "yellow_cards_line": 4,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "fixture_id": 26,
+      "home_win_prob": 0.8579470474809908,
+      "draw_prob": 0.09346383794760522,
+      "away_win_prob": 0.04858911457140386,
+      "over_under_probs": "{\"1.5\":{\"under\":0.08630118540886021,\"over\":0.9136988145911398},\"2.5\":{\"under\":0.227574789553228,\"over\":0.772425210446772},\"3.5\":{\"under\":0.41956561758542377,\"over\":0.5804343824145762}}",
+      "btts_prob": 0.5063804840618586,
+      "exact_scores": "[{\"home\":3,\"away\":0,\"probability\":0.10508624214704683},{\"home\":2,\"away\":0,\"probability\":0.09453035275596418},{\"home\":4,\"away\":0,\"probability\":0.08761565439010031},{\"home\":3,\"away\":1,\"probability\":0.07797399167310876},{\"home\":2,\"away\":1,\"probability\":0.07014152174492544}]",
+      "corners_line": 9.5,
+      "yellow_cards_line": 4.5,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "fixture_id": 27,
+      "home_win_prob": 0.6259869702927463,
+      "draw_prob": 0.1815172819889109,
+      "away_win_prob": 0.19249574771834277,
+      "over_under_probs": "{\"1.5\":{\"under\":0.10233845350892709,\"over\":0.8976615464910729},\"2.5\":{\"under\":0.25926009279108636,\"over\":0.7407399072089136},\"3.5\":{\"under\":0.4612182425472253,\"over\":0.5387817574527747}}",
+      "btts_prob": 0.6813471596147036,
+      "exact_scores": "[{\"home\":2,\"away\":1,\"probability\":0.08958516419256678},{\"home\":3,\"away\":1,\"probability\":0.07489319726498582},{\"home\":1,\"away\":1,\"probability\":0.07143952487445517},{\"home\":2,\"away\":0,\"probability\":0.06621224256656817},{\"home\":2,\"away\":2,\"probability\":0.06060436357627143}]",
+      "corners_line": 11,
+      "yellow_cards_line": 3.5,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "fixture_id": 28,
+      "home_win_prob": 0.6893611004705934,
+      "draw_prob": 0.16854753604862435,
+      "away_win_prob": 0.14209136348078225,
+      "over_under_probs": "{\"1.5\":{\"under\":0.12137358940236714,\"over\":0.8786264105976329},\"2.5\":{\"under\":0.29495513333558404,\"over\":0.705044866664416},\"3.5\":{\"under\":0.5058567092144425,\"over\":0.4941432907855575}}",
+      "btts_prob": 0.6129290878541467,
+      "exact_scores": "[{\"home\":2,\"away\":1,\"probability\":0.09298925099235804},{\"home\":2,\"away\":0,\"probability\":0.08515499175124361},{\"home\":3,\"away\":1,\"probability\":0.07913385259449668},{\"home\":1,\"away\":1,\"probability\":0.0728470434722742},{\"home\":3,\"away\":0,\"probability\":0.07246689798030831}]",
+      "corners_line": 9,
+      "yellow_cards_line": 4.5,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "fixture_id": 29,
+      "home_win_prob": 0.011146711714199667,
+      "draw_prob": 0.03372030220160805,
+      "away_win_prob": 0.9551329860841923,
+      "over_under_probs": "{\"1.5\":{\"under\":0.041295650755288536,\"over\":0.9587043492447115},\"2.5\":{\"under\":0.12722788751389721,\"over\":0.8727721124861028},\"3.5\":{\"under\":0.2703050617169806,\"over\":0.7296949382830193}}",
+      "btts_prob": 0.39698732928417846,
+      "exact_scores": "[{\"home\":0,\"away\":4,\"probability\":0.11696328561116873},{\"home\":0,\"away\":5,\"probability\":0.1051032084501962},{\"home\":0,\"away\":3,\"probability\":0.1041293439672101},{\"home\":0,\"away\":6,\"probability\":0.07870478592778857},{\"home\":0,\"away\":2,\"probability\":0.06952771687105061}]",
+      "corners_line": 10,
+      "yellow_cards_line": 4,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "fixture_id": 30,
+      "home_win_prob": 0.19221522969606109,
+      "draw_prob": 0.17937237549677837,
+      "away_win_prob": 0.6284123948071606,
+      "over_under_probs": "{\"1.5\":{\"under\":0.09699077401113543,\"over\":0.9030092259888646},\"2.5\":{\"under\":0.2488493012027998,\"over\":0.7511506987972002},\"3.5\":{\"under\":0.4477080425602843,\"over\":0.5522919574397157}}",
+      "btts_prob": 0.6897730717193967,
+      "exact_scores": "[{\"home\":1,\"away\":2,\"probability\":0.08820344377887063},{\"home\":1,\"away\":3,\"probability\":0.07498762778600317},{\"home\":1,\"away\":1,\"probability\":0.06916560970701481},{\"home\":0,\"away\":2,\"probability\":0.06400830462907883},{\"home\":2,\"away\":2,\"probability\":0.06077217276364187}]",
+      "corners_line": 10,
+      "yellow_cards_line": 4,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "fixture_id": 31,
+      "home_win_prob": 0.7226721493759881,
+      "draw_prob": 0.15346684133821145,
+      "away_win_prob": 0.12386100928580038,
+      "over_under_probs": "{\"1.5\":{\"under\":0.10458563198811965,\"over\":0.8954143680118803},\"2.5\":{\"under\":0.263601183726303,\"over\":0.736398816273697},\"3.5\":{\"under\":0.46682305884770137,\"over\":0.5331769411522986}}",
+      "btts_prob": 0.619812525650254,
+      "exact_scores": "[{\"home\":2,\"away\":1,\"probability\":0.08868089208012081},{\"home\":2,\"away\":0,\"probability\":0.08180894103332179},{\"home\":3,\"away\":1,\"probability\":0.08129081774011074},{\"home\":3,\"away\":0,\"probability\":0.07499152928054496},{\"home\":1,\"away\":1,\"probability\":0.06449519424008786}]",
+      "corners_line": 11,
+      "yellow_cards_line": 3.5,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "fixture_id": 32,
+      "home_win_prob": 0.5679538322088405,
+      "draw_prob": 0.19696612728500293,
+      "away_win_prob": 0.2350800405061566,
+      "over_under_probs": "{\"1.5\":{\"under\":0.11146172310816684,\"over\":0.8885382768918332},\"2.5\":{\"under\":0.2766141924048256,\"over\":0.7233858075951745},\"3.5\":{\"under\":0.48321993149494563,\"over\":0.5167800685050543}}",
+      "btts_prob": 0.6886164115522893,
+      "exact_scores": "[{\"home\":2,\"away\":1,\"probability\":0.09022254628105017},{\"home\":1,\"away\":1,\"probability\":0.0782502569653514},{\"home\":3,\"away\":1,\"probability\":0.0693510639080339},{\"home\":2,\"away\":2,\"probability\":0.06527601223433979},{\"home\":2,\"away\":0,\"probability\":0.06235144870839678}]",
+      "corners_line": 9.5,
+      "yellow_cards_line": 4.5,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "fixture_id": 33,
+      "home_win_prob": 0.8077020550342201,
+      "draw_prob": 0.1111583049309288,
+      "away_win_prob": 0.08113964003485105,
+      "over_under_probs": "{\"1.5\":{\"under\":0.06082105885195563,\"over\":0.9391789411480443},\"2.5\":{\"under\":0.17305176079648976,\"over\":0.8269482392035102},\"3.5\":{\"under\":0.3417345058191245,\"over\":0.6582654941808754}}",
+      "btts_prob": 0.6450609045995844,
+      "exact_scores": "[{\"home\":3,\"away\":1,\"probability\":0.08017138751368398},{\"home\":3,\"away\":0,\"probability\":0.07328280394303836},{\"home\":2,\"away\":1,\"probability\":0.0704287445215379},{\"home\":4,\"away\":1,\"probability\":0.0684463220898077},{\"home\":2,\"away\":0,\"probability\":0.0643772801842211}]",
+      "corners_line": 11,
+      "yellow_cards_line": 4,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "fixture_id": 34,
+      "home_win_prob": 0.6282909912036877,
+      "draw_prob": 0.1912207130327013,
+      "away_win_prob": 0.18048829576361103,
+      "over_under_probs": "{\"1.5\":{\"under\":0.14063237012831345,\"over\":0.8593676298716866},\"2.5\":{\"under\":0.3291090339906214,\"over\":0.6708909660093786},\"3.5\":{\"under\":0.5462341507600001,\"over\":0.45376584923999985}}",
+      "btts_prob": 0.6174967948656339,
+      "exact_scores": "[{\"home\":2,\"away\":1,\"probability\":0.09649656966832966},{\"home\":1,\"away\":1,\"probability\":0.08405624535568784},{\"home\":2,\"away\":0,\"probability\":0.08318669798993936},{\"home\":3,\"away\":1,\"probability\":0.07385204131949497},{\"home\":1,\"away\":0,\"probability\":0.07246228047904124}]",
+      "corners_line": 9.5,
+      "yellow_cards_line": 4,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "fixture_id": 35,
+      "home_win_prob": 0.031221756660059646,
+      "draw_prob": 0.06118159868099321,
+      "away_win_prob": 0.9075966446589471,
+      "over_under_probs": "{\"1.5\":{\"under\":0.04289042986079628,\"over\":0.9571095701392037},\"2.5\":{\"under\":0.13101571975209259,\"over\":0.8689842802479074},\"3.5\":{\"under\":0.27615807220305766,\"over\":0.7238419277969423}}",
+      "btts_prob": 0.5530182473348465,
+      "exact_scores": "[{\"home\":0,\"away\":4,\"probability\":0.08734707358777502},{\"home\":0,\"away\":3,\"probability\":0.08463863719745642},{\"home\":0,\"away\":5,\"probability\":0.07211374395406707},{\"home\":1,\"away\":4,\"probability\":0.07101317082686111},{\"home\":1,\"away\":3,\"probability\":0.06881121204153207}]",
+      "corners_line": 10.5,
+      "yellow_cards_line": 4,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "fixture_id": 36,
+      "home_win_prob": 0.4626228219110279,
+      "draw_prob": 0.2228209032915073,
+      "away_win_prob": 0.3145562747974648,
+      "over_under_probs": "{\"1.5\":{\"under\":0.14662037890297833,\"over\":0.8533796210970217},\"2.5\":{\"under\":0.3393652907331721,\"over\":0.6606347092668279},\"3.5\":{\"under\":0.5579380207486118,\"over\":0.44206197925138824}}",
+      "btts_prob": 0.6624631322770255,
+      "exact_scores": "[{\"home\":1,\"away\":1,\"probability\":0.09530524474734807},{\"home\":2,\"away\":1,\"probability\":0.08958693006250716},{\"home\":1,\"away\":2,\"probability\":0.07252729125273187},{\"home\":2,\"away\":2,\"probability\":0.06817565377756794},{\"home\":1,\"away\":0,\"probability\":0.06261842624661501}]",
+      "corners_line": 9.5,
+      "yellow_cards_line": 4,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "fixture_id": 37,
+      "home_win_prob": 0.5580460366977119,
+      "draw_prob": 0.18818102203516723,
+      "away_win_prob": 0.25377294126712086,
+      "over_under_probs": "{\"1.5\":{\"under\":0.07895016775853783,\"over\":0.9210498322414622},\"2.5\":{\"under\":0.21229163370943246,\"over\":0.7877083662905675},\"3.5\":{\"under\":0.39830297871093046,\"over\":0.6016970212890695}}",
+      "btts_prob": 0.7474952424089917,
+      "exact_scores": "[{\"home\":2,\"away\":1,\"probability\":0.08024364783962315},{\"home\":2,\"away\":2,\"probability\":0.06744478600920327},{\"home\":3,\"away\":1,\"probability\":0.06697669806347212},{\"home\":1,\"away\":1,\"probability\":0.06409237047893224},{\"home\":3,\"away\":2,\"probability\":0.05629391472234832}]",
+      "corners_line": 11,
+      "yellow_cards_line": 3.5,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "fixture_id": 38,
+      "home_win_prob": 0.4515892995956781,
+      "draw_prob": 0.22972804316902132,
+      "away_win_prob": 0.3186826572353006,
+      "over_under_probs": "{\"1.5\":{\"under\":0.1660583530942774,\"over\":0.8339416469057226},\"2.5\":{\"under\":0.37162606151909905,\"over\":0.628373938480901},\"3.5\":{\"under\":0.5936391866179065,\"over\":0.4063608133820935}}",
+      "btts_prob": 0.6384916824050946,
+      "exact_scores": "[{\"home\":1,\"away\":1,\"probability\":0.10181848337622665},{\"home\":2,\"away\":1,\"probability\":0.09046572247977737},{\"home\":1,\"away\":2,\"probability\":0.0744802205897098},{\"home\":1,\"away\":0,\"probability\":0.06959568241710637},{\"home\":2,\"away\":2,\"probability\":0.06617567599395717}]",
+      "corners_line": 8.5,
+      "yellow_cards_line": 4.5,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "fixture_id": 39,
+      "home_win_prob": 0.8546250594871739,
+      "draw_prob": 0.09208639473039151,
+      "away_win_prob": 0.05328854578243462,
+      "over_under_probs": "{\"1.5\":{\"under\":0.06869269724110899,\"over\":0.931307302758891},\"2.5\":{\"under\":0.19052090494633528,\"over\":0.8094790950536648},\"3.5\":{\"under\":0.3675982048458817,\"over\":0.6324017951541183}}",
+      "btts_prob": 0.5608993128072544,
+      "exact_scores": "[{\"home\":3,\"away\":0,\"probability\":0.09168882573904094},{\"home\":4,\"away\":0,\"probability\":0.08026210583131296},{\"home\":3,\"away\":1,\"probability\":0.07876070130983617},{\"home\":2,\"away\":0,\"probability\":0.07855675488137166},{\"home\":4,\"away\":1,\"probability\":0.06894514890909784}]",
+      "corners_line": 10,
+      "yellow_cards_line": 4,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "fixture_id": 40,
+      "home_win_prob": 0.8064335763494165,
+      "draw_prob": 0.11497082158888118,
+      "away_win_prob": 0.07859560206170228,
+      "over_under_probs": "{\"1.5\":{\"under\":0.0757049584411253,\"over\":0.9242950415588747},\"2.5\":{\"under\":0.20553427305541735,\"over\":0.7944657269445826},\"3.5\":{\"under\":0.388983094605412,\"over\":0.611016905394588}}",
+      "btts_prob": 0.6058820204140022,
+      "exact_scores": "[{\"home\":3,\"away\":0,\"probability\":0.08244637064773859},{\"home\":3,\"away\":1,\"probability\":0.08178679968255671},{\"home\":2,\"away\":0,\"probability\":0.07617465720456292},{\"home\":2,\"away\":1,\"probability\":0.07556525994692642},{\"home\":4,\"away\":0,\"probability\":0.06692584137330183}]",
+      "corners_line": 9.5,
+      "yellow_cards_line": 4,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "fixture_id": 41,
+      "home_win_prob": 0.0323212841176936,
+      "draw_prob": 0.061904246775357684,
+      "away_win_prob": 0.9057744691069488,
+      "over_under_probs": "{\"1.5\":{\"under\":0.04147964355481927,\"over\":0.9585203564451807},\"2.5\":{\"under\":0.12752257185213994,\"over\":0.87247742814786},\"3.5\":{\"under\":0.2703968542898409,\"over\":0.729603145710159}}",
+      "btts_prob": 0.5637684980878236,
+      "exact_scores": "[{\"home\":0,\"away\":4,\"probability\":0.08525154194774429},{\"home\":0,\"away\":3,\"probability\":0.08227920564385985},{\"home\":1,\"away\":4,\"probability\":0.07135554061026196},{\"home\":0,\"away\":5,\"probability\":0.07066500312048524},{\"home\":1,\"away\":3,\"probability\":0.06886769512391068}]",
+      "corners_line": 10,
+      "yellow_cards_line": 4,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "fixture_id": 42,
+      "home_win_prob": 0.7353834820451136,
+      "draw_prob": 0.15053536103424844,
+      "away_win_prob": 0.114081156920638,
+      "over_under_probs": "{\"1.5\":{\"under\":0.11150735659160524,\"over\":0.8884926434083947},\"2.5\":{\"under\":0.2767274408708993,\"over\":0.7232725591291007},\"3.5\":{\"under\":0.4834177663042962,\"over\":0.5165822336957038}}",
+      "btts_prob": 0.596380792141505,
+      "exact_scores": "[{\"home\":2,\"away\":1,\"probability\":0.08923345940268625},{\"home\":2,\"away\":0,\"probability\":0.08800143925314226},{\"home\":3,\"away\":1,\"probability\":0.08147014843465254},{\"home\":3,\"away\":0,\"probability\":0.08034531403811887},{\"home\":1,\"away\":1,\"probability\":0.06515769215238133}]",
+      "corners_line": 9.5,
+      "yellow_cards_line": 4,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "fixture_id": 43,
+      "home_win_prob": 0.8310719290515471,
+      "draw_prob": 0.10458922659623504,
+      "away_win_prob": 0.06433884435221787,
+      "over_under_probs": "{\"1.5\":{\"under\":0.07740120641477363,\"over\":0.9225987935852263},\"2.5\":{\"under\":0.20913283232967575,\"over\":0.7908671676703243},\"3.5\":{\"under\":0.3940840351141983,\"over\":0.6059159648858017}}",
+      "btts_prob": 0.5708771551754761,
+      "exact_scores": "[{\"home\":3,\"away\":0,\"probability\":0.09041098848444372},{\"home\":2,\"away\":0,\"probability\":0.08174592087201059},{\"home\":3,\"away\":1,\"probability\":0.08082742370509269},{\"home\":4,\"away\":0,\"probability\":0.07499591494784606},{\"home\":2,\"away\":1,\"probability\":0.07308085325957746}]",
+      "corners_line": 10.5,
+      "yellow_cards_line": 4,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "fixture_id": 44,
+      "home_win_prob": 0.6393284202409578,
+      "draw_prob": 0.1793778962650153,
+      "away_win_prob": 0.18129368349402686,
+      "over_under_probs": "{\"1.5\":{\"under\":0.10681713953078557,\"over\":0.8931828604692145},\"2.5\":{\"under\":0.26784557729731545,\"over\":0.7321544227026846},\"3.5\":{\"under\":0.4721906648230419,\"over\":0.5278093351769582}}",
+      "btts_prob": 0.667211439613483,
+      "exact_scores": "[{\"home\":2,\"away\":1,\"probability\":0.09079377626109196},{\"home\":3,\"away\":1,\"probability\":0.07605491991470803},{\"home\":1,\"away\":1,\"probability\":0.07225927279036366},{\"home\":2,\"away\":0,\"probability\":0.0701652057659134},{\"home\":3,\"away\":0,\"probability\":0.05877505402991347}]",
+      "corners_line": 9,
+      "yellow_cards_line": 4.5,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "fixture_id": 45,
+      "home_win_prob": 0.7952417391418052,
+      "draw_prob": 0.11783423928946565,
+      "away_win_prob": 0.08692402156872908,
+      "over_under_probs": "{\"1.5\":{\"under\":0.06786212726419787,\"over\":0.9321378727358022},\"2.5\":{\"under\":0.18865946666825933,\"over\":0.8113405333317407},\"3.5\":{\"under\":0.36478198751938096,\"over\":0.635218012480619}}",
+      "btts_prob": 0.6384784870155664,
+      "exact_scores": "[{\"home\":3,\"away\":1,\"probability\":0.0812447923197364},{\"home\":3,\"away\":0,\"probability\":0.0749490704056609},{\"home\":2,\"away\":1,\"probability\":0.07408339725203926},{\"home\":2,\"away\":0,\"probability\":0.06834261739118014},{\"home\":4,\"away\":1,\"probability\":0.06682384168298319}]",
+      "corners_line": 10.5,
+      "yellow_cards_line": 4,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "fixture_id": 46,
+      "home_win_prob": 0.5601439164830485,
+      "draw_prob": 0.20695843652286444,
+      "away_win_prob": 0.23289764699408697,
+      "over_under_probs": "{\"1.5\":{\"under\":0.14062363306630446,\"over\":0.8593763669336956},\"2.5\":{\"under\":0.32908858744595265,\"over\":0.6709114125540474},\"3.5\":{\"under\":0.5462002148913074,\"over\":0.45379978510869257}}",
+      "btts_prob": 0.6466431779927698,
+      "exact_scores": "[{\"home\":2,\"away\":1,\"probability\":0.09499558496782931},{\"home\":1,\"away\":1,\"probability\":0.08903053886394496},{\"home\":2,\"away\":0,\"probability\":0.07185747728277557},{\"home\":3,\"away\":1,\"probability\":0.06757352610711592},{\"home\":1,\"away\":0,\"probability\":0.0673453395339977}]",
+      "corners_line": 9,
+      "yellow_cards_line": 4.5,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "fixture_id": 47,
+      "home_win_prob": 0.021590653469588685,
+      "draw_prob": 0.048751203031382556,
+      "away_win_prob": 0.9296581434990288,
+      "over_under_probs": "{\"1.5\":{\"under\":0.04022588184865265,\"over\":0.9597741181513474},\"2.5\":{\"under\":0.12446004072857911,\"over\":0.8755399592714209},\"3.5\":{\"under\":0.26546802269357606,\"over\":0.7345319773064239}}",
+      "btts_prob": 0.5053565397001022,
+      "exact_scores": "[{\"home\":0,\"away\":4,\"probability\":0.09675738729846402},{\"home\":0,\"away\":3,\"probability\":0.08963166956782215},{\"home\":0,\"away\":5,\"probability\":0.08355967967095354},{\"home\":1,\"away\":4,\"probability\":0.06811720065811867},{\"home\":1,\"away\":3,\"probability\":0.06310069537574681}]",
+      "corners_line": 10,
+      "yellow_cards_line": 4,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "fixture_id": 48,
+      "home_win_prob": 0.32366463086067115,
+      "draw_prob": 0.21963693168957032,
+      "away_win_prob": 0.4566984374497584,
+      "over_under_probs": "{\"1.5\":{\"under\":0.13484044550563642,\"over\":0.8651595544943635},\"2.5\":{\"under\":0.31901425622337376,\"over\":0.6809857437766262},\"3.5\":{\"under\":0.5344976147631265,\"over\":0.4655023852368735}}",
+      "btts_prob": 0.6795052947135249,
+      "exact_scores": "[{\"home\":1,\"away\":1,\"probability\":0.09129254265451409},{\"home\":1,\"away\":2,\"probability\":0.08754954840567901},{\"home\":2,\"away\":1,\"probability\":0.07266886395299321},{\"home\":2,\"away\":2,\"probability\":0.0696894405309205},{\"home\":0,\"away\":1,\"probability\":0.05734456196891588}]",
+      "corners_line": 9.5,
+      "yellow_cards_line": 4,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "fixture_id": 49,
+      "home_win_prob": 0.6167613047844052,
+      "draw_prob": 0.187715210224911,
+      "away_win_prob": 0.1955234849906838,
+      "over_under_probs": "{\"1.5\":{\"under\":0.11631551127514002,\"over\":0.8836844887248599},\"2.5\":{\"under\":0.2856599176263575,\"over\":0.7143400823736425},\"3.5\":{\"under\":0.49446157065740876,\"over\":0.5055384293425913}}",
+      "btts_prob": 0.6617225678546621,
+      "exact_scores": "[{\"home\":2,\"away\":1,\"probability\":0.09259293433384677},{\"home\":1,\"away\":1,\"probability\":0.07722513288894643},{\"home\":3,\"away\":1,\"probability\":0.0740126188441882},{\"home\":2,\"away\":0,\"probability\":0.07117058749719198},{\"home\":2,\"away\":2,\"probability\":0.06023170378416732}]",
+      "corners_line": 10.5,
+      "yellow_cards_line": 3.5,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "fixture_id": 50,
+      "home_win_prob": 0.7378582523977769,
+      "draw_prob": 0.1504259696054139,
+      "away_win_prob": 0.11171577799680917,
+      "over_under_probs": "{\"1.5\":{\"under\":0.11512379889162015,\"over\":0.8848762011083798},\"2.5\":{\"under\":0.28347517781123094,\"over\":0.716524822188769},\"3.5\":{\"under\":0.4918100092242494,\"over\":0.5081899907757506}}",
+      "btts_prob": 0.5874431874174777,
+      "exact_scores": "[{\"home\":2,\"away\":0,\"probability\":0.0905356304412129},{\"home\":2,\"away\":1,\"probability\":0.0896302741368008},{\"home\":3,\"away\":0,\"probability\":0.08216108462540073},{\"home\":3,\"away\":1,\"probability\":0.08133947377914673},{\"home\":1,\"away\":0,\"probability\":0.0665091867336734}]",
+      "corners_line": 9,
+      "yellow_cards_line": 4.5,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "fixture_id": 51,
+      "home_win_prob": 0.7446753959752255,
+      "draw_prob": 0.13937321947966413,
+      "away_win_prob": 0.11595138454511035,
+      "over_under_probs": "{\"1.5\":{\"under\":0.07816292538154895,\"over\":0.921837074618451},\"2.5\":{\"under\":0.21068281830617128,\"over\":0.7893171816938287},\"3.5\":{\"under\":0.39614440845418014,\"over\":0.6038555915458199}}",
+      "btts_prob": 0.658207931020523,
+      "exact_scores": "[{\"home\":3,\"away\":1,\"probability\":0.08138978254378593},{\"home\":2,\"away\":1,\"probability\":0.08074383188867651},{\"home\":3,\"away\":0,\"probability\":0.06929738828759978},{\"home\":2,\"away\":0,\"probability\":0.06874740901547596},{\"home\":4,\"away\":1,\"probability\":0.06153067560310217}]",
+      "corners_line": 10.5,
+      "yellow_cards_line": 4,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "fixture_id": 52,
+      "home_win_prob": 0.8184829943055879,
+      "draw_prob": 0.1172992717179039,
+      "away_win_prob": 0.06421773397650826,
+      "over_under_probs": "{\"1.5\":{\"under\":0.11640747497101739,\"over\":0.8835925250289827},\"2.5\":{\"under\":0.28588577178373464,\"over\":0.7141142282162654},\"3.5\":{\"under\":0.49485251175381506,\"over\":0.5051474882461849}}",
+      "btts_prob": 0.49710577504373876,
+      "exact_scores": "[{\"home\":2,\"away\":0,\"probability\":0.10830489291528571},{\"home\":3,\"away\":0,\"probability\":0.10675252278349992},{\"home\":2,\"away\":1,\"probability\":0.08036223054314201},{\"home\":3,\"away\":1,\"probability\":0.07921037190535697},{\"home\":4,\"away\":0,\"probability\":0.0789168024677023}]",
+      "corners_line": 9,
+      "yellow_cards_line": 4.5,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "fixture_id": 53,
+      "home_win_prob": 0.013966402246186003,
+      "draw_prob": 0.03637477663631065,
+      "away_win_prob": 0.9496588211175033,
+      "over_under_probs": "{\"1.5\":{\"under\":0.034562575759827414,\"over\":0.9654374242401725},\"2.5\":{\"under\":0.11011644705948324,\"over\":0.8898835529405168},\"3.5\":{\"under\":0.24135352150698544,\"over\":0.7586464784930146}}",
+      "btts_prob": 0.4621415750886874,
+      "exact_scores": "[{\"home\":0,\"away\":4,\"probability\":0.1037258417663652},{\"home\":0,\"away\":5,\"probability\":0.09540702925670275},{\"home\":0,\"away\":3,\"probability\":0.09021599631777792},{\"home\":0,\"away\":6,\"probability\":0.07312948792526265},{\"home\":1,\"away\":4,\"probability\":0.0634802151610155}]",
+      "corners_line": 10,
+      "yellow_cards_line": 4.5,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "fixture_id": 54,
+      "home_win_prob": 0.5037595275289033,
+      "draw_prob": 0.22183147557779348,
+      "away_win_prob": 0.27440899689330317,
+      "over_under_probs": "{\"1.5\":{\"under\":0.15933507189625182,\"over\":0.8406649281037482},\"2.5\":{\"under\":0.3606456215196425,\"over\":0.6393543784803575},\"3.5\":{\"under\":0.5816846050061255,\"over\":0.4183153949938745}}",
+      "btts_prob": 0.6372143791107455,
+      "exact_scores": "[{\"home\":1,\"away\":1,\"probability\":0.09784909996023888},{\"home\":2,\"away\":1,\"probability\":0.09403298506178955},{\"home\":1,\"away\":0,\"probability\":0.0713185859768505},{\"home\":2,\"away\":0,\"probability\":0.06853716112375331},{\"home\":1,\"away\":2,\"probability\":0.06712448257272388}]",
+      "corners_line": 9.5,
+      "yellow_cards_line": 4,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "fixture_id": 55,
+      "home_win_prob": 0.7039503311132209,
+      "draw_prob": 0.1677997146435111,
+      "away_win_prob": 0.12824995424326793,
+      "over_under_probs": "{\"1.5\":{\"under\":0.13918478962330796,\"over\":0.8608152103766921},\"2.5\":{\"under\":0.32661371869272215,\"over\":0.6733862813072778},\"3.5\":{\"under\":0.5433752751614996,\"over\":0.45662472483850036}}",
+      "btts_prob": 0.5722925988682924,
+      "exact_scores": "[{\"home\":2,\"away\":0,\"probability\":0.09669386412208059},{\"home\":2,\"away\":1,\"probability\":0.09451825217933377},{\"home\":3,\"away\":0,\"probability\":0.08032036979740827},{\"home\":3,\"away\":1,\"probability\":0.07851316147696659},{\"home\":1,\"away\":0,\"probability\":0.07760342224886083}]",
+      "corners_line": 10,
+      "yellow_cards_line": 4,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "fixture_id": 56,
+      "home_win_prob": 0.30474968208988407,
+      "draw_prob": 0.21621939292312517,
+      "away_win_prob": 0.47903092498699074,
+      "over_under_probs": "{\"1.5\":{\"under\":0.13065272621709437,\"over\":0.8693472737829057},\"2.5\":{\"under\":0.3116234801993144,\"over\":0.6883765198006856},\"3.5\":{\"under\":0.5258023675372718,\"over\":0.47419763246272817}}",
+      "btts_prob": 0.6819815283945154,
+      "exact_scores": "[{\"home\":1,\"away\":1,\"probability\":0.0891550889780897},{\"home\":1,\"away\":2,\"probability\":0.0887316023054438},{\"home\":2,\"away\":1,\"probability\":0.06954096940290996},{\"home\":2,\"away\":2,\"probability\":0.06921064979824616},{\"home\":1,\"away\":3,\"probability\":0.05887341812966198}]",
+      "corners_line": 9.5,
+      "yellow_cards_line": 4,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "fixture_id": 57,
+      "home_win_prob": 0.7729623069190749,
+      "draw_prob": 0.13036453799179676,
+      "away_win_prob": 0.09667315508912833,
+      "over_under_probs": "{\"1.5\":{\"under\":0.0843557705215296,\"over\":0.9156442294784704},\"2.5\":{\"under\":0.22353961862422816,\"over\":0.7764603813757718},\"3.5\":{\"under\":0.4139431228287199,\"over\":0.5860568771712801}}",
+      "btts_prob": 0.6195748429703065,
+      "exact_scores": "[{\"home\":3,\"away\":1,\"probability\":0.08238994500486059},{\"home\":2,\"away\":1,\"probability\":0.08088018161471915},{\"home\":3,\"away\":0,\"probability\":0.07861635973746238},{\"home\":2,\"away\":0,\"probability\":0.0771757458155717},{\"home\":4,\"away\":1,\"probability\":0.0629459179837135}]",
+      "corners_line": 10,
+      "yellow_cards_line": 4,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "fixture_id": 58,
+      "home_win_prob": 0.34417456543860536,
+      "draw_prob": 0.23919578365708855,
+      "away_win_prob": 0.4166296509043061,
+      "over_under_probs": "{\"1.5\":{\"under\":0.18972142365161712,\"over\":0.8102785763483829},\"2.5\":{\"under\":0.408900202390758,\"over\":0.591099797609242},\"3.5\":{\"under\":0.6327913248727906,\"over\":0.36720867512720945}}",
+      "btts_prob": 0.6130875652050806,
+      "exact_scores": "[{\"home\":1,\"away\":1,\"probability\":0.10926588680241424},{\"home\":1,\"away\":2,\"probability\":0.08825952006465013},{\"home\":2,\"away\":1,\"probability\":0.07916313498834913},{\"home\":0,\"away\":1,\"probability\":0.07540778937364681},{\"home\":1,\"away\":0,\"probability\":0.06763595592845201}]",
+      "corners_line": 9,
+      "yellow_cards_line": 4,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "fixture_id": 59,
+      "home_win_prob": 0.1445446093882668,
+      "draw_prob": 0.1608577619299832,
+      "away_win_prob": 0.69459762868175,
+      "over_under_probs": "{\"1.5\":{\"under\":0.09701153681435912,\"over\":0.9029884631856409},\"2.5\":{\"under\":0.24890257234251287,\"over\":0.7510974276574871},\"3.5\":{\"under\":0.44780388336663024,\"over\":0.5521961166333698}}",
+      "btts_prob": 0.6541033896044042,
+      "exact_scores": "[{\"home\":1,\"away\":2,\"probability\":0.08794586322314309},{\"home\":1,\"away\":3,\"probability\":0.079913474382096},{\"home\":0,\"away\":2,\"probability\":0.07313585299221878},{\"home\":0,\"away\":3,\"probability\":0.06645611175226279},{\"home\":1,\"away\":1,\"probability\":0.06452374411089}]",
+      "corners_line": 10,
+      "yellow_cards_line": 4,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "fixture_id": 60,
+      "home_win_prob": 0.42973994313284936,
+      "draw_prob": 0.23731504898412453,
+      "away_win_prob": 0.332945007883026,
+      "over_under_probs": "{\"1.5\":{\"under\":0.18589450919893014,\"over\":0.8141054908010699},\"2.5\":{\"under\":0.40301085083955407,\"over\":0.596989149160446},\"3.5\":{\"under\":0.6267492409002169,\"over\":0.3732507590997831}}",
+      "btts_prob": 0.6164728934120379,
+      "exact_scores": "[{\"home\":1,\"away\":1,\"probability\":0.10799078422632856},{\"home\":2,\"away\":1,\"probability\":0.0894973624275698},{\"home\":1,\"away\":2,\"probability\":0.07742939229027758},{\"home\":1,\"away\":0,\"probability\":0.0753073809109683},{\"home\":0,\"away\":1,\"probability\":0.06515281099627664}]",
+      "corners_line": 9,
+      "yellow_cards_line": 4,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "fixture_id": 61,
+      "home_win_prob": 0.4407388184446387,
+      "draw_prob": 0.20901177754070008,
+      "away_win_prob": 0.35024940401466115,
+      "over_under_probs": "{\"1.5\":{\"under\":0.10014506613038784,\"over\":0.8998549338696121},\"2.5\":{\"under\":0.2549985131990169,\"over\":0.7450014868009831},\"3.5\":{\"under\":0.4556885805999601,\"over\":0.5443114194000399}}",
+      "btts_prob": 0.7323571265355002,
+      "exact_scores": "[{\"home\":2,\"away\":1,\"probability\":0.07946556890438938},{\"home\":1,\"away\":1,\"probability\":0.07715103777125182},{\"home\":2,\"away\":2,\"probability\":0.0726315299786119},{\"home\":1,\"away\":2,\"probability\":0.07051604852292416},{\"home\":3,\"away\":1,\"probability\":0.05456635731434738}]",
+      "corners_line": 10.5,
+      "yellow_cards_line": 4,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "fixture_id": 62,
+      "home_win_prob": 0.48706664411552747,
+      "draw_prob": 0.21932557651432646,
+      "away_win_prob": 0.2936077793701461,
+      "over_under_probs": "{\"1.5\":{\"under\":0.1435912150680351,\"over\":0.8564087849319649},\"2.5\":{\"under\":0.3341930884039771,\"over\":0.6658069115960229},\"3.5\":{\"under\":0.5520510296269588,\"over\":0.44794897037304116}}",
+      "btts_prob": 0.6623072344033079,
+      "exact_scores": "[{\"home\":1,\"away\":1,\"probability\":0.09350287735763528},{\"home\":2,\"away\":1,\"probability\":0.09116530542369439},{\"home\":1,\"away\":2,\"probability\":0.0691453778059713},{\"home\":2,\"away\":2,\"probability\":0.06741674336082201},{\"home\":1,\"away\":0,\"probability\":0.06322033627967226}]",
+      "corners_line": 9,
+      "yellow_cards_line": 4.5,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "fixture_id": 63,
+      "home_win_prob": 0.7210833521374367,
+      "draw_prob": 0.1487995199157285,
+      "away_win_prob": 0.13011712794683483,
+      "over_under_probs": "{\"1.5\":{\"under\":0.08341240771047637,\"over\":0.9165875922895237},\"2.5\":{\"under\":0.2215812205262479,\"over\":0.778418779473752},\"3.5\":{\"under\":0.4112179161158944,\"over\":0.5887820838841056}}",
+      "btts_prob": 0.6640571038031382,
+      "exact_scores": "[{\"home\":2,\"away\":1,\"probability\":0.08336190439075906},{\"home\":3,\"away\":1,\"probability\":0.08079157900537733},{\"home\":2,\"away\":0,\"probability\":0.06889413586013146},{\"home\":3,\"away\":0,\"probability\":0.06676990000444408},{\"home\":4,\"away\":1,\"probability\":0.05872537898953363}]",
+      "corners_line": 10,
+      "yellow_cards_line": 4,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "fixture_id": 64,
+      "home_win_prob": 0.7534881589206546,
+      "draw_prob": 0.14229415199467785,
+      "away_win_prob": 0.10421768908466765,
+      "over_under_probs": "{\"1.5\":{\"under\":0.10460174987102655,\"over\":0.8953982501289734},\"2.5\":{\"under\":0.2636418077865363,\"over\":0.7363581922134637},\"3.5\":{\"under\":0.46689500180255766,\"over\":0.5331049981974423}}",
+      "btts_prob": 0.5941604164406027,
+      "exact_scores": "[{\"home\":2,\"away\":0,\"probability\":0.08714191314524375},{\"home\":2,\"away\":1,\"probability\":0.08679334549266278},{\"home\":3,\"away\":0,\"probability\":0.08243624983540061},{\"home\":3,\"away\":1,\"probability\":0.08210650483605902},{\"home\":1,\"away\":0,\"probability\":0.061410791504752454}]",
+      "corners_line": 9.5,
+      "yellow_cards_line": 4,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "fixture_id": 65,
+      "home_win_prob": 0.08233533072264612,
+      "draw_prob": 0.1194826500255179,
+      "away_win_prob": 0.7981820192518361,
+      "over_under_probs": "{\"1.5\":{\"under\":0.0807979944935098,\"over\":0.9192020055064902},\"2.5\":{\"under\":0.21621032660581005,\"over\":0.7837896733941899},\"3.5\":{\"under\":0.40389181891345816,\"over\":0.5961081810865418}}",
+      "btts_prob": 0.6023063766064675,
+      "exact_scores": "[{\"home\":0,\"away\":3,\"probability\":0.08316599343946889},{\"home\":1,\"away\":3,\"probability\":0.08216800151819527},{\"home\":0,\"away\":2,\"probability\":0.0787059874821472},{\"home\":1,\"away\":2,\"probability\":0.07776151563236146},{\"home\":0,\"away\":4,\"probability\":0.0659090498007791}]",
+      "corners_line": 9.5,
+      "yellow_cards_line": 4,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "fixture_id": 66,
+      "home_win_prob": 0.6709830943082771,
+      "draw_prob": 0.17027399688658976,
+      "away_win_prob": 0.15874290880513311,
+      "over_under_probs": "{\"1.5\":{\"under\":0.10569019274180089,\"over\":0.8943098072581991},\"2.5\":{\"under\":0.26570236279929255,\"over\":0.7342976372007075},\"3.5\":{\"under\":0.4694778613675082,\"over\":0.5305221386324919}}",
+      "btts_prob": 0.6522547630649149,
+      "exact_scores": "[{\"home\":2,\"away\":1,\"probability\":0.090436005523574},{\"home\":3,\"away\":1,\"probability\":0.07845323479170045},{\"home\":2,\"away\":0,\"probability\":0.07424959402592282},{\"home\":1,\"away\":1,\"probability\":0.06949933181446609},{\"home\":3,\"away\":0,\"probability\":0.06441152281748806}]",
+      "corners_line": 9.5,
+      "yellow_cards_line": 4,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "fixture_id": 67,
+      "home_win_prob": 0.436852795429354,
+      "draw_prob": 0.2103862869890639,
+      "away_win_prob": 0.3527609175815821,
+      "over_under_probs": "{\"1.5\":{\"under\":0.10341934836823505,\"over\":0.8965806516317649},\"2.5\":{\"under\":0.2613299327006748,\"over\":0.7386700672993252},\"3.5\":{\"under\":0.4638502571070287,\"over\":0.5361497428929713}}",
+      "btts_prob": 0.7275885224536349,
+      "exact_scores": "[{\"home\":2,\"away\":1,\"probability\":0.0799298931865758},{\"home\":1,\"away\":1,\"probability\":0.07870988989323072},{\"home\":2,\"away\":2,\"probability\":0.07259632548670747},{\"home\":1,\"away\":2,\"probability\":0.0714882574955268},{\"home\":3,\"away\":1,\"probability\":0.05411253768731182}]",
+      "corners_line": 10,
+      "yellow_cards_line": 4,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "fixture_id": 68,
+      "home_win_prob": 0.3546535176859002,
+      "draw_prob": 0.20684169768311203,
+      "away_win_prob": 0.4385047846309878,
+      "over_under_probs": "{\"1.5\":{\"under\":0.09388481895212149,\"over\":0.9061151810478785},\"2.5\":{\"under\":0.24270388631424972,\"over\":0.7572961136857503},\"3.5\":{\"under\":0.4395915124343454,\"over\":0.5604084875656545}}",
+      "btts_prob": 0.7424443841348796,
+      "exact_scores": "[{\"home\":1,\"away\":2,\"probability\":0.07763680802692875},{\"home\":1,\"away\":1,\"probability\":0.07418710752692666},{\"home\":2,\"away\":2,\"probability\":0.07282332592925916},{\"home\":2,\"away\":1,\"probability\":0.06958750686025719},{\"home\":1,\"away\":3,\"probability\":0.05416461306678729}]",
+      "corners_line": 9.5,
+      "yellow_cards_line": 4,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "fixture_id": 69,
+      "home_win_prob": 0.5072845430041159,
+      "draw_prob": 0.20192730442583917,
+      "away_win_prob": 0.29078815257004487,
+      "over_under_probs": "{\"1.5\":{\"under\":0.09697176448306045,\"over\":0.9030282355169396},\"2.5\":{\"under\":0.24880052844244313,\"over\":0.7511994715575568},\"3.5\":{\"under\":0.44762029484725474,\"over\":0.5523797051527453}}",
+      "btts_prob": 0.7280774401872687,
+      "exact_scores": "[{\"home\":2,\"away\":1,\"probability\":0.08348544689150575},{\"home\":1,\"away\":1,\"probability\":0.07435800213004296},{\"home\":2,\"away\":2,\"probability\":0.07025300355920208},{\"home\":1,\"away\":2,\"probability\":0.06257225879243114},{\"home\":3,\"away\":1,\"probability\":0.06248885699829204}]",
+      "corners_line": 9.5,
+      "yellow_cards_line": 4,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "fixture_id": 70,
+      "home_win_prob": 0.42096172758018496,
+      "draw_prob": 0.20906906138621914,
+      "away_win_prob": 0.3699692110335958,
+      "over_under_probs": "{\"1.5\":{\"under\":0.09801568332985677,\"over\":0.9019843166701432},\"2.5\":{\"under\":0.25084461841891725,\"over\":0.7491553815810827},\"3.5\":{\"under\":0.4502863787101412,\"over\":0.5497136212898588}}",
+      "btts_prob": 0.736971786163625,
+      "exact_scores": "[{\"home\":2,\"away\":1,\"probability\":0.07720669319475358},{\"home\":1,\"away\":1,\"probability\":0.0763289107214568},{\"home\":2,\"away\":2,\"probability\":0.07303753176223687},{\"home\":1,\"away\":2,\"probability\":0.07220714954249813},{\"home\":3,\"away\":1,\"probability\":0.05206304677766218}]",
+      "corners_line": 9.5,
+      "yellow_cards_line": 4,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "fixture_id": 71,
+      "home_win_prob": 0.32782782465108523,
+      "draw_prob": 0.21253078004711232,
+      "away_win_prob": 0.4596413953018024,
+      "over_under_probs": "{\"1.5\":{\"under\":0.11385191110446428,\"over\":0.8861480888955358},\"2.5\":{\"under\":0.28107733795682593,\"over\":0.7189226620431741},\"3.5\":{\"under\":0.48877131810745905,\"over\":0.5112286818925409}}",
+      "btts_prob": 0.7094351675764548,
+      "exact_scores": "[{\"home\":1,\"away\":2,\"probability\":0.08415163307350552},{\"home\":1,\"away\":1,\"probability\":0.08294887439478119},{\"home\":2,\"away\":2,\"probability\":0.07140266066286945},{\"home\":2,\"away\":1,\"probability\":0.07038211992397184},{\"home\":1,\"away\":3,\"probability\":0.05691455450204758}]",
+      "corners_line": 9.5,
+      "yellow_cards_line": 4,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "fixture_id": 72,
+      "home_win_prob": 0.46797934177054973,
+      "draw_prob": 0.2009991724570743,
+      "away_win_prob": 0.33102148577237606,
+      "over_under_probs": "{\"1.5\":{\"under\":0.08335139345598445,\"over\":0.9166486065440156},\"2.5\":{\"under\":0.2214191389684689,\"over\":0.7785808610315311},\"3.5\":{\"under\":0.41091711968435385,\"over\":0.5890828803156462}}",
+      "btts_prob": 0.7569868438025188,
+      "exact_scores": "[{\"home\":2,\"away\":1,\"probability\":0.07670483484601037},{\"home\":2,\"away\":2,\"probability\":0.07202583992040373},{\"home\":1,\"away\":1,\"probability\":0.06850175025319076},{\"home\":1,\"away\":2,\"probability\":0.06432314348774612},{\"home\":3,\"away\":1,\"probability\":0.05726015921254675}]",
+      "corners_line": 9.5,
+      "yellow_cards_line": 4,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    }
+  ],
+  "tournament_sims": [
+    {
+      "team_id": "USA",
+      "champion_prob": 0.0096,
+      "reach_final_prob": 0.0355,
+      "reach_semi_prob": 0.1211,
+      "reach_quarter_prob": 0.2668,
+      "reach_r32_prob": 0.8972,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "team_id": "COL",
+      "champion_prob": 0.0228,
+      "reach_final_prob": 0.0725,
+      "reach_semi_prob": 0.2047,
+      "reach_quarter_prob": 0.3824,
+      "reach_r32_prob": 0.9474,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "team_id": "SEN",
+      "champion_prob": 0.005,
+      "reach_final_prob": 0.0212,
+      "reach_semi_prob": 0.0776,
+      "reach_quarter_prob": 0.1912,
+      "reach_r32_prob": 0.8461,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "team_id": "NZL",
+      "champion_prob": 0,
+      "reach_final_prob": 0,
+      "reach_semi_prob": 0.0008,
+      "reach_quarter_prob": 0.0031,
+      "reach_r32_prob": 0.1118,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "team_id": "MEX",
+      "champion_prob": 0.0019,
+      "reach_final_prob": 0.0119,
+      "reach_semi_prob": 0.0471,
+      "reach_quarter_prob": 0.1224,
+      "reach_r32_prob": 0.7086,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "team_id": "ITA",
+      "champion_prob": 0.0471,
+      "reach_final_prob": 0.1197,
+      "reach_semi_prob": 0.2805,
+      "reach_quarter_prob": 0.4541,
+      "reach_r32_prob": 0.958,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "team_id": "MAR",
+      "champion_prob": 0.0121,
+      "reach_final_prob": 0.0404,
+      "reach_semi_prob": 0.123,
+      "reach_quarter_prob": 0.2447,
+      "reach_r32_prob": 0.866,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "team_id": "UZB",
+      "champion_prob": 0.0001,
+      "reach_final_prob": 0.0004,
+      "reach_semi_prob": 0.0014,
+      "reach_quarter_prob": 0.0111,
+      "reach_r32_prob": 0.2086,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "team_id": "CAN",
+      "champion_prob": 0.001,
+      "reach_final_prob": 0.0036,
+      "reach_semi_prob": 0.0145,
+      "reach_quarter_prob": 0.0721,
+      "reach_r32_prob": 0.5909,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "team_id": "GER",
+      "champion_prob": 0.0336,
+      "reach_final_prob": 0.0911,
+      "reach_semi_prob": 0.1654,
+      "reach_quarter_prob": 0.4789,
+      "reach_r32_prob": 0.9604,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "team_id": "EGY",
+      "champion_prob": 0.0004,
+      "reach_final_prob": 0.0041,
+      "reach_semi_prob": 0.0151,
+      "reach_quarter_prob": 0.0759,
+      "reach_r32_prob": 0.6026,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "team_id": "AUS",
+      "champion_prob": 0.0002,
+      "reach_final_prob": 0.0025,
+      "reach_semi_prob": 0.0122,
+      "reach_quarter_prob": 0.0652,
+      "reach_r32_prob": 0.56,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "team_id": "ARG",
+      "champion_prob": 0.2837,
+      "reach_final_prob": 0.464,
+      "reach_semi_prob": 0.5908,
+      "reach_quarter_prob": 0.7269,
+      "reach_r32_prob": 0.9978,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "team_id": "DEN",
+      "champion_prob": 0.0052,
+      "reach_final_prob": 0.0198,
+      "reach_semi_prob": 0.0492,
+      "reach_quarter_prob": 0.1047,
+      "reach_r32_prob": 0.8228,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "team_id": "ALG",
+      "champion_prob": 0.0001,
+      "reach_final_prob": 0.0015,
+      "reach_semi_prob": 0.0077,
+      "reach_quarter_prob": 0.0308,
+      "reach_r32_prob": 0.4773,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "team_id": "JAM",
+      "champion_prob": 0.0001,
+      "reach_final_prob": 0.0005,
+      "reach_semi_prob": 0.0023,
+      "reach_quarter_prob": 0.0085,
+      "reach_r32_prob": 0.2428,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "team_id": "BRA",
+      "champion_prob": 0.1225,
+      "reach_final_prob": 0.2134,
+      "reach_semi_prob": 0.3649,
+      "reach_quarter_prob": 0.6357,
+      "reach_r32_prob": 0.9959,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "team_id": "POL",
+      "champion_prob": 0.0006,
+      "reach_final_prob": 0.0027,
+      "reach_semi_prob": 0.0141,
+      "reach_quarter_prob": 0.0606,
+      "reach_r32_prob": 0.6194,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "team_id": "JPN",
+      "champion_prob": 0.0113,
+      "reach_final_prob": 0.0326,
+      "reach_semi_prob": 0.0869,
+      "reach_quarter_prob": 0.2248,
+      "reach_r32_prob": 0.9423,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "team_id": "HON",
+      "champion_prob": 0,
+      "reach_final_prob": 0,
+      "reach_semi_prob": 0.0001,
+      "reach_quarter_prob": 0.001,
+      "reach_r32_prob": 0.075,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "team_id": "FRA",
+      "champion_prob": 0.139,
+      "reach_final_prob": 0.2318,
+      "reach_semi_prob": 0.3833,
+      "reach_quarter_prob": 0.5964,
+      "reach_r32_prob": 0.9939,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "team_id": "ECU",
+      "champion_prob": 0.0032,
+      "reach_final_prob": 0.012,
+      "reach_semi_prob": 0.0361,
+      "reach_quarter_prob": 0.1069,
+      "reach_r32_prob": 0.7654,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "team_id": "KOR",
+      "champion_prob": 0.0005,
+      "reach_final_prob": 0.0046,
+      "reach_semi_prob": 0.0184,
+      "reach_quarter_prob": 0.0643,
+      "reach_r32_prob": 0.6172,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "team_id": "PAN",
+      "champion_prob": 0,
+      "reach_final_prob": 0.0003,
+      "reach_semi_prob": 0.0019,
+      "reach_quarter_prob": 0.0101,
+      "reach_r32_prob": 0.2477,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "team_id": "ENG",
+      "champion_prob": 0.0585,
+      "reach_final_prob": 0.1172,
+      "reach_semi_prob": 0.2366,
+      "reach_quarter_prob": 0.4676,
+      "reach_r32_prob": 0.9909,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "team_id": "URU",
+      "champion_prob": 0.0109,
+      "reach_final_prob": 0.0293,
+      "reach_semi_prob": 0.0808,
+      "reach_quarter_prob": 0.2117,
+      "reach_r32_prob": 0.9496,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "team_id": "TUN",
+      "champion_prob": 0,
+      "reach_final_prob": 0.0001,
+      "reach_semi_prob": 0.0028,
+      "reach_quarter_prob": 0.017,
+      "reach_r32_prob": 0.3583,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "team_id": "IRQ",
+      "champion_prob": 0,
+      "reach_final_prob": 0.0002,
+      "reach_semi_prob": 0.001,
+      "reach_quarter_prob": 0.007,
+      "reach_r32_prob": 0.2044,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "team_id": "ESP",
+      "champion_prob": 0.118,
+      "reach_final_prob": 0.1957,
+      "reach_semi_prob": 0.34,
+      "reach_quarter_prob": 0.5301,
+      "reach_r32_prob": 0.9971,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "team_id": "CHI",
+      "champion_prob": 0.0002,
+      "reach_final_prob": 0.002,
+      "reach_semi_prob": 0.0095,
+      "reach_quarter_prob": 0.0393,
+      "reach_r32_prob": 0.6093,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "team_id": "NGA",
+      "champion_prob": 0.001,
+      "reach_final_prob": 0.0048,
+      "reach_semi_prob": 0.0183,
+      "reach_quarter_prob": 0.0612,
+      "reach_r32_prob": 0.7492,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "team_id": "KSA",
+      "champion_prob": 0.0001,
+      "reach_final_prob": 0.0001,
+      "reach_semi_prob": 0.0011,
+      "reach_quarter_prob": 0.0045,
+      "reach_r32_prob": 0.2275,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "team_id": "POR",
+      "champion_prob": 0.0503,
+      "reach_final_prob": 0.0952,
+      "reach_semi_prob": 0.1963,
+      "reach_quarter_prob": 0.3592,
+      "reach_r32_prob": 0.9943,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "team_id": "SUI",
+      "champion_prob": 0.0037,
+      "reach_final_prob": 0.0127,
+      "reach_semi_prob": 0.0446,
+      "reach_quarter_prob": 0.1229,
+      "reach_r32_prob": 0.9033,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "team_id": "CIV",
+      "champion_prob": 0.0012,
+      "reach_final_prob": 0.0057,
+      "reach_semi_prob": 0.0197,
+      "reach_quarter_prob": 0.0674,
+      "reach_r32_prob": 0.7456,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "team_id": "CHN",
+      "champion_prob": 0,
+      "reach_final_prob": 0,
+      "reach_semi_prob": 0,
+      "reach_quarter_prob": 0.0005,
+      "reach_r32_prob": 0.0729,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "team_id": "NED",
+      "champion_prob": 0.0271,
+      "reach_final_prob": 0.0598,
+      "reach_semi_prob": 0.1462,
+      "reach_quarter_prob": 0.3236,
+      "reach_r32_prob": 0.9757,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "team_id": "PER",
+      "champion_prob": 0.0001,
+      "reach_final_prob": 0.0018,
+      "reach_semi_prob": 0.0115,
+      "reach_quarter_prob": 0.0471,
+      "reach_r32_prob": 0.5837,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "team_id": "GHA",
+      "champion_prob": 0,
+      "reach_final_prob": 0.0009,
+      "reach_semi_prob": 0.0059,
+      "reach_quarter_prob": 0.0273,
+      "reach_r32_prob": 0.4621,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "team_id": "IRN",
+      "champion_prob": 0.0007,
+      "reach_final_prob": 0.0033,
+      "reach_semi_prob": 0.0129,
+      "reach_quarter_prob": 0.0524,
+      "reach_r32_prob": 0.6654,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "team_id": "BEL",
+      "champion_prob": 0.0157,
+      "reach_final_prob": 0.0383,
+      "reach_semi_prob": 0.0976,
+      "reach_quarter_prob": 0.2189,
+      "reach_r32_prob": 0.9597,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "team_id": "CRO",
+      "champion_prob": 0.0074,
+      "reach_final_prob": 0.0237,
+      "reach_semi_prob": 0.0656,
+      "reach_quarter_prob": 0.1639,
+      "reach_r32_prob": 0.9349,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "team_id": "CMR",
+      "champion_prob": 0,
+      "reach_final_prob": 0.0015,
+      "reach_semi_prob": 0.0086,
+      "reach_quarter_prob": 0.0296,
+      "reach_r32_prob": 0.4892,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "team_id": "CRC",
+      "champion_prob": 0,
+      "reach_final_prob": 0,
+      "reach_semi_prob": 0.002,
+      "reach_quarter_prob": 0.0118,
+      "reach_r32_prob": 0.2736,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "team_id": "AUT",
+      "champion_prob": 0.0025,
+      "reach_final_prob": 0.0089,
+      "reach_semi_prob": 0.031,
+      "reach_quarter_prob": 0.1048,
+      "reach_r32_prob": 0.7955,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "team_id": "TUR",
+      "champion_prob": 0.0017,
+      "reach_final_prob": 0.0056,
+      "reach_semi_prob": 0.02,
+      "reach_quarter_prob": 0.0778,
+      "reach_r32_prob": 0.7408,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "team_id": "SRB",
+      "champion_prob": 0.0003,
+      "reach_final_prob": 0.0029,
+      "reach_semi_prob": 0.0102,
+      "reach_quarter_prob": 0.047,
+      "reach_r32_prob": 0.5792,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    },
+    {
+      "team_id": "UKR",
+      "champion_prob": 0.0006,
+      "reach_final_prob": 0.0042,
+      "reach_semi_prob": 0.0187,
+      "reach_quarter_prob": 0.0688,
+      "reach_r32_prob": 0.6827,
+      "timestamp": "2026-06-11T01:57:55.826Z"
+    }
+  ]
+}
