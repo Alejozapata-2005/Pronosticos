@@ -37,6 +37,10 @@
     "**/*.mts"
   ],
   "exclude": [
-    "node_modules"
+    "node_modules",
+      "USAGE_EXAMPLES.ts",
+    "ROUTE_REPLACEMENTS.tsx",
+    "lib/db/world_cup_2026_seed.ts",
+        "lib/actions.improved.ts"
   ]
 }
