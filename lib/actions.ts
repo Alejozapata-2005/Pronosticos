@@ -26,68 +26,123 @@ export async function getFixtures() {
   `).all() as any[];
 }
 
-export async function getFixtureDetail(id: number) {
-  const fixture = db.prepare(`
-    SELECT f.*, 
-           t_home.name as home_name, t_home.flag as home_flag, t_home.code as home_code, t_home.off_strength as home_off, t_home.def_strength as home_def, t_home.fifa_ranking as home_fifa,
-           t_away.name as away_name, t_away.flag as away_flag, t_away.code as away_code, t_away.off_strength as away_off, t_away.def_strength as away_def, t_away.fifa_ranking as away_fifa
-    FROM fixtures f
-    JOIN teams t_home ON f.home_team_id = t_home.id
-    JOIN teams t_away ON f.away_team_id = t_away.id
-    WHERE f.id = ?
-  `).get(id) as any;
+/**
+ * Safely parse JSON string with fallback
+ * Returns null if the JSON is invalid, undefined, or the literal string "undefined"
+ */
+function safeJsonParse(jsonString: string | null | undefined, fieldName: string): any {
+  try {
+    if (!jsonString || typeof jsonString !== 'string') {
+      console.warn(`[getFixtureDetail] Field '${fieldName}' is null, undefined, or not a string`);
+      return null;
+    }
 
-  if (!fixture) {
+    if (jsonString === 'undefined') {
+      console.warn(`[getFixtureDetail] Field '${fieldName}' contains literal string "undefined"`);
+      return null;
+    }
+
+    return JSON.parse(jsonString);
+  } catch (parseError) {
+    console.error(`[getFixtureDetail] Failed to parse JSON for field '${fieldName}':`, parseError, `Raw value: ${jsonString}`);
     return null;
   }
+}
 
-  const prediction = db.prepare(`
-    SELECT * FROM predictions WHERE fixture_id = ?
-  `).get(id) as any;
+export async function getFixtureDetail(id: number) {
+  try {
+    /* Validate input */
+    if (!Number.isInteger(id) || id <= 0) {
+      console.warn(`[getFixtureDetail] Invalid fixture ID: ${id}`);
+      return null;
+    }
 
-  const homePlayers = db.prepare(`
-    SELECT * FROM players WHERE team_id = ?
-  `).all(fixture.home_team_id) as any[];
+    /* Fetch fixture with team details */
+    const fixture = db.prepare(`
+      SELECT f.*, 
+             t_home.name as home_name, t_home.flag as home_flag, t_home.code as home_code, t_home.off_strength as home_off, t_home.def_strength as home_def, t_home.fifa_ranking as home_fifa,
+             t_away.name as away_name, t_away.flag as away_flag, t_away.code as away_code, t_away.off_strength as away_off, t_away.def_strength as away_def, t_away.fifa_ranking as away_fifa
+      FROM fixtures f
+      JOIN teams t_home ON f.home_team_id = t_home.id
+      JOIN teams t_away ON f.away_team_id = t_away.id
+      WHERE f.id = ?
+    `).get(id) as any;
 
-  const awayPlayers = db.prepare(`
-    SELECT * FROM players WHERE team_id = ?
-  `).all(fixture.away_team_id) as any[];
+    if (!fixture) {
+      console.warn(`[getFixtureDetail] Fixture with ID ${id} not found in database`);
+      return null;
+    }
 
-  /* Calculate dynamic scorer predictions if prediction data is present */
-  let scorerPredictions: any[] = [];
-  if (prediction) {
-    /* Parse scores to find no-goal probability (0-0 score probability) */
-    const exactScores = JSON.parse(prediction.exact_scores);
-    const zeroZero = exactScores.find((s: any) => s.home === 0 && s.away === 0);
-    const noGoalProb = zeroZero ? zeroZero.probability : 0.08;
+    /* Fetch prediction data with robust JSON parsing */
+    const prediction = db.prepare(`
+      SELECT * FROM predictions WHERE fixture_id = ?
+    `).get(id) as any;
 
-    /* Home and away lambdas: we can estimate them back from expectation or calculate them directly */
-    const globalMean = 1.35;
-    const fifaDiff = fixture.away_fifa - fixture.home_fifa;
-    const rankAdjustment = fifaDiff * 0.002;
-    let homeLambda = fixture.home_off * fixture.away_def * globalMean + rankAdjustment;
-    let awayLambda = fixture.away_off * fixture.home_def * globalMean - rankAdjustment;
-    if (homeLambda < 0.1) homeLambda = 0.1;
-    if (awayLambda < 0.1) awayLambda = 0.1;
+    /* Fetch players for both teams */
+    const homePlayers = db.prepare(`
+      SELECT * FROM players WHERE team_id = ?
+    `).all(fixture.home_team_id) as any[];
 
-    scorerPredictions = predictGoalscorers(
-      homePlayers.map(p => ({ name: p.name, position: p.position, goal_ratio: p.goal_ratio })),
-      awayPlayers.map(p => ({ name: p.name, position: p.position, goal_ratio: p.goal_ratio })),
-      homeLambda,
-      awayLambda,
-      noGoalProb
-    );
+    const awayPlayers = db.prepare(`
+      SELECT * FROM players WHERE team_id = ?
+    `).all(fixture.away_team_id) as any[];
+
+    /* Calculate dynamic scorer predictions if prediction data is present */
+    let scorerPredictions: any[] = [];
+    let parsedPrediction: any = null;
+
+    if (prediction) {
+      /* Safely parse JSON fields with fallbacks */
+      const exactScores = safeJsonParse(prediction.exact_scores, 'exact_scores') || [];
+      const overUnder = safeJsonParse(prediction.over_under, 'over_under') || {};
+
+      if (exactScores && Array.isArray(exactScores)) {
+        const zeroZero = exactScores.find((s: any) => s?.home === 0 && s?.away === 0);
+        const noGoalProb = zeroZero?.probability ?? 0.08;
+
+        /* Calculate lambdas for Poisson distribution */
+        const globalMean = 1.35;
+        const fifaDiff = fixture.away_fifa - fixture.home_fifa;
+        const rankAdjustment = fifaDiff * 0.002;
+        
+        let homeLambda = fixture.home_off * fixture.away_def * globalMean + rankAdjustment;
+        let awayLambda = fixture.away_off * fixture.home_def * globalMean - rankAdjustment;
+        
+        if (homeLambda < 0.1) homeLambda = 0.1;
+        if (awayLambda < 0.1) awayLambda = 0.1;
+
+        /* Generate scorer predictions */
+        try {
+          scorerPredictions = predictGoalscorers(
+            homePlayers.map(p => ({ name: p.name, position: p.position, goal_ratio: p.goal_ratio })),
+            awayPlayers.map(p => ({ name: p.name, position: p.position, goal_ratio: p.goal_ratio })),
+            homeLambda,
+            awayLambda,
+            noGoalProb
+          );
+        } catch (scorerError) {
+          console.error(`[getFixtureDetail] Error calculating scorer predictions for fixture ${id}:`, scorerError);
+          scorerPredictions = [];
+        }
+      }
+
+      /* Return parsed prediction data with safe JSON values */
+      parsedPrediction = {
+        ...prediction,
+        over_under: overUnder,
+        exact_scores: exactScores
+      };
+    }
+
+    return {
+      fixture,
+      prediction: parsedPrediction,
+      scorerPredictions
+    };
+  } catch (error) {
+    console.error(`[getFixtureDetail] Unexpected error fetching fixture details for ID ${id}:`, error);
+    return null;
   }
-
-  return {
-    fixture,
-    prediction: prediction ? {
-      ...prediction,
-      over_under: JSON.parse(prediction.over_under),
-      exact_scores: JSON.parse(prediction.exact_scores)
-    } : null,
-    scorerPredictions
-  };
 }
 
 export interface ProjectedStanding {
