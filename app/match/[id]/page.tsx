@@ -20,7 +20,15 @@ export default async function MatchPage({ params }: PageProps) {
     return notFound();
   }
 
-  const data = await getFixtureDetail(fixtureId);
+  // Control de seguridad para evitar crashes en el servidor de Vercel
+  let data = null;
+  try {
+    data = await getFixtureDetail(fixtureId);
+  } catch (error) {
+    console.error("Error al obtener los detalles del partido en el servidor:", error);
+    return notFound();
+  }
+
   if (!data) {
     return notFound();
   }
