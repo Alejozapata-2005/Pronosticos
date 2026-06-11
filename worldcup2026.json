@@ -1988,7 +1988,7 @@
       "exact_scores": "[{\"home\":1,\"away\":2,\"probability\":0.08293943044286206},{\"home\":1,\"away\":1,\"probability\":0.08038713878639406},{\"home\":2,\"away\":2,\"probability\":0.07174260733307569},{\"home\":2,\"away\":1,\"probability\":0.06953487505023086},{\"home\":1,\"away\":3,\"probability\":0.057048504906281966}]",
       "corners_line": 10,
       "yellow_cards_line": 4,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "fixture_id": 2,
@@ -2000,7 +2000,7 @@
       "exact_scores": "[{\"home\":2,\"away\":0,\"probability\":0.09044201609948692},{\"home\":2,\"away\":1,\"probability\":0.08876883880164642},{\"home\":3,\"away\":0,\"probability\":0.0831463601341283},{\"home\":3,\"away\":1,\"probability\":0.08160815247164695},{\"home\":1,\"away\":0,\"probability\":0.06558521834625593}]",
       "corners_line": 9,
       "yellow_cards_line": 4.5,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "fixture_id": 3,
@@ -2012,7 +2012,7 @@
       "exact_scores": "[{\"home\":1,\"away\":1,\"probability\":0.08628716745470652},{\"home\":2,\"away\":1,\"probability\":0.0844751369381577},{\"home\":1,\"away\":2,\"probability\":0.07278322574804494},{\"home\":2,\"away\":2,\"probability\":0.07125477800733601},{\"home\":3,\"away\":1,\"probability\":0.055134106041637605}]",
       "corners_line": 10,
       "yellow_cards_line": 4,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "fixture_id": 4,
@@ -2024,7 +2024,7 @@
       "exact_scores": "[{\"home\":3,\"away\":0,\"probability\":0.09449907100335635},{\"home\":2,\"away\":0,\"probability\":0.08495571261913967},{\"home\":3,\"away\":1,\"probability\":0.08013521221084621},{\"home\":4,\"away\":0,\"probability\":0.07883584998455004},{\"home\":2,\"away\":1,\"probability\":0.07204244430103046}]",
       "corners_line": 9.5,
       "yellow_cards_line": 4.5,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "fixture_id": 5,
@@ -2036,7 +2036,7 @@
       "exact_scores": "[{\"home\":0,\"away\":3,\"probability\":0.08496823855225819},{\"home\":1,\"away\":3,\"probability\":0.08220677079930981},{\"home\":0,\"away\":2,\"probability\":0.0809221319545316},{\"home\":1,\"away\":2,\"probability\":0.07829216266600934},{\"home\":0,\"away\":4,\"probability\":0.06691248785990332}]",
       "corners_line": 9.5,
       "yellow_cards_line": 4.5,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "fixture_id": 6,
@@ -2048,7 +2048,7 @@
       "exact_scores": "[{\"home\":2,\"away\":1,\"probability\":0.09046574399718853},{\"home\":1,\"away\":1,\"probability\":0.08709096895036199},{\"home\":2,\"away\":2,\"probability\":0.06784930799789139},{\"home\":1,\"away\":2,\"probability\":0.06531822671277149},{\"home\":3,\"away\":1,\"probability\":0.06264752771805306}]",
       "corners_line": 10,
       "yellow_cards_line": 4,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "fixture_id": 7,
@@ -2060,7 +2060,7 @@
       "exact_scores": "[{\"home\":1,\"away\":2,\"probability\":0.09167642660901365},{\"home\":1,\"away\":1,\"probability\":0.07508306847585065},{\"home\":1,\"away\":3,\"probability\":0.07462461125973711},{\"home\":0,\"away\":2,\"probability\":0.06992862441572362},{\"home\":2,\"away\":2,\"probability\":0.060093897642208446}]",
       "corners_line": 10,
       "yellow_cards_line": 4,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "fixture_id": 8,
@@ -2072,7 +2072,7 @@
       "exact_scores": "[{\"home\":2,\"away\":0,\"probability\":0.09616776455600187},{\"home\":2,\"away\":1,\"probability\":0.09366740267754582},{\"home\":3,\"away\":0,\"probability\":0.08129381697134025},{\"home\":3,\"away\":1,\"probability\":0.0791801777300854},{\"home\":1,\"away\":0,\"probability\":0.07584208561198887}]",
       "corners_line": 9.5,
       "yellow_cards_line": 4,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "fixture_id": 9,
@@ -2084,7 +2084,7 @@
       "exact_scores": "[{\"home\":1,\"away\":2,\"probability\":0.09033591453778539},{\"home\":1,\"away\":1,\"probability\":0.08904476543892101},{\"home\":2,\"away\":2,\"probability\":0.0681132795614902},{\"home\":2,\"away\":1,\"probability\":0.06713975314094645},{\"home\":1,\"away\":3,\"probability\":0.06109719019905553}]",
       "corners_line": 9.5,
       "yellow_cards_line": 4,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "fixture_id": 10,
@@ -2096,7 +2096,7 @@
       "exact_scores": "[{\"home\":3,\"away\":0,\"probability\":0.09769695218573185},{\"home\":2,\"away\":0,\"probability\":0.09672965562943744},{\"home\":3,\"away\":1,\"probability\":0.08118616726634316},{\"home\":2,\"away\":1,\"probability\":0.08038234382806252},{\"home\":4,\"away\":0,\"probability\":0.07400544128069186}]",
       "corners_line": 9.5,
       "yellow_cards_line": 4,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "fixture_id": 11,
@@ -2108,7 +2108,7 @@
       "exact_scores": "[{\"home\":1,\"away\":2,\"probability\":0.09407700414483791},{\"home\":1,\"away\":1,\"probability\":0.07938987691547504},{\"home\":0,\"away\":2,\"probability\":0.07538221485964576},{\"home\":1,\"away\":3,\"probability\":0.07432083327442197},{\"home\":0,\"away\":1,\"probability\":0.0636136834258614}]",
       "corners_line": 9,
       "yellow_cards_line": 4.5,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "fixture_id": 12,
@@ -2120,7 +2120,7 @@
       "exact_scores": "[{\"home\":1,\"away\":1,\"probability\":0.0954292612152556},{\"home\":2,\"away\":1,\"probability\":0.09313895894608949},{\"home\":1,\"away\":0,\"probability\":0.0677043357327106},{\"home\":1,\"away\":2,\"probability\":0.06725377184145137},{\"home\":2,\"away\":0,\"probability\":0.06607943167512557}]",
       "corners_line": 10,
       "yellow_cards_line": 3.5,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "fixture_id": 13,
@@ -2132,7 +2132,7 @@
       "exact_scores": "[{\"home\":1,\"away\":3,\"probability\":0.07397770579413325},{\"home\":1,\"away\":2,\"probability\":0.07008783116450329},{\"home\":1,\"away\":4,\"probability\":0.05856260134928075},{\"home\":2,\"away\":3,\"probability\":0.05664842821185753},{\"home\":2,\"away\":2,\"probability\":0.05366975671421839}]",
       "corners_line": 10,
       "yellow_cards_line": 4,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "fixture_id": 14,
@@ -2144,7 +2144,7 @@
       "exact_scores": "[{\"home\":1,\"away\":1,\"probability\":0.09626350532619395},{\"home\":2,\"away\":1,\"probability\":0.0846156211817245},{\"home\":1,\"away\":2,\"probability\":0.07912860137813144},{\"home\":2,\"away\":2,\"probability\":0.06955404061137754},{\"home\":1,\"away\":0,\"probability\":0.058554443629071744}]",
       "corners_line": 9,
       "yellow_cards_line": 4,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "fixture_id": 15,
@@ -2156,7 +2156,7 @@
       "exact_scores": "[{\"home\":1,\"away\":1,\"probability\":0.09100409549278225},{\"home\":1,\"away\":2,\"probability\":0.08144866546604013},{\"home\":2,\"away\":1,\"probability\":0.07949207741294531},{\"home\":2,\"away\":2,\"probability\":0.07114540928458604},{\"home\":0,\"away\":1,\"probability\":0.05209164023628062}]",
       "corners_line": 9.5,
       "yellow_cards_line": 4,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "fixture_id": 16,
@@ -2168,7 +2168,7 @@
       "exact_scores": "[{\"home\":3,\"away\":1,\"probability\":0.07628359196129865},{\"home\":2,\"away\":1,\"probability\":0.07301029698002741},{\"home\":4,\"away\":1,\"probability\":0.05977772975067267},{\"home\":3,\"away\":2,\"probability\":0.05500046980409633},{\"home\":3,\"away\":0,\"probability\":0.05290124269160793}]",
       "corners_line": 10,
       "yellow_cards_line": 4,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "fixture_id": 17,
@@ -2180,7 +2180,7 @@
       "exact_scores": "[{\"home\":1,\"away\":1,\"probability\":0.08409143051060568},{\"home\":1,\"away\":2,\"probability\":0.07982379041219248},{\"home\":2,\"away\":1,\"probability\":0.07627092747311938},{\"home\":2,\"away\":2,\"probability\":0.07240017790385858},{\"home\":1,\"away\":3,\"probability\":0.050515155365849135}]",
       "corners_line": 9.5,
       "yellow_cards_line": 4.5,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "fixture_id": 18,
@@ -2192,7 +2192,7 @@
       "exact_scores": "[{\"home\":2,\"away\":1,\"probability\":0.08013945218893789},{\"home\":3,\"away\":1,\"probability\":0.07680030834773217},{\"home\":2,\"away\":2,\"probability\":0.05681887160195698},{\"home\":2,\"away\":0,\"probability\":0.05651583370164872},{\"home\":1,\"away\":1,\"probability\":0.05574918413143506}]",
       "corners_line": 10,
       "yellow_cards_line": 4,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "fixture_id": 19,
@@ -2204,7 +2204,7 @@
       "exact_scores": "[{\"home\":2,\"away\":0,\"probability\":0.08603648585626943},{\"home\":3,\"away\":0,\"probability\":0.08477461739704416},{\"home\":2,\"away\":1,\"probability\":0.08367048249522203},{\"home\":3,\"away\":1,\"probability\":0.08244331541862546},{\"home\":4,\"away\":0,\"probability\":0.06264844225641562}]",
       "corners_line": 11,
       "yellow_cards_line": 3.5,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "fixture_id": 20,
@@ -2216,7 +2216,7 @@
       "exact_scores": "[{\"home\":2,\"away\":1,\"probability\":0.08677867092163563},{\"home\":1,\"away\":1,\"probability\":0.08148232011421185},{\"home\":2,\"away\":2,\"probability\":0.06983513542418628},{\"home\":1,\"away\":2,\"probability\":0.06557289711191198},{\"home\":3,\"away\":1,\"probability\":0.06161285635436132}]",
       "corners_line": 9,
       "yellow_cards_line": 4.5,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "fixture_id": 21,
@@ -2228,7 +2228,7 @@
       "exact_scores": "[{\"home\":3,\"away\":0,\"probability\":0.10240622751177021},{\"home\":4,\"away\":0,\"probability\":0.09339447949073446},{\"home\":2,\"away\":0,\"probability\":0.08421564762481103},{\"home\":3,\"away\":1,\"probability\":0.07434692117354519},{\"home\":5,\"away\":0,\"probability\":0.06814061223643987}]",
       "corners_line": 10.5,
       "yellow_cards_line": 4,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "fixture_id": 22,
@@ -2240,7 +2240,7 @@
       "exact_scores": "[{\"home\":2,\"away\":1,\"probability\":0.08742840421971321},{\"home\":3,\"away\":1,\"probability\":0.07870013519844518},{\"home\":2,\"away\":0,\"probability\":0.06892266789098399},{\"home\":1,\"away\":1,\"probability\":0.06474979020160207},{\"home\":3,\"away\":0,\"probability\":0.062041888213200766}]",
       "corners_line": 9.5,
       "yellow_cards_line": 4.5,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "fixture_id": 23,
@@ -2252,7 +2252,7 @@
       "exact_scores": "[{\"home\":0,\"away\":4,\"probability\":0.10370992795008772},{\"home\":0,\"away\":3,\"probability\":0.09602771106489602},{\"home\":0,\"away\":5,\"probability\":0.0896053777488758},{\"home\":0,\"away\":2,\"probability\":0.06668591046173335},{\"home\":1,\"away\":4,\"probability\":0.06580394928433067}]",
       "corners_line": 10.5,
       "yellow_cards_line": 4,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "fixture_id": 24,
@@ -2264,7 +2264,7 @@
       "exact_scores": "[{\"home\":2,\"away\":1,\"probability\":0.09151878721267188},{\"home\":1,\"away\":1,\"probability\":0.08058004597197611},{\"home\":3,\"away\":1,\"probability\":0.06929497505119475},{\"home\":2,\"away\":0,\"probability\":0.06472332900471844},{\"home\":2,\"away\":2,\"probability\":0.06470378255935903}]",
       "corners_line": 9.5,
       "yellow_cards_line": 4,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "fixture_id": 25,
@@ -2276,7 +2276,7 @@
       "exact_scores": "[{\"home\":3,\"away\":1,\"probability\":0.08001080785316486},{\"home\":3,\"away\":0,\"probability\":0.07977149337304572},{\"home\":4,\"away\":1,\"probability\":0.06931936365378567},{\"home\":2,\"away\":1,\"probability\":0.06926343198946604},{\"home\":4,\"away\":0,\"probability\":0.06911202757107245}]",
       "corners_line": 10.5,
       "yellow_cards_line": 4,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "fixture_id": 26,
@@ -2288,7 +2288,7 @@
       "exact_scores": "[{\"home\":3,\"away\":0,\"probability\":0.10508624214704683},{\"home\":2,\"away\":0,\"probability\":0.09453035275596418},{\"home\":4,\"away\":0,\"probability\":0.08761565439010031},{\"home\":3,\"away\":1,\"probability\":0.07797399167310876},{\"home\":2,\"away\":1,\"probability\":0.07014152174492544}]",
       "corners_line": 9.5,
       "yellow_cards_line": 4.5,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "fixture_id": 27,
@@ -2300,7 +2300,7 @@
       "exact_scores": "[{\"home\":2,\"away\":1,\"probability\":0.08958516419256678},{\"home\":3,\"away\":1,\"probability\":0.07489319726498582},{\"home\":1,\"away\":1,\"probability\":0.07143952487445517},{\"home\":2,\"away\":0,\"probability\":0.06621224256656817},{\"home\":2,\"away\":2,\"probability\":0.06060436357627143}]",
       "corners_line": 11,
       "yellow_cards_line": 3.5,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "fixture_id": 28,
@@ -2312,7 +2312,7 @@
       "exact_scores": "[{\"home\":2,\"away\":1,\"probability\":0.09298925099235804},{\"home\":2,\"away\":0,\"probability\":0.08515499175124361},{\"home\":3,\"away\":1,\"probability\":0.07913385259449668},{\"home\":1,\"away\":1,\"probability\":0.0728470434722742},{\"home\":3,\"away\":0,\"probability\":0.07246689798030831}]",
       "corners_line": 9,
       "yellow_cards_line": 4.5,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "fixture_id": 29,
@@ -2324,7 +2324,7 @@
       "exact_scores": "[{\"home\":0,\"away\":4,\"probability\":0.11696328561116873},{\"home\":0,\"away\":5,\"probability\":0.1051032084501962},{\"home\":0,\"away\":3,\"probability\":0.1041293439672101},{\"home\":0,\"away\":6,\"probability\":0.07870478592778857},{\"home\":0,\"away\":2,\"probability\":0.06952771687105061}]",
       "corners_line": 10,
       "yellow_cards_line": 4,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "fixture_id": 30,
@@ -2336,7 +2336,7 @@
       "exact_scores": "[{\"home\":1,\"away\":2,\"probability\":0.08820344377887063},{\"home\":1,\"away\":3,\"probability\":0.07498762778600317},{\"home\":1,\"away\":1,\"probability\":0.06916560970701481},{\"home\":0,\"away\":2,\"probability\":0.06400830462907883},{\"home\":2,\"away\":2,\"probability\":0.06077217276364187}]",
       "corners_line": 10,
       "yellow_cards_line": 4,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "fixture_id": 31,
@@ -2348,7 +2348,7 @@
       "exact_scores": "[{\"home\":2,\"away\":1,\"probability\":0.08868089208012081},{\"home\":2,\"away\":0,\"probability\":0.08180894103332179},{\"home\":3,\"away\":1,\"probability\":0.08129081774011074},{\"home\":3,\"away\":0,\"probability\":0.07499152928054496},{\"home\":1,\"away\":1,\"probability\":0.06449519424008786}]",
       "corners_line": 11,
       "yellow_cards_line": 3.5,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "fixture_id": 32,
@@ -2360,7 +2360,7 @@
       "exact_scores": "[{\"home\":2,\"away\":1,\"probability\":0.09022254628105017},{\"home\":1,\"away\":1,\"probability\":0.0782502569653514},{\"home\":3,\"away\":1,\"probability\":0.0693510639080339},{\"home\":2,\"away\":2,\"probability\":0.06527601223433979},{\"home\":2,\"away\":0,\"probability\":0.06235144870839678}]",
       "corners_line": 9.5,
       "yellow_cards_line": 4.5,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "fixture_id": 33,
@@ -2372,7 +2372,7 @@
       "exact_scores": "[{\"home\":3,\"away\":1,\"probability\":0.08017138751368398},{\"home\":3,\"away\":0,\"probability\":0.07328280394303836},{\"home\":2,\"away\":1,\"probability\":0.0704287445215379},{\"home\":4,\"away\":1,\"probability\":0.0684463220898077},{\"home\":2,\"away\":0,\"probability\":0.0643772801842211}]",
       "corners_line": 11,
       "yellow_cards_line": 4,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "fixture_id": 34,
@@ -2384,7 +2384,7 @@
       "exact_scores": "[{\"home\":2,\"away\":1,\"probability\":0.09649656966832966},{\"home\":1,\"away\":1,\"probability\":0.08405624535568784},{\"home\":2,\"away\":0,\"probability\":0.08318669798993936},{\"home\":3,\"away\":1,\"probability\":0.07385204131949497},{\"home\":1,\"away\":0,\"probability\":0.07246228047904124}]",
       "corners_line": 9.5,
       "yellow_cards_line": 4,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "fixture_id": 35,
@@ -2396,7 +2396,7 @@
       "exact_scores": "[{\"home\":0,\"away\":4,\"probability\":0.08734707358777502},{\"home\":0,\"away\":3,\"probability\":0.08463863719745642},{\"home\":0,\"away\":5,\"probability\":0.07211374395406707},{\"home\":1,\"away\":4,\"probability\":0.07101317082686111},{\"home\":1,\"away\":3,\"probability\":0.06881121204153207}]",
       "corners_line": 10.5,
       "yellow_cards_line": 4,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "fixture_id": 36,
@@ -2408,7 +2408,7 @@
       "exact_scores": "[{\"home\":1,\"away\":1,\"probability\":0.09530524474734807},{\"home\":2,\"away\":1,\"probability\":0.08958693006250716},{\"home\":1,\"away\":2,\"probability\":0.07252729125273187},{\"home\":2,\"away\":2,\"probability\":0.06817565377756794},{\"home\":1,\"away\":0,\"probability\":0.06261842624661501}]",
       "corners_line": 9.5,
       "yellow_cards_line": 4,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "fixture_id": 37,
@@ -2420,7 +2420,7 @@
       "exact_scores": "[{\"home\":2,\"away\":1,\"probability\":0.08024364783962315},{\"home\":2,\"away\":2,\"probability\":0.06744478600920327},{\"home\":3,\"away\":1,\"probability\":0.06697669806347212},{\"home\":1,\"away\":1,\"probability\":0.06409237047893224},{\"home\":3,\"away\":2,\"probability\":0.05629391472234832}]",
       "corners_line": 11,
       "yellow_cards_line": 3.5,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "fixture_id": 38,
@@ -2432,7 +2432,7 @@
       "exact_scores": "[{\"home\":1,\"away\":1,\"probability\":0.10181848337622665},{\"home\":2,\"away\":1,\"probability\":0.09046572247977737},{\"home\":1,\"away\":2,\"probability\":0.0744802205897098},{\"home\":1,\"away\":0,\"probability\":0.06959568241710637},{\"home\":2,\"away\":2,\"probability\":0.06617567599395717}]",
       "corners_line": 8.5,
       "yellow_cards_line": 4.5,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "fixture_id": 39,
@@ -2444,7 +2444,7 @@
       "exact_scores": "[{\"home\":3,\"away\":0,\"probability\":0.09168882573904094},{\"home\":4,\"away\":0,\"probability\":0.08026210583131296},{\"home\":3,\"away\":1,\"probability\":0.07876070130983617},{\"home\":2,\"away\":0,\"probability\":0.07855675488137166},{\"home\":4,\"away\":1,\"probability\":0.06894514890909784}]",
       "corners_line": 10,
       "yellow_cards_line": 4,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "fixture_id": 40,
@@ -2456,7 +2456,7 @@
       "exact_scores": "[{\"home\":3,\"away\":0,\"probability\":0.08244637064773859},{\"home\":3,\"away\":1,\"probability\":0.08178679968255671},{\"home\":2,\"away\":0,\"probability\":0.07617465720456292},{\"home\":2,\"away\":1,\"probability\":0.07556525994692642},{\"home\":4,\"away\":0,\"probability\":0.06692584137330183}]",
       "corners_line": 9.5,
       "yellow_cards_line": 4,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "fixture_id": 41,
@@ -2468,7 +2468,7 @@
       "exact_scores": "[{\"home\":0,\"away\":4,\"probability\":0.08525154194774429},{\"home\":0,\"away\":3,\"probability\":0.08227920564385985},{\"home\":1,\"away\":4,\"probability\":0.07135554061026196},{\"home\":0,\"away\":5,\"probability\":0.07066500312048524},{\"home\":1,\"away\":3,\"probability\":0.06886769512391068}]",
       "corners_line": 10,
       "yellow_cards_line": 4,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "fixture_id": 42,
@@ -2480,7 +2480,7 @@
       "exact_scores": "[{\"home\":2,\"away\":1,\"probability\":0.08923345940268625},{\"home\":2,\"away\":0,\"probability\":0.08800143925314226},{\"home\":3,\"away\":1,\"probability\":0.08147014843465254},{\"home\":3,\"away\":0,\"probability\":0.08034531403811887},{\"home\":1,\"away\":1,\"probability\":0.06515769215238133}]",
       "corners_line": 9.5,
       "yellow_cards_line": 4,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "fixture_id": 43,
@@ -2492,7 +2492,7 @@
       "exact_scores": "[{\"home\":3,\"away\":0,\"probability\":0.09041098848444372},{\"home\":2,\"away\":0,\"probability\":0.08174592087201059},{\"home\":3,\"away\":1,\"probability\":0.08082742370509269},{\"home\":4,\"away\":0,\"probability\":0.07499591494784606},{\"home\":2,\"away\":1,\"probability\":0.07308085325957746}]",
       "corners_line": 10.5,
       "yellow_cards_line": 4,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "fixture_id": 44,
@@ -2504,7 +2504,7 @@
       "exact_scores": "[{\"home\":2,\"away\":1,\"probability\":0.09079377626109196},{\"home\":3,\"away\":1,\"probability\":0.07605491991470803},{\"home\":1,\"away\":1,\"probability\":0.07225927279036366},{\"home\":2,\"away\":0,\"probability\":0.0701652057659134},{\"home\":3,\"away\":0,\"probability\":0.05877505402991347}]",
       "corners_line": 9,
       "yellow_cards_line": 4.5,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "fixture_id": 45,
@@ -2516,7 +2516,7 @@
       "exact_scores": "[{\"home\":3,\"away\":1,\"probability\":0.0812447923197364},{\"home\":3,\"away\":0,\"probability\":0.0749490704056609},{\"home\":2,\"away\":1,\"probability\":0.07408339725203926},{\"home\":2,\"away\":0,\"probability\":0.06834261739118014},{\"home\":4,\"away\":1,\"probability\":0.06682384168298319}]",
       "corners_line": 10.5,
       "yellow_cards_line": 4,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "fixture_id": 46,
@@ -2528,7 +2528,7 @@
       "exact_scores": "[{\"home\":2,\"away\":1,\"probability\":0.09499558496782931},{\"home\":1,\"away\":1,\"probability\":0.08903053886394496},{\"home\":2,\"away\":0,\"probability\":0.07185747728277557},{\"home\":3,\"away\":1,\"probability\":0.06757352610711592},{\"home\":1,\"away\":0,\"probability\":0.0673453395339977}]",
       "corners_line": 9,
       "yellow_cards_line": 4.5,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "fixture_id": 47,
@@ -2540,7 +2540,7 @@
       "exact_scores": "[{\"home\":0,\"away\":4,\"probability\":0.09675738729846402},{\"home\":0,\"away\":3,\"probability\":0.08963166956782215},{\"home\":0,\"away\":5,\"probability\":0.08355967967095354},{\"home\":1,\"away\":4,\"probability\":0.06811720065811867},{\"home\":1,\"away\":3,\"probability\":0.06310069537574681}]",
       "corners_line": 10,
       "yellow_cards_line": 4,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "fixture_id": 48,
@@ -2552,7 +2552,7 @@
       "exact_scores": "[{\"home\":1,\"away\":1,\"probability\":0.09129254265451409},{\"home\":1,\"away\":2,\"probability\":0.08754954840567901},{\"home\":2,\"away\":1,\"probability\":0.07266886395299321},{\"home\":2,\"away\":2,\"probability\":0.0696894405309205},{\"home\":0,\"away\":1,\"probability\":0.05734456196891588}]",
       "corners_line": 9.5,
       "yellow_cards_line": 4,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "fixture_id": 49,
@@ -2564,7 +2564,7 @@
       "exact_scores": "[{\"home\":2,\"away\":1,\"probability\":0.09259293433384677},{\"home\":1,\"away\":1,\"probability\":0.07722513288894643},{\"home\":3,\"away\":1,\"probability\":0.0740126188441882},{\"home\":2,\"away\":0,\"probability\":0.07117058749719198},{\"home\":2,\"away\":2,\"probability\":0.06023170378416732}]",
       "corners_line": 10.5,
       "yellow_cards_line": 3.5,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "fixture_id": 50,
@@ -2576,7 +2576,7 @@
       "exact_scores": "[{\"home\":2,\"away\":0,\"probability\":0.0905356304412129},{\"home\":2,\"away\":1,\"probability\":0.0896302741368008},{\"home\":3,\"away\":0,\"probability\":0.08216108462540073},{\"home\":3,\"away\":1,\"probability\":0.08133947377914673},{\"home\":1,\"away\":0,\"probability\":0.0665091867336734}]",
       "corners_line": 9,
       "yellow_cards_line": 4.5,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "fixture_id": 51,
@@ -2588,7 +2588,7 @@
       "exact_scores": "[{\"home\":3,\"away\":1,\"probability\":0.08138978254378593},{\"home\":2,\"away\":1,\"probability\":0.08074383188867651},{\"home\":3,\"away\":0,\"probability\":0.06929738828759978},{\"home\":2,\"away\":0,\"probability\":0.06874740901547596},{\"home\":4,\"away\":1,\"probability\":0.06153067560310217}]",
       "corners_line": 10.5,
       "yellow_cards_line": 4,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "fixture_id": 52,
@@ -2600,7 +2600,7 @@
       "exact_scores": "[{\"home\":2,\"away\":0,\"probability\":0.10830489291528571},{\"home\":3,\"away\":0,\"probability\":0.10675252278349992},{\"home\":2,\"away\":1,\"probability\":0.08036223054314201},{\"home\":3,\"away\":1,\"probability\":0.07921037190535697},{\"home\":4,\"away\":0,\"probability\":0.0789168024677023}]",
       "corners_line": 9,
       "yellow_cards_line": 4.5,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "fixture_id": 53,
@@ -2612,7 +2612,7 @@
       "exact_scores": "[{\"home\":0,\"away\":4,\"probability\":0.1037258417663652},{\"home\":0,\"away\":5,\"probability\":0.09540702925670275},{\"home\":0,\"away\":3,\"probability\":0.09021599631777792},{\"home\":0,\"away\":6,\"probability\":0.07312948792526265},{\"home\":1,\"away\":4,\"probability\":0.0634802151610155}]",
       "corners_line": 10,
       "yellow_cards_line": 4.5,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "fixture_id": 54,
@@ -2624,7 +2624,7 @@
       "exact_scores": "[{\"home\":1,\"away\":1,\"probability\":0.09784909996023888},{\"home\":2,\"away\":1,\"probability\":0.09403298506178955},{\"home\":1,\"away\":0,\"probability\":0.0713185859768505},{\"home\":2,\"away\":0,\"probability\":0.06853716112375331},{\"home\":1,\"away\":2,\"probability\":0.06712448257272388}]",
       "corners_line": 9.5,
       "yellow_cards_line": 4,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "fixture_id": 55,
@@ -2636,7 +2636,7 @@
       "exact_scores": "[{\"home\":2,\"away\":0,\"probability\":0.09669386412208059},{\"home\":2,\"away\":1,\"probability\":0.09451825217933377},{\"home\":3,\"away\":0,\"probability\":0.08032036979740827},{\"home\":3,\"away\":1,\"probability\":0.07851316147696659},{\"home\":1,\"away\":0,\"probability\":0.07760342224886083}]",
       "corners_line": 10,
       "yellow_cards_line": 4,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "fixture_id": 56,
@@ -2648,7 +2648,7 @@
       "exact_scores": "[{\"home\":1,\"away\":1,\"probability\":0.0891550889780897},{\"home\":1,\"away\":2,\"probability\":0.0887316023054438},{\"home\":2,\"away\":1,\"probability\":0.06954096940290996},{\"home\":2,\"away\":2,\"probability\":0.06921064979824616},{\"home\":1,\"away\":3,\"probability\":0.05887341812966198}]",
       "corners_line": 9.5,
       "yellow_cards_line": 4,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "fixture_id": 57,
@@ -2660,7 +2660,7 @@
       "exact_scores": "[{\"home\":3,\"away\":1,\"probability\":0.08238994500486059},{\"home\":2,\"away\":1,\"probability\":0.08088018161471915},{\"home\":3,\"away\":0,\"probability\":0.07861635973746238},{\"home\":2,\"away\":0,\"probability\":0.0771757458155717},{\"home\":4,\"away\":1,\"probability\":0.0629459179837135}]",
       "corners_line": 10,
       "yellow_cards_line": 4,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "fixture_id": 58,
@@ -2672,7 +2672,7 @@
       "exact_scores": "[{\"home\":1,\"away\":1,\"probability\":0.10926588680241424},{\"home\":1,\"away\":2,\"probability\":0.08825952006465013},{\"home\":2,\"away\":1,\"probability\":0.07916313498834913},{\"home\":0,\"away\":1,\"probability\":0.07540778937364681},{\"home\":1,\"away\":0,\"probability\":0.06763595592845201}]",
       "corners_line": 9,
       "yellow_cards_line": 4,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "fixture_id": 59,
@@ -2684,7 +2684,7 @@
       "exact_scores": "[{\"home\":1,\"away\":2,\"probability\":0.08794586322314309},{\"home\":1,\"away\":3,\"probability\":0.079913474382096},{\"home\":0,\"away\":2,\"probability\":0.07313585299221878},{\"home\":0,\"away\":3,\"probability\":0.06645611175226279},{\"home\":1,\"away\":1,\"probability\":0.06452374411089}]",
       "corners_line": 10,
       "yellow_cards_line": 4,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "fixture_id": 60,
@@ -2696,7 +2696,7 @@
       "exact_scores": "[{\"home\":1,\"away\":1,\"probability\":0.10799078422632856},{\"home\":2,\"away\":1,\"probability\":0.0894973624275698},{\"home\":1,\"away\":2,\"probability\":0.07742939229027758},{\"home\":1,\"away\":0,\"probability\":0.0753073809109683},{\"home\":0,\"away\":1,\"probability\":0.06515281099627664}]",
       "corners_line": 9,
       "yellow_cards_line": 4,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "fixture_id": 61,
@@ -2708,7 +2708,7 @@
       "exact_scores": "[{\"home\":2,\"away\":1,\"probability\":0.07946556890438938},{\"home\":1,\"away\":1,\"probability\":0.07715103777125182},{\"home\":2,\"away\":2,\"probability\":0.0726315299786119},{\"home\":1,\"away\":2,\"probability\":0.07051604852292416},{\"home\":3,\"away\":1,\"probability\":0.05456635731434738}]",
       "corners_line": 10.5,
       "yellow_cards_line": 4,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "fixture_id": 62,
@@ -2720,7 +2720,7 @@
       "exact_scores": "[{\"home\":1,\"away\":1,\"probability\":0.09350287735763528},{\"home\":2,\"away\":1,\"probability\":0.09116530542369439},{\"home\":1,\"away\":2,\"probability\":0.0691453778059713},{\"home\":2,\"away\":2,\"probability\":0.06741674336082201},{\"home\":1,\"away\":0,\"probability\":0.06322033627967226}]",
       "corners_line": 9,
       "yellow_cards_line": 4.5,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "fixture_id": 63,
@@ -2732,7 +2732,7 @@
       "exact_scores": "[{\"home\":2,\"away\":1,\"probability\":0.08336190439075906},{\"home\":3,\"away\":1,\"probability\":0.08079157900537733},{\"home\":2,\"away\":0,\"probability\":0.06889413586013146},{\"home\":3,\"away\":0,\"probability\":0.06676990000444408},{\"home\":4,\"away\":1,\"probability\":0.05872537898953363}]",
       "corners_line": 10,
       "yellow_cards_line": 4,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "fixture_id": 64,
@@ -2744,7 +2744,7 @@
       "exact_scores": "[{\"home\":2,\"away\":0,\"probability\":0.08714191314524375},{\"home\":2,\"away\":1,\"probability\":0.08679334549266278},{\"home\":3,\"away\":0,\"probability\":0.08243624983540061},{\"home\":3,\"away\":1,\"probability\":0.08210650483605902},{\"home\":1,\"away\":0,\"probability\":0.061410791504752454}]",
       "corners_line": 9.5,
       "yellow_cards_line": 4,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "fixture_id": 65,
@@ -2756,7 +2756,7 @@
       "exact_scores": "[{\"home\":0,\"away\":3,\"probability\":0.08316599343946889},{\"home\":1,\"away\":3,\"probability\":0.08216800151819527},{\"home\":0,\"away\":2,\"probability\":0.0787059874821472},{\"home\":1,\"away\":2,\"probability\":0.07776151563236146},{\"home\":0,\"away\":4,\"probability\":0.0659090498007791}]",
       "corners_line": 9.5,
       "yellow_cards_line": 4,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "fixture_id": 66,
@@ -2768,7 +2768,7 @@
       "exact_scores": "[{\"home\":2,\"away\":1,\"probability\":0.090436005523574},{\"home\":3,\"away\":1,\"probability\":0.07845323479170045},{\"home\":2,\"away\":0,\"probability\":0.07424959402592282},{\"home\":1,\"away\":1,\"probability\":0.06949933181446609},{\"home\":3,\"away\":0,\"probability\":0.06441152281748806}]",
       "corners_line": 9.5,
       "yellow_cards_line": 4,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "fixture_id": 67,
@@ -2780,7 +2780,7 @@
       "exact_scores": "[{\"home\":2,\"away\":1,\"probability\":0.0799298931865758},{\"home\":1,\"away\":1,\"probability\":0.07870988989323072},{\"home\":2,\"away\":2,\"probability\":0.07259632548670747},{\"home\":1,\"away\":2,\"probability\":0.0714882574955268},{\"home\":3,\"away\":1,\"probability\":0.05411253768731182}]",
       "corners_line": 10,
       "yellow_cards_line": 4,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "fixture_id": 68,
@@ -2792,7 +2792,7 @@
       "exact_scores": "[{\"home\":1,\"away\":2,\"probability\":0.07763680802692875},{\"home\":1,\"away\":1,\"probability\":0.07418710752692666},{\"home\":2,\"away\":2,\"probability\":0.07282332592925916},{\"home\":2,\"away\":1,\"probability\":0.06958750686025719},{\"home\":1,\"away\":3,\"probability\":0.05416461306678729}]",
       "corners_line": 9.5,
       "yellow_cards_line": 4,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "fixture_id": 69,
@@ -2804,7 +2804,7 @@
       "exact_scores": "[{\"home\":2,\"away\":1,\"probability\":0.08348544689150575},{\"home\":1,\"away\":1,\"probability\":0.07435800213004296},{\"home\":2,\"away\":2,\"probability\":0.07025300355920208},{\"home\":1,\"away\":2,\"probability\":0.06257225879243114},{\"home\":3,\"away\":1,\"probability\":0.06248885699829204}]",
       "corners_line": 9.5,
       "yellow_cards_line": 4,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "fixture_id": 70,
@@ -2816,7 +2816,7 @@
       "exact_scores": "[{\"home\":2,\"away\":1,\"probability\":0.07720669319475358},{\"home\":1,\"away\":1,\"probability\":0.0763289107214568},{\"home\":2,\"away\":2,\"probability\":0.07303753176223687},{\"home\":1,\"away\":2,\"probability\":0.07220714954249813},{\"home\":3,\"away\":1,\"probability\":0.05206304677766218}]",
       "corners_line": 9.5,
       "yellow_cards_line": 4,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "fixture_id": 71,
@@ -2828,7 +2828,7 @@
       "exact_scores": "[{\"home\":1,\"away\":2,\"probability\":0.08415163307350552},{\"home\":1,\"away\":1,\"probability\":0.08294887439478119},{\"home\":2,\"away\":2,\"probability\":0.07140266066286945},{\"home\":2,\"away\":1,\"probability\":0.07038211992397184},{\"home\":1,\"away\":3,\"probability\":0.05691455450204758}]",
       "corners_line": 9.5,
       "yellow_cards_line": 4,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "fixture_id": 72,
@@ -2840,441 +2840,441 @@
       "exact_scores": "[{\"home\":2,\"away\":1,\"probability\":0.07670483484601037},{\"home\":2,\"away\":2,\"probability\":0.07202583992040373},{\"home\":1,\"away\":1,\"probability\":0.06850175025319076},{\"home\":1,\"away\":2,\"probability\":0.06432314348774612},{\"home\":3,\"away\":1,\"probability\":0.05726015921254675}]",
       "corners_line": 9.5,
       "yellow_cards_line": 4,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "timestamp": "2026-06-11T04:40:20.193Z"
     }
   ],
   "tournament_sims": [
     {
       "team_id": "USA",
       "champion_prob": 0.0096,
-      "reach_final_prob": 0.0355,
-      "reach_semi_prob": 0.1211,
-      "reach_quarter_prob": 0.2668,
-      "reach_r32_prob": 0.8972,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "reach_final_prob": 0.0379,
+      "reach_semi_prob": 0.1236,
+      "reach_quarter_prob": 0.2736,
+      "reach_r32_prob": 0.9015,
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "team_id": "COL",
-      "champion_prob": 0.0228,
-      "reach_final_prob": 0.0725,
-      "reach_semi_prob": 0.2047,
-      "reach_quarter_prob": 0.3824,
-      "reach_r32_prob": 0.9474,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "champion_prob": 0.0209,
+      "reach_final_prob": 0.0701,
+      "reach_semi_prob": 0.1977,
+      "reach_quarter_prob": 0.3841,
+      "reach_r32_prob": 0.9499,
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "team_id": "SEN",
-      "champion_prob": 0.005,
-      "reach_final_prob": 0.0212,
+      "champion_prob": 0.0043,
+      "reach_final_prob": 0.0215,
       "reach_semi_prob": 0.0776,
-      "reach_quarter_prob": 0.1912,
-      "reach_r32_prob": 0.8461,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "reach_quarter_prob": 0.1945,
+      "reach_r32_prob": 0.8287,
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "team_id": "NZL",
       "champion_prob": 0,
       "reach_final_prob": 0,
-      "reach_semi_prob": 0.0008,
+      "reach_semi_prob": 0.0007,
       "reach_quarter_prob": 0.0031,
-      "reach_r32_prob": 0.1118,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "reach_r32_prob": 0.1092,
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "team_id": "MEX",
-      "champion_prob": 0.0019,
-      "reach_final_prob": 0.0119,
-      "reach_semi_prob": 0.0471,
-      "reach_quarter_prob": 0.1224,
-      "reach_r32_prob": 0.7086,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "champion_prob": 0.0025,
+      "reach_final_prob": 0.0121,
+      "reach_semi_prob": 0.0462,
+      "reach_quarter_prob": 0.1189,
+      "reach_r32_prob": 0.7073,
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "team_id": "ITA",
       "champion_prob": 0.0471,
-      "reach_final_prob": 0.1197,
-      "reach_semi_prob": 0.2805,
-      "reach_quarter_prob": 0.4541,
-      "reach_r32_prob": 0.958,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "reach_final_prob": 0.1239,
+      "reach_semi_prob": 0.2845,
+      "reach_quarter_prob": 0.4531,
+      "reach_r32_prob": 0.9561,
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "team_id": "MAR",
-      "champion_prob": 0.0121,
-      "reach_final_prob": 0.0404,
-      "reach_semi_prob": 0.123,
-      "reach_quarter_prob": 0.2447,
-      "reach_r32_prob": 0.866,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "champion_prob": 0.0108,
+      "reach_final_prob": 0.0397,
+      "reach_semi_prob": 0.125,
+      "reach_quarter_prob": 0.2498,
+      "reach_r32_prob": 0.8718,
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "team_id": "UZB",
-      "champion_prob": 0.0001,
-      "reach_final_prob": 0.0004,
-      "reach_semi_prob": 0.0014,
-      "reach_quarter_prob": 0.0111,
-      "reach_r32_prob": 0.2086,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "champion_prob": 0,
+      "reach_final_prob": 0.0002,
+      "reach_semi_prob": 0.0029,
+      "reach_quarter_prob": 0.0115,
+      "reach_r32_prob": 0.2088,
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "team_id": "CAN",
-      "champion_prob": 0.001,
-      "reach_final_prob": 0.0036,
-      "reach_semi_prob": 0.0145,
-      "reach_quarter_prob": 0.0721,
-      "reach_r32_prob": 0.5909,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "champion_prob": 0.0007,
+      "reach_final_prob": 0.0043,
+      "reach_semi_prob": 0.014,
+      "reach_quarter_prob": 0.0684,
+      "reach_r32_prob": 0.5828,
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "team_id": "GER",
-      "champion_prob": 0.0336,
-      "reach_final_prob": 0.0911,
-      "reach_semi_prob": 0.1654,
-      "reach_quarter_prob": 0.4789,
-      "reach_r32_prob": 0.9604,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "champion_prob": 0.0286,
+      "reach_final_prob": 0.0865,
+      "reach_semi_prob": 0.1594,
+      "reach_quarter_prob": 0.4698,
+      "reach_r32_prob": 0.9581,
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "team_id": "EGY",
-      "champion_prob": 0.0004,
-      "reach_final_prob": 0.0041,
-      "reach_semi_prob": 0.0151,
-      "reach_quarter_prob": 0.0759,
-      "reach_r32_prob": 0.6026,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "champion_prob": 0.0007,
+      "reach_final_prob": 0.0033,
+      "reach_semi_prob": 0.016,
+      "reach_quarter_prob": 0.0806,
+      "reach_r32_prob": 0.6212,
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "team_id": "AUS",
-      "champion_prob": 0.0002,
-      "reach_final_prob": 0.0025,
-      "reach_semi_prob": 0.0122,
-      "reach_quarter_prob": 0.0652,
-      "reach_r32_prob": 0.56,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "champion_prob": 0.0005,
+      "reach_final_prob": 0.0032,
+      "reach_semi_prob": 0.0107,
+      "reach_quarter_prob": 0.0608,
+      "reach_r32_prob": 0.5583,
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "team_id": "ARG",
-      "champion_prob": 0.2837,
-      "reach_final_prob": 0.464,
-      "reach_semi_prob": 0.5908,
-      "reach_quarter_prob": 0.7269,
-      "reach_r32_prob": 0.9978,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "champion_prob": 0.292,
+      "reach_final_prob": 0.4698,
+      "reach_semi_prob": 0.5935,
+      "reach_quarter_prob": 0.7208,
+      "reach_r32_prob": 0.9974,
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "team_id": "DEN",
-      "champion_prob": 0.0052,
-      "reach_final_prob": 0.0198,
+      "champion_prob": 0.0046,
+      "reach_final_prob": 0.0197,
       "reach_semi_prob": 0.0492,
-      "reach_quarter_prob": 0.1047,
-      "reach_r32_prob": 0.8228,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "reach_quarter_prob": 0.1123,
+      "reach_r32_prob": 0.8215,
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "team_id": "ALG",
-      "champion_prob": 0.0001,
-      "reach_final_prob": 0.0015,
+      "champion_prob": 0.0002,
+      "reach_final_prob": 0.0011,
       "reach_semi_prob": 0.0077,
-      "reach_quarter_prob": 0.0308,
-      "reach_r32_prob": 0.4773,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "reach_quarter_prob": 0.0311,
+      "reach_r32_prob": 0.477,
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "team_id": "JAM",
-      "champion_prob": 0.0001,
-      "reach_final_prob": 0.0005,
-      "reach_semi_prob": 0.0023,
+      "champion_prob": 0,
+      "reach_final_prob": 0,
+      "reach_semi_prob": 0.0017,
       "reach_quarter_prob": 0.0085,
-      "reach_r32_prob": 0.2428,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "reach_r32_prob": 0.2453,
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "team_id": "BRA",
-      "champion_prob": 0.1225,
-      "reach_final_prob": 0.2134,
-      "reach_semi_prob": 0.3649,
-      "reach_quarter_prob": 0.6357,
-      "reach_r32_prob": 0.9959,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "champion_prob": 0.1234,
+      "reach_final_prob": 0.2109,
+      "reach_semi_prob": 0.3699,
+      "reach_quarter_prob": 0.6365,
+      "reach_r32_prob": 0.9966,
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "team_id": "POL",
-      "champion_prob": 0.0006,
-      "reach_final_prob": 0.0027,
-      "reach_semi_prob": 0.0141,
-      "reach_quarter_prob": 0.0606,
-      "reach_r32_prob": 0.6194,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "champion_prob": 0.0005,
+      "reach_final_prob": 0.0037,
+      "reach_semi_prob": 0.0153,
+      "reach_quarter_prob": 0.0551,
+      "reach_r32_prob": 0.6125,
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "team_id": "JPN",
-      "champion_prob": 0.0113,
-      "reach_final_prob": 0.0326,
-      "reach_semi_prob": 0.0869,
-      "reach_quarter_prob": 0.2248,
-      "reach_r32_prob": 0.9423,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "champion_prob": 0.0114,
+      "reach_final_prob": 0.0312,
+      "reach_semi_prob": 0.0826,
+      "reach_quarter_prob": 0.2183,
+      "reach_r32_prob": 0.9405,
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "team_id": "HON",
       "champion_prob": 0,
       "reach_final_prob": 0,
-      "reach_semi_prob": 0.0001,
-      "reach_quarter_prob": 0.001,
-      "reach_r32_prob": 0.075,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "reach_semi_prob": 0,
+      "reach_quarter_prob": 0.0015,
+      "reach_r32_prob": 0.0692,
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "team_id": "FRA",
-      "champion_prob": 0.139,
-      "reach_final_prob": 0.2318,
-      "reach_semi_prob": 0.3833,
-      "reach_quarter_prob": 0.5964,
-      "reach_r32_prob": 0.9939,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "champion_prob": 0.1401,
+      "reach_final_prob": 0.2278,
+      "reach_semi_prob": 0.3754,
+      "reach_quarter_prob": 0.5893,
+      "reach_r32_prob": 0.9921,
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "team_id": "ECU",
-      "champion_prob": 0.0032,
-      "reach_final_prob": 0.012,
-      "reach_semi_prob": 0.0361,
-      "reach_quarter_prob": 0.1069,
-      "reach_r32_prob": 0.7654,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "champion_prob": 0.0031,
+      "reach_final_prob": 0.0126,
+      "reach_semi_prob": 0.0393,
+      "reach_quarter_prob": 0.1075,
+      "reach_r32_prob": 0.7682,
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "team_id": "KOR",
-      "champion_prob": 0.0005,
-      "reach_final_prob": 0.0046,
-      "reach_semi_prob": 0.0184,
-      "reach_quarter_prob": 0.0643,
-      "reach_r32_prob": 0.6172,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "champion_prob": 0.0013,
+      "reach_final_prob": 0.0054,
+      "reach_semi_prob": 0.0203,
+      "reach_quarter_prob": 0.0624,
+      "reach_r32_prob": 0.6206,
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "team_id": "PAN",
-      "champion_prob": 0,
-      "reach_final_prob": 0.0003,
-      "reach_semi_prob": 0.0019,
-      "reach_quarter_prob": 0.0101,
-      "reach_r32_prob": 0.2477,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "champion_prob": 0.0001,
+      "reach_final_prob": 0.0004,
+      "reach_semi_prob": 0.0023,
+      "reach_quarter_prob": 0.0106,
+      "reach_r32_prob": 0.2473,
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "team_id": "ENG",
-      "champion_prob": 0.0585,
-      "reach_final_prob": 0.1172,
-      "reach_semi_prob": 0.2366,
-      "reach_quarter_prob": 0.4676,
-      "reach_r32_prob": 0.9909,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "champion_prob": 0.0625,
+      "reach_final_prob": 0.1176,
+      "reach_semi_prob": 0.2414,
+      "reach_quarter_prob": 0.4748,
+      "reach_r32_prob": 0.992,
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "team_id": "URU",
-      "champion_prob": 0.0109,
-      "reach_final_prob": 0.0293,
-      "reach_semi_prob": 0.0808,
-      "reach_quarter_prob": 0.2117,
-      "reach_r32_prob": 0.9496,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "champion_prob": 0.0107,
+      "reach_final_prob": 0.0275,
+      "reach_semi_prob": 0.0785,
+      "reach_quarter_prob": 0.211,
+      "reach_r32_prob": 0.9514,
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "team_id": "TUN",
-      "champion_prob": 0,
-      "reach_final_prob": 0.0001,
-      "reach_semi_prob": 0.0028,
-      "reach_quarter_prob": 0.017,
-      "reach_r32_prob": 0.3583,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "champion_prob": 0.0001,
+      "reach_final_prob": 0.0007,
+      "reach_semi_prob": 0.0037,
+      "reach_quarter_prob": 0.0186,
+      "reach_r32_prob": 0.3707,
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "team_id": "IRQ",
       "champion_prob": 0,
       "reach_final_prob": 0.0002,
-      "reach_semi_prob": 0.001,
-      "reach_quarter_prob": 0.007,
-      "reach_r32_prob": 0.2044,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "reach_semi_prob": 0.0012,
+      "reach_quarter_prob": 0.0067,
+      "reach_r32_prob": 0.205,
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "team_id": "ESP",
-      "champion_prob": 0.118,
-      "reach_final_prob": 0.1957,
-      "reach_semi_prob": 0.34,
-      "reach_quarter_prob": 0.5301,
+      "champion_prob": 0.1115,
+      "reach_final_prob": 0.1932,
+      "reach_semi_prob": 0.3369,
+      "reach_quarter_prob": 0.5265,
       "reach_r32_prob": 0.9971,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "team_id": "CHI",
-      "champion_prob": 0.0002,
-      "reach_final_prob": 0.002,
-      "reach_semi_prob": 0.0095,
-      "reach_quarter_prob": 0.0393,
-      "reach_r32_prob": 0.6093,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "champion_prob": 0.0005,
+      "reach_final_prob": 0.0021,
+      "reach_semi_prob": 0.0102,
+      "reach_quarter_prob": 0.0425,
+      "reach_r32_prob": 0.61,
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "team_id": "NGA",
-      "champion_prob": 0.001,
-      "reach_final_prob": 0.0048,
-      "reach_semi_prob": 0.0183,
-      "reach_quarter_prob": 0.0612,
-      "reach_r32_prob": 0.7492,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "champion_prob": 0.0004,
+      "reach_final_prob": 0.0027,
+      "reach_semi_prob": 0.0167,
+      "reach_quarter_prob": 0.0604,
+      "reach_r32_prob": 0.7485,
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "team_id": "KSA",
-      "champion_prob": 0.0001,
-      "reach_final_prob": 0.0001,
-      "reach_semi_prob": 0.0011,
-      "reach_quarter_prob": 0.0045,
-      "reach_r32_prob": 0.2275,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "champion_prob": 0,
+      "reach_final_prob": 0,
+      "reach_semi_prob": 0.0007,
+      "reach_quarter_prob": 0.0061,
+      "reach_r32_prob": 0.2281,
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "team_id": "POR",
-      "champion_prob": 0.0503,
-      "reach_final_prob": 0.0952,
-      "reach_semi_prob": 0.1963,
-      "reach_quarter_prob": 0.3592,
-      "reach_r32_prob": 0.9943,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "champion_prob": 0.0464,
+      "reach_final_prob": 0.094,
+      "reach_semi_prob": 0.1976,
+      "reach_quarter_prob": 0.3656,
+      "reach_r32_prob": 0.9939,
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "team_id": "SUI",
-      "champion_prob": 0.0037,
+      "champion_prob": 0.0036,
       "reach_final_prob": 0.0127,
-      "reach_semi_prob": 0.0446,
-      "reach_quarter_prob": 0.1229,
-      "reach_r32_prob": 0.9033,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "reach_semi_prob": 0.0399,
+      "reach_quarter_prob": 0.1192,
+      "reach_r32_prob": 0.9032,
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "team_id": "CIV",
       "champion_prob": 0.0012,
-      "reach_final_prob": 0.0057,
-      "reach_semi_prob": 0.0197,
-      "reach_quarter_prob": 0.0674,
-      "reach_r32_prob": 0.7456,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "reach_final_prob": 0.0046,
+      "reach_semi_prob": 0.0202,
+      "reach_quarter_prob": 0.0678,
+      "reach_r32_prob": 0.7461,
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "team_id": "CHN",
       "champion_prob": 0,
       "reach_final_prob": 0,
-      "reach_semi_prob": 0,
-      "reach_quarter_prob": 0.0005,
-      "reach_r32_prob": 0.0729,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "reach_semi_prob": 0.0001,
+      "reach_quarter_prob": 0.0006,
+      "reach_r32_prob": 0.0725,
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "team_id": "NED",
-      "champion_prob": 0.0271,
-      "reach_final_prob": 0.0598,
-      "reach_semi_prob": 0.1462,
-      "reach_quarter_prob": 0.3236,
-      "reach_r32_prob": 0.9757,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "champion_prob": 0.0319,
+      "reach_final_prob": 0.0692,
+      "reach_semi_prob": 0.1481,
+      "reach_quarter_prob": 0.3164,
+      "reach_r32_prob": 0.9731,
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "team_id": "PER",
-      "champion_prob": 0.0001,
-      "reach_final_prob": 0.0018,
-      "reach_semi_prob": 0.0115,
-      "reach_quarter_prob": 0.0471,
-      "reach_r32_prob": 0.5837,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "champion_prob": 0.0006,
+      "reach_final_prob": 0.0021,
+      "reach_semi_prob": 0.0108,
+      "reach_quarter_prob": 0.046,
+      "reach_r32_prob": 0.5866,
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "team_id": "GHA",
       "champion_prob": 0,
-      "reach_final_prob": 0.0009,
-      "reach_semi_prob": 0.0059,
-      "reach_quarter_prob": 0.0273,
-      "reach_r32_prob": 0.4621,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "reach_final_prob": 0.0005,
+      "reach_semi_prob": 0.0044,
+      "reach_quarter_prob": 0.0224,
+      "reach_r32_prob": 0.4579,
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "team_id": "IRN",
-      "champion_prob": 0.0007,
-      "reach_final_prob": 0.0033,
-      "reach_semi_prob": 0.0129,
-      "reach_quarter_prob": 0.0524,
-      "reach_r32_prob": 0.6654,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "champion_prob": 0.0003,
+      "reach_final_prob": 0.0026,
+      "reach_semi_prob": 0.0141,
+      "reach_quarter_prob": 0.0548,
+      "reach_r32_prob": 0.6635,
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "team_id": "BEL",
-      "champion_prob": 0.0157,
-      "reach_final_prob": 0.0383,
-      "reach_semi_prob": 0.0976,
-      "reach_quarter_prob": 0.2189,
-      "reach_r32_prob": 0.9597,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "champion_prob": 0.0141,
+      "reach_final_prob": 0.0382,
+      "reach_semi_prob": 0.0999,
+      "reach_quarter_prob": 0.2216,
+      "reach_r32_prob": 0.9585,
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "team_id": "CRO",
-      "champion_prob": 0.0074,
-      "reach_final_prob": 0.0237,
-      "reach_semi_prob": 0.0656,
-      "reach_quarter_prob": 0.1639,
-      "reach_r32_prob": 0.9349,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "champion_prob": 0.0095,
+      "reach_final_prob": 0.0253,
+      "reach_semi_prob": 0.0684,
+      "reach_quarter_prob": 0.1708,
+      "reach_r32_prob": 0.9329,
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "team_id": "CMR",
-      "champion_prob": 0,
-      "reach_final_prob": 0.0015,
-      "reach_semi_prob": 0.0086,
-      "reach_quarter_prob": 0.0296,
-      "reach_r32_prob": 0.4892,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "champion_prob": 0.0001,
+      "reach_final_prob": 0.0011,
+      "reach_semi_prob": 0.0059,
+      "reach_quarter_prob": 0.0295,
+      "reach_r32_prob": 0.4891,
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "team_id": "CRC",
       "champion_prob": 0,
-      "reach_final_prob": 0,
-      "reach_semi_prob": 0.002,
-      "reach_quarter_prob": 0.0118,
-      "reach_r32_prob": 0.2736,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "reach_final_prob": 0.0004,
+      "reach_semi_prob": 0.0021,
+      "reach_quarter_prob": 0.0093,
+      "reach_r32_prob": 0.2767,
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "team_id": "AUT",
-      "champion_prob": 0.0025,
+      "champion_prob": 0.0021,
       "reach_final_prob": 0.0089,
-      "reach_semi_prob": 0.031,
-      "reach_quarter_prob": 0.1048,
-      "reach_r32_prob": 0.7955,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "reach_semi_prob": 0.0333,
+      "reach_quarter_prob": 0.1088,
+      "reach_r32_prob": 0.7965,
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "team_id": "TUR",
-      "champion_prob": 0.0017,
-      "reach_final_prob": 0.0056,
-      "reach_semi_prob": 0.02,
-      "reach_quarter_prob": 0.0778,
-      "reach_r32_prob": 0.7408,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "champion_prob": 0.0014,
+      "reach_final_prob": 0.0054,
+      "reach_semi_prob": 0.0206,
+      "reach_quarter_prob": 0.0821,
+      "reach_r32_prob": 0.7352,
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "team_id": "SRB",
       "champion_prob": 0.0003,
-      "reach_final_prob": 0.0029,
-      "reach_semi_prob": 0.0102,
-      "reach_quarter_prob": 0.047,
-      "reach_r32_prob": 0.5792,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "reach_final_prob": 0.0019,
+      "reach_semi_prob": 0.0135,
+      "reach_quarter_prob": 0.0483,
+      "reach_r32_prob": 0.5861,
+      "timestamp": "2026-06-11T04:40:20.193Z"
     },
     {
       "team_id": "UKR",
-      "champion_prob": 0.0006,
-      "reach_final_prob": 0.0042,
-      "reach_semi_prob": 0.0187,
-      "reach_quarter_prob": 0.0688,
-      "reach_r32_prob": 0.6827,
-      "timestamp": "2026-06-11T01:57:55.826Z"
+      "champion_prob": 0.0004,
+      "reach_final_prob": 0.0038,
+      "reach_semi_prob": 0.0163,
+      "reach_quarter_prob": 0.0681,
+      "reach_r32_prob": 0.6835,
+      "timestamp": "2026-06-11T04:40:20.193Z"
     }
   ]
 }
