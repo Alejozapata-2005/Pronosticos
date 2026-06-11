@@ -1,6 +1,7 @@
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 import { getFixtureDetail } from "@/lib/actions";
+import { validateFixtureId } from "@/lib/constants/fixture-mapping";
 import { ExactScoresChart } from "@/components/Charts";
 import { ArrowLeft, Target, AlertCircle, Sparkles, CornerDownRight, Instagram } from "lucide-react";
 import Link from "next/link";
@@ -10,7 +11,7 @@ interface PageProps {
   params: Promise<{ id: string }>;
 }
 
-export const revalidate = 0;
+export const revalidate = 3600;
 
 export default async function MatchPage({ params }: PageProps) {
   const { id } = await params;
@@ -20,6 +21,13 @@ export default async function MatchPage({ params }: PageProps) {
     return notFound();
   }
 
+  // Validate fixture ID against known World Cup 2026 fixtures
+  const validation = validateFixtureId(fixtureId);
+  if (!validation.valid) {
+      console.warn(`[Match Route] ${validation.message}`);
+          return notFound();
+    }
+              
   // Control de seguridad para evitar crashes en el servidor de Vercel
   let data = null;
   try {
